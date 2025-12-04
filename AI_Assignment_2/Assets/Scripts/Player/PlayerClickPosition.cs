@@ -16,7 +16,7 @@ public class PlayerClickPosition : MonoBehaviour
         {
             Vector3 clickPoint = hit.point;
 
-            companion.GetCompanion.GiveCommand(clickPoint);
+            companion.GetICompanion.GiveCommand(clickPoint);
         }
     }
 }

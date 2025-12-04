@@ -5,5 +5,5 @@ using UnityEngine;
 public class CompanionScriptWrapper : MonoBehaviour
 {
     [SerializeField] CompanionScript companionScript;
-    public ICompanion GetCompanion { get {  return (ICompanion)companionScript; } }
+    public ICompanion GetICompanion { get {  return (ICompanion)companionScript; } }
 }
