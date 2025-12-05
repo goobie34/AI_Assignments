@@ -4,11 +4,16 @@ public interface ICompanion
     bool HasPlayerGivenCommand();
     bool HasTargetBeenVisited();
     bool CanSenseOrbs();
-    void GoToTarget();
+    bool HasOrbs();
+    bool HasSearched();
+    bool GoToTarget();
     void FollowPlayer();
-    void GoToOrb();
+    bool DeliverOrbs();
+    bool GoToOrb();
+    void PickUpOrb();
     bool SearchForOrbs();
-    void ReturnToPlayer();
+    bool ReturnToPlayer();
+    bool LookAround();
 
     void GiveCommand(Vector3 targetPoint);
 }  

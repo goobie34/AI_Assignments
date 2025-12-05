@@ -360,12 +360,32 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 1293713127}
     - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: searchSpeed
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: maxSearchTime
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: deliverCooldown
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: deliverDistance
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: goToOrbThreshold
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 6659916822244687931, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: m_Name
@@ -452,6 +472,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CompanionBT
   companionWrapper: {fileID: 379698541}
+  debugBool: 1
+  debugTimer: 0
+  debugTimerCap: 5
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0

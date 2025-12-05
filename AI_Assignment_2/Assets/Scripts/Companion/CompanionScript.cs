@@ -1,3 +1,4 @@
+using Mono.Cecil.Cil;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -17,26 +18,57 @@ public class CompanionScript : MonoBehaviour, ICompanion
     [SerializeField] float speed;
 
     [SerializeField] float returnToPlayerThreshold;
+    [SerializeField] float goToOrbThreshold;
     [SerializeField] GameObject player;
 
-    //[SerializeField] float searchSpeed;
-    //[SerializeField] float searchAngle;
-    //float searchTimer;
-    //[SerializeField] float maxSearchTime;    
-    //bool isSearching = false;
+    [SerializeField] float searchSpeed;
+    [SerializeField] float searchAngle;
+    float searchTimer = 0f;
+    [SerializeField] float maxSearchTime;
+    bool isSearching = false;
+    bool hasSearched = false;
 
-    //[SerializeField] float deliverCooldown;
+    [SerializeField] float deliverCooldown;
     [SerializeField] float deliverDistance;
-    //float deliverCooldownTimer;
+    float deliverTimer;
 
-    public bool HasPlayerGivenCommand() { Debug.Log("HAS PLAYER GIVEN COMMAND???"); return hasPlayerGivenComand; }
-    public bool HasTargetBeenVisited() { Debug.Log("HAS TARGET BEEN VISITED???");  return hasTargetBeenVisited; }
+    Transform bodyRotationBeforeSearch;
+
+    public bool HasPlayerGivenCommand() { /*Debug.Log("HAS PLAYER GIVEN COMMAND???");*/ return hasPlayerGivenComand; }
+    public bool HasTargetBeenVisited() { /*Debug.Log("HAS TARGET BEEN VISITED???");*/  return hasTargetBeenVisited; }
     public void GiveCommand(Vector3 targetPosition)
     {
         Debug.Log("COMMAND GIVEN");
         hasPlayerGivenComand = true;
         hasTargetBeenVisited = false;
         targetPoint = targetPosition;
+    }
+    public bool HasSearched()
+    {
+        return hasSearched;
+    }
+    public bool LookAround()
+    {
+        Debug.Log("LOOKING AROUND");
+        //if (!isSearching)
+        //{
+        //    //bodyRotationBeforeSearch = body;
+        //    isSearching = true;
+        //}
+        searchTimer += Time.deltaTime;
+        searchAngle = searchSpeed * Time.deltaTime;
+        transform.Rotate(Vector3.up, searchAngle);
+
+        if (CanSenseOrbs()) return true;
+
+        if (searchTimer > maxSearchTime)
+        {
+            searchTimer = 0;
+            hasSearched = true;
+            return true;
+        }
+
+        return false;
     }
 
     //private void Update()
@@ -47,14 +79,13 @@ public class CompanionScript : MonoBehaviour, ICompanion
     {
         targetPoint = targetPosition;
     }
-    public void GoToTarget()
+    public bool GoToTarget()
     {
         Debug.Log("Going to target");
 
+        if (targetPoint == null) return false;
 
-        if (targetPoint == null) return;
-
-        MoveTowards((Vector3)targetPoint);
+        if (CanSenseOrbs()) return true;
 
         Vector3 tempVec = (Vector3)targetPoint;
         tempVec.y = transform.position.y;
@@ -63,7 +94,11 @@ public class CompanionScript : MonoBehaviour, ICompanion
         {
             targetPoint = null;
             hasTargetBeenVisited = true;
+            return true;
         }
+
+        MoveTowards((Vector3)targetPoint);
+        return false;
     }
 
     public void FollowPlayer()
@@ -73,14 +108,26 @@ public class CompanionScript : MonoBehaviour, ICompanion
         if (Vector3.Distance(transform.position, player.transform.position) > returnToPlayerThreshold)
             MoveTowards(player.transform.position);
     }
-    public void GoToOrb()
+    public bool GoToOrb()
     {
         Debug.Log("Going to orb");
 
 
         if (closestOrb != null)
             MoveTowards((Vector3)closestOrb);
+
+        if (Vector3.Distance(transform.position, (Vector3)closestOrb) < goToOrbThreshold)
+        {
+            return true;
+        }
+        return false;
     }
+    public void PickUpOrb()
+    {
+        Debug.Log("PICKING UP ORB");
+        hasSearched = false; 
+    }
+
     public bool SearchForOrbs()
     {
         //Debug.Log("IS SEARCHING FOR ORBS");
@@ -117,22 +164,56 @@ public class CompanionScript : MonoBehaviour, ICompanion
         //animator.SetBool("IsSearching", false);
         //animator.enabled = false;
     }
-    public void ReturnToPlayer()
+    public bool ReturnToPlayer()
     {
         Debug.Log("Returning to player");
 
-        MoveTowards(player.transform.position);
+        if (CanSenseOrbs()) //interrupt this action if orbs are sensed nearby
+        {
+            return true;
+        }
 
         if (Vector3.Distance(transform.position, player.transform.position) < deliverDistance)
         {
-            while (orbPickupScript.OrbCount > 0)
+            //while (orbPickupScript.OrbCount > 0)
+            //{
+            //    orbPickupScript.Remove();
+            //    player.GetComponent<PickUpOrbScript>().Add();
+            //}
+            hasPlayerGivenComand = false;
+            return true;
+        }
+
+        MoveTowards(player.transform.position);
+
+        return false;
+    }
+    public bool HasOrbs()
+    {
+        return orbPickupScript.OrbCount > 0;
+    }
+    public bool DeliverOrbs()
+    {
+        Debug.Log("Delivering orbs");
+
+        if (!HasOrbs()) return true;
+
+        if (Vector3.Distance(transform.position, player.transform.position) < deliverDistance)
+        {
+            deliverTimer += Time.deltaTime;
+            if (deliverTimer > deliverCooldown)
             {
+                deliverTimer = 0;
                 orbPickupScript.Remove();
                 player.GetComponent<PickUpOrbScript>().Add();
             }
-            hasPlayerGivenComand = false;
+        }
+        else
+        {
+            MoveTowards(player.transform.position);
         }
 
+        return false;
     }
 
     public bool CanSenseOrbs()
