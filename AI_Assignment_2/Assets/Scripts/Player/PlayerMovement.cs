@@ -1,7 +1,6 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Windows;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -13,11 +12,14 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector3 movement = new Vector3(movementInput.x, 0, movementInput.y);
         controller.Move(movement * speed * Time.deltaTime);
-
     }
 
     public void OnMove(InputValue value)
     {
         movementInput = value.Get<Vector2>();
+    }
+    public void OnJump(InputValue value)
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

@@ -1,19 +1,25 @@
 using UnityEngine;
 public interface ICompanion
 {
+    //--- Called by player ---
+    void GiveCommand(Vector3 targetPoint);
+
+    //--- Called by behavior tree ---
+    //Conditions
     bool HasPlayerGivenCommand();
     bool HasTargetBeenVisited();
     bool CanSenseOrbs();
     bool HasOrbs();
     bool HasSearched();
+
+    //Completable actions
     bool GoToTarget();
-    void FollowPlayer();
     bool DeliverOrbs();
     bool GoToOrb();
-    void PickUpOrb();
-    bool SearchForOrbs();
     bool ReturnToPlayer();
     bool LookAround();
 
-    void GiveCommand(Vector3 targetPoint);
+    //Simple actions
+    void FollowPlayer();
+    void PickUpOrb();
 }  

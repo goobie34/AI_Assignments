@@ -5,21 +5,22 @@ public class PickUpOrbScript : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI orbCountText;
     [SerializeField] int orbCount;
-    public int OrbCount { get { return orbCount; }}
+    public int OrbCount { get { return orbCount; } }
+    void UpdateText() => orbCountText.text = orbCount.ToString();
 
     private void Start()
     {
-        orbCountText.text = orbCount.ToString();
+        UpdateText();
     }
     public void Add()
     {
         orbCount++;
-        orbCountText.text = orbCount.ToString();
+        UpdateText();
     }
     public void Remove()
     {
         orbCount--;
-        orbCountText.text = orbCount.ToString();
+        UpdateText();
     }
     private void OnTriggerEnter(Collider other)
     {
