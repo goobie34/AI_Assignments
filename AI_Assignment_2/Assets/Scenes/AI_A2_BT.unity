@@ -416,6 +416,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 835128878051393545, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: parentTransform
+      value: 
+      objectReference: {fileID: 379698544}
     - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: player
       value: 
@@ -482,7 +486,7 @@ PrefabInstance:
       objectReference: {fileID: 673076321}
     - target: {fileID: 7194792832767984060, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: m_VersionIndex
-      value: 9844
+      value: 9853
       objectReference: {fileID: 0}
     - target: {fileID: 9144899434805807737, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: cam
@@ -504,6 +508,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d643a311cd7390847b7ea4608f780142, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CompanionScriptWrapper
+--- !u!4 &379698544 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6881553798218624334, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+  m_PrefabInstance: {fileID: 339244266}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
