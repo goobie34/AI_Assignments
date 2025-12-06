@@ -14,9 +14,9 @@ public interface ICompanion
 
     //Completable actions
     bool GoToTarget();
-    bool DeliverOrbs();
     bool GoToOrb();
     bool ReturnToPlayer();
+    bool DeliverOrbs();
     bool LookAround();
 
     //Simple actions
