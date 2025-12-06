@@ -2,12 +2,13 @@ using UnityEngine;
 
 public class CompanionScript : MonoBehaviour, ICompanion
 {
-
+    //--- flags ---
     bool hasPlayerGivenComand = false;
     bool hasTargetBeenVisited = false;
     bool isSearching = false;
     bool hasSearched = false;
 
+    //--- positions ---
     Vector3? closestOrb = null;
     Vector3? targetPoint = null;
     Vector3 currentMoveDir = Vector3.zero;
@@ -51,31 +52,25 @@ public class CompanionScript : MonoBehaviour, ICompanion
         target.SetActive(true);
     }
 
-    //--- Methods called by behavior tree AI
+    //--- Methods called by behavior tree AI ---
+    //Conditions
     public bool HasPlayerGivenCommand() => hasPlayerGivenComand;
     public bool HasTargetBeenVisited() => hasTargetBeenVisited;
-    public bool HasSearched() => hasSearched;
-    public bool LookAround()
+    public bool CanSenseOrbs()
     {
-        searchTimer += Time.deltaTime;
-        searchAngle = searchSpeed * Time.deltaTime;
-        transform.Rotate(Vector3.up, searchAngle);
-
-        if (CanSenseOrbs()) return true;
-
-        if (searchTimer > maxSearchTime)
+        if (sensorScript != null)
         {
-            searchTimer = 0;
-            hasSearched = true;
-            return true;
+            closestOrb = sensorScript.GetClosestOrbPos(transform.position);
+            return sensorScript.SensesOrbs;
         }
 
+        closestOrb = null;
         return false;
     }
-    public void SetTargetPosition(Vector3 targetPosition)
-    {
-        targetPoint = targetPosition;
-    }
+    public bool HasOrbs() => orbPickupScript.OrbCount > 0;
+    public bool HasSearched() => hasSearched;
+
+    //Completable actions
     public bool GoToTarget()
     {
         if (targetPoint == null) return false;
@@ -96,12 +91,6 @@ public class CompanionScript : MonoBehaviour, ICompanion
         MoveTowards((Vector3)targetPoint);
         return false;
     }
-
-    public void FollowPlayer()
-    {
-        if (Vector3.Distance(transform.position, player.transform.position) > returnToPlayerThreshold)
-            MoveTowards(player.transform.position);
-    }
     public bool GoToOrb()
     {
         if (closestOrb != null)
@@ -112,11 +101,6 @@ public class CompanionScript : MonoBehaviour, ICompanion
             return true;
         }
         return false;
-    }
-    public void PickUpOrb()
-    {
-        //trigger for animation, particle system or sound effect goes here
-        hasSearched = false; 
     }
     public bool ReturnToPlayer()
     {
@@ -134,10 +118,6 @@ public class CompanionScript : MonoBehaviour, ICompanion
         MoveTowards(player.transform.position);
 
         return false;
-    }
-    public bool HasOrbs()
-    {
-        return orbPickupScript.OrbCount > 0;
     }
     public bool DeliverOrbs()
     {
@@ -160,20 +140,42 @@ public class CompanionScript : MonoBehaviour, ICompanion
 
         return false;
     }
-    public bool CanSenseOrbs()
+    public bool LookAround()
     {
-        if (sensorScript != null)
+        searchTimer += Time.deltaTime;
+        searchAngle = searchSpeed * Time.deltaTime;
+        transform.Rotate(Vector3.up, searchAngle);
+
+        if (CanSenseOrbs()) return true;
+
+        if (searchTimer > maxSearchTime)
         {
-            closestOrb = sensorScript.GetClosestOrbPos(transform.position);
-            return sensorScript.SensesOrbs;
+            searchTimer = 0;
+            hasSearched = true;
+            return true;
         }
 
-        closestOrb = null;
         return false;
     }
 
+    //Simple actions
+    public void FollowPlayer()
+    {
+        if (Vector3.Distance(transform.position, player.transform.position) > returnToPlayerThreshold)
+            MoveTowards(player.transform.position);
+    }
+    public void PickUpOrb()
+    {
+        //trigger for animation, particle system or sound effect goes here
+        hasSearched = false;
+    }
+
+    //--- Methods only for internal use ---
+
     //void MoveTowards(Vector3 targetPos)
-    //{
+    //{   
+    //    //original, pre-gpt
+
     //    Vector3 moveDirectionWithSpeed = (targetPos - transform.position).normalized * speed;
     //    controller.Move(moveDirectionWithSpeed * Time.deltaTime);
 
