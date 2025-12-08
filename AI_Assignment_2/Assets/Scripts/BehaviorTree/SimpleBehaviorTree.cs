@@ -6,7 +6,6 @@ namespace SimpleBehaviorTree
     public abstract class TaskBT
     {
         public enum TaskStatus { Running, Success, Failure};
-        public TaskStatus Status { get; protected set; }
         public abstract TaskStatus Tick();
         public virtual void Reset() { }
     }
@@ -42,12 +41,12 @@ namespace SimpleBehaviorTree
                 return TaskStatus.Failure;
 
             //if behavior completes in this tick, status for this action becomes success, otherwise it is running
-            Status = behavior() ? TaskStatus.Success : TaskStatus.Running;
-
-            return Status;
+            return behavior() ? TaskStatus.Success : TaskStatus.Running;
         }
     }
-
+    /// <summary>
+    /// Tick() returns true if condition is met.
+    /// </summary>
     public class ConditionBT : TaskBT
     {
         protected Func<bool> condition;
@@ -55,27 +54,37 @@ namespace SimpleBehaviorTree
 
         public override TaskStatus Tick()
         {
-            Status = condition() ? TaskStatus.Success : TaskStatus.Failure;
-            return Status;
+            if (condition == null)
+                return TaskStatus.Failure;
+
+            return condition() ? TaskStatus.Success : TaskStatus.Failure;
         }
     }
+    /// <summary>
+    /// Tick() returns true if condition is NOT met.
+    /// </summary>
     public class InvertedConditionBT : ConditionBT
     {
         public InvertedConditionBT(Func<bool> condition) : base(condition) {}
 
         public override TaskStatus Tick()   
         {
-            Status = condition() ? TaskStatus.Failure : TaskStatus.Success;
-            return Status;
+            if (condition == null)
+                return TaskStatus.Failure;
+
+            return condition() ? TaskStatus.Failure : TaskStatus.Success;
         }
     }
-
+    
     public abstract class CompositeTaskBT : TaskBT
     {
         protected List<TaskBT> childNodes = new();
         protected int currentChild;
         public CompositeTaskBT(List<TaskBT> childNodes) => this.childNodes = childNodes;
         public void AddChild(TaskBT child) => this.childNodes.Add(child);
+        /// <summary>
+        /// Resets entire subtree.
+        /// </summary>
         public override void Reset()
         {
             currentChild = 0;
@@ -96,7 +105,6 @@ namespace SimpleBehaviorTree
                 {
                     case TaskStatus.Running:
                         {
-                            Status = TaskStatus.Running;
                             return TaskStatus.Running;
                         }
                     case TaskStatus.Failure:
@@ -105,12 +113,14 @@ namespace SimpleBehaviorTree
                             return TaskStatus.Failure;
                         }
                 }
+
+                //if child succeded, try next child
                 currentChild++;
             }
 
+            //if we haven't yet returned from the while loop above, it means all tasks in this sequence have succeeded
             Reset();
-            Status = TaskStatus.Success;
-            return Status;
+            return TaskStatus.Success;
         }
     }
 
@@ -126,7 +136,6 @@ namespace SimpleBehaviorTree
                 {
                     case TaskStatus.Running:
                         {
-                            Status = TaskStatus.Running;
                             return TaskStatus.Running;
                         }
                     case TaskStatus.Success:
@@ -136,13 +145,13 @@ namespace SimpleBehaviorTree
                         }
                 }
 
-                //if child failed, try the next child
+                //if child failed, try next child
                 currentChild++;
             }
 
+            //if we did not return in the while loop, it means all tasks belonging to this selector failed 
             Reset();
-            Status = TaskStatus.Failure;
-            return Status;
+            return TaskStatus.Failure;
         }
     }
 }

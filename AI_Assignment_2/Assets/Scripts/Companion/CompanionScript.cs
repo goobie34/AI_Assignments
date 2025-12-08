@@ -20,6 +20,7 @@ public class CompanionScript : MonoBehaviour, ICompanion
     [SerializeField] OrbSensorScript sensorScript;
     [SerializeField] PickUpOrbScript orbPickupScript;
     [SerializeField] GameObject target;
+    [SerializeField] GameObject SearchIndicator;
 
     [Header("Movement")]
     [SerializeField] float speed;
@@ -47,6 +48,7 @@ public class CompanionScript : MonoBehaviour, ICompanion
         hasPlayerGivenComand = true;
         hasTargetBeenVisited = false;
         targetPoint = targetPosition;
+        hasSearched = false;
 
         target.transform.position = new Vector3(targetPosition.x, target.transform.position.y, targetPosition.z);
         target.SetActive(true);
@@ -142,16 +144,23 @@ public class CompanionScript : MonoBehaviour, ICompanion
     }
     public bool LookAround()
     {
+        SearchIndicator.SetActive(true);
+
         searchTimer += Time.deltaTime;
         searchAngle = searchSpeed * Time.deltaTime;
         transform.Rotate(Vector3.up, searchAngle);
 
-        if (CanSenseOrbs()) return true;
+        if (CanSenseOrbs())
+        {
+            SearchIndicator.SetActive(false);
+            return true;
+        }
 
         if (searchTimer > maxSearchTime)
         {
             searchTimer = 0;
             hasSearched = true;
+            SearchIndicator.SetActive(false);
             return true;
         }
 
