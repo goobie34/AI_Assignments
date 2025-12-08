@@ -22,4 +22,8 @@ public class PlayerMovement : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+    public void OnQuit(InputValue value)
+    {
+        Application.Quit();
+    }
 }

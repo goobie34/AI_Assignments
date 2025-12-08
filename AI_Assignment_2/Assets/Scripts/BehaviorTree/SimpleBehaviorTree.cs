@@ -136,7 +136,7 @@ namespace SimpleBehaviorTree
                 {
                     case TaskStatus.Running:
                         {
-                            return TaskStatus.Running;
+                            return TaskStatus.Running; 
                         }
                     case TaskStatus.Success:
                         {

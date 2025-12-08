@@ -416,10 +416,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 835128878051393545, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
-      propertyPath: parentTransform
+    - target: {fileID: 515891343983192108, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: cam
       value: 
-      objectReference: {fileID: 379698544}
+      objectReference: {fileID: 330585545}
     - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: player
       value: 
@@ -428,9 +428,9 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1146023259}
-    - target: {fileID: 1684834068674706343, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
-      propertyPath: targetPointThreshold
-      value: 0.5
+    - target: {fileID: 4465516664148275330, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6659916822244687931, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: m_Name
@@ -486,7 +486,7 @@ PrefabInstance:
       objectReference: {fileID: 673076321}
     - target: {fileID: 7194792832767984060, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: m_VersionIndex
-      value: 9853
+      value: 9862
       objectReference: {fileID: 0}
     - target: {fileID: 9144899434805807737, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
       propertyPath: cam
@@ -508,11 +508,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d643a311cd7390847b7ea4608f780142, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CompanionScriptWrapper
---- !u!4 &379698544 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6881553798218624334, guid: bef82b48170c97f4db46719b6c10c700, type: 3}
-  m_PrefabInstance: {fileID: 339244266}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1216,7 +1211,10 @@ MonoBehaviour:
 
     Give command with LMB
 
-    Press SPACE to reload scene'
+    Press SPACE to reload scene
+
+    Press
+    ESC to quit'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
