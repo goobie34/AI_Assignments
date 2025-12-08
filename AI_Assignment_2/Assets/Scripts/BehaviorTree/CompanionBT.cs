@@ -33,7 +33,7 @@ public class CompanionBT : TreeBT
                     new SequenceBT(new List<TaskBT>()
                     {
                         new InvertedConditionBT(companion.HasSearched),
-                        new CompleteableActionBT(companion.LookAround)
+                        new CompleteableActionBT(companion.SearchForOrbs)
                     }),
                     new CompleteableActionBT(companion.ReturnToPlayer)
                 })

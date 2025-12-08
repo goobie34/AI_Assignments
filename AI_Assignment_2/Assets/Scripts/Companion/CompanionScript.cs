@@ -142,7 +142,7 @@ public class CompanionScript : MonoBehaviour, ICompanion
 
         return false;
     }
-    public bool LookAround()
+    public bool SearchForOrbs()
     {
         SearchIndicator.SetActive(true);
 

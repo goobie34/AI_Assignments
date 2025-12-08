@@ -17,7 +17,7 @@ public interface ICompanion
     bool GoToOrb();
     bool ReturnToPlayer();
     bool DeliverOrbs();
-    bool LookAround();
+    bool SearchForOrbs();
 
     //Simple actions
     void FollowPlayer();
