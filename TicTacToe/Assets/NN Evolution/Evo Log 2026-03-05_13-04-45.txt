@@ -1,0 +1,2707 @@
+--- Evolution Log: --- 
+Num of trainees: 100
+Num of generations: 300
+Num of survivors per gen: 5
+Num of games per gen: 50
+Mutation chance: 0.4
+Mutation amount: 0.1
+-------------- Generation: 0 -------------- 
+Average fitness: -4943.8
+Highest fitness: -4689 ==> by trainee with ID: 37
+Survivors: 5
+- Survivor ID: 37 ==> With Fitness: -4689
+- Survivor ID: 61 ==> With Fitness: -4764
+- Survivor ID: 92 ==> With Fitness: -4790
+- Survivor ID: 78 ==> With Fitness: -4873
+- Survivor ID: 59 ==> With Fitness: -4880
+-------------- Generation: 1 -------------- 
+Average fitness: -4931.3
+Highest fitness: -4638 ==> by trainee with ID: 169
+Survivors: 5
+- Survivor ID: 169 ==> With Fitness: -4638
+- Survivor ID: 148 ==> With Fitness: -4675
+- Survivor ID: 115 ==> With Fitness: -4760
+- Survivor ID: 109 ==> With Fitness: -4811
+- Survivor ID: 103 ==> With Fitness: -4819
+-------------- Generation: 2 -------------- 
+Average fitness: -4927.96
+Highest fitness: -4699 ==> by trainee with ID: 255
+Survivors: 5
+- Survivor ID: 255 ==> With Fitness: -4699
+- Survivor ID: 263 ==> With Fitness: -4702
+- Survivor ID: 253 ==> With Fitness: -4742
+- Survivor ID: 299 ==> With Fitness: -4766
+- Survivor ID: 245 ==> With Fitness: -4823
+-------------- Generation: 3 -------------- 
+Average fitness: -4884.56
+Highest fitness: -3054 ==> by trainee with ID: 342
+Survivors: 5
+- Survivor ID: 342 ==> With Fitness: -3054
+- Survivor ID: 331 ==> With Fitness: -4639
+- Survivor ID: 332 ==> With Fitness: -4654
+- Survivor ID: 349 ==> With Fitness: -4692
+- Survivor ID: 335 ==> With Fitness: -4694
+-------------- Generation: 4 -------------- 
+Average fitness: -4846.64
+Highest fitness: -3548 ==> by trainee with ID: 470
+Survivors: 5
+- Survivor ID: 470 ==> With Fitness: -3548
+- Survivor ID: 400 ==> With Fitness: -4058
+- Survivor ID: 402 ==> With Fitness: -4342
+- Survivor ID: 483 ==> With Fitness: -4506
+- Survivor ID: 410 ==> With Fitness: -4544
+-------------- Generation: 5 -------------- 
+Average fitness: -4783.37
+Highest fitness: -1544 ==> by trainee with ID: 516
+Survivors: 5
+- Survivor ID: 516 ==> With Fitness: -1544
+- Survivor ID: 500 ==> With Fitness: -2789
+- Survivor ID: 594 ==> With Fitness: -3426
+- Survivor ID: 540 ==> With Fitness: -3427
+- Survivor ID: 510 ==> With Fitness: -4043
+-------------- Generation: 6 -------------- 
+Average fitness: -4759.51
+Highest fitness: -726 ==> by trainee with ID: 630
+Survivors: 5
+- Survivor ID: 630 ==> With Fitness: -726
+- Survivor ID: 600 ==> With Fitness: -2670
+- Survivor ID: 602 ==> With Fitness: -2795
+- Survivor ID: 636 ==> With Fitness: -3037
+- Survivor ID: 680 ==> With Fitness: -3475
+-------------- Generation: 7 -------------- 
+Average fitness: -4703.39
+Highest fitness: -1215 ==> by trainee with ID: 700
+Survivors: 5
+- Survivor ID: 700 ==> With Fitness: -1215
+- Survivor ID: 704 ==> With Fitness: -2725
+- Survivor ID: 768 ==> With Fitness: -2779
+- Survivor ID: 728 ==> With Fitness: -2912
+- Survivor ID: 798 ==> With Fitness: -3041
+-------------- Generation: 8 -------------- 
+Average fitness: -4651.58
+Highest fitness: -1040 ==> by trainee with ID: 800
+Survivors: 5
+- Survivor ID: 800 ==> With Fitness: -1040
+- Survivor ID: 822 ==> With Fitness: -1662
+- Survivor ID: 812 ==> With Fitness: -2164
+- Survivor ID: 840 ==> With Fitness: -2538
+- Survivor ID: 832 ==> With Fitness: -3409
+-------------- Generation: 9 -------------- 
+Average fitness: -4585.97
+Highest fitness: -1159 ==> by trainee with ID: 966
+Survivors: 5
+- Survivor ID: 966 ==> With Fitness: -1159
+- Survivor ID: 902 ==> With Fitness: -1663
+- Survivor ID: 986 ==> With Fitness: -1905
+- Survivor ID: 900 ==> With Fitness: -2226
+- Survivor ID: 934 ==> With Fitness: -2668
+-------------- Generation: 10 -------------- 
+Average fitness: -4405.45
+Highest fitness: -1283 ==> by trainee with ID: 1002
+Survivors: 5
+- Survivor ID: 1002 ==> With Fitness: -1283
+- Survivor ID: 1060 ==> With Fitness: -1784
+- Survivor ID: 1050 ==> With Fitness: -1787
+- Survivor ID: 1030 ==> With Fitness: -1850
+- Survivor ID: 1070 ==> With Fitness: -1908
+-------------- Generation: 11 -------------- 
+Average fitness: -4323.37
+Highest fitness: -1287 ==> by trainee with ID: 1174
+Survivors: 5
+- Survivor ID: 1174 ==> With Fitness: -1287
+- Survivor ID: 1112 ==> With Fitness: -1668
+- Survivor ID: 1100 ==> With Fitness: -1783
+- Survivor ID: 1146 ==> With Fitness: -1794
+- Survivor ID: 1102 ==> With Fitness: -1911
+-------------- Generation: 12 -------------- 
+Average fitness: -4253.96
+Highest fitness: -1157 ==> by trainee with ID: 1202
+Survivors: 5
+- Survivor ID: 1202 ==> With Fitness: -1157
+- Survivor ID: 1200 ==> With Fitness: -1161
+- Survivor ID: 1270 ==> With Fitness: -1289
+- Survivor ID: 1278 ==> With Fitness: -1535
+- Survivor ID: 1204 ==> With Fitness: -1664
+-------------- Generation: 13 -------------- 
+Average fitness: -4402.63
+Highest fitness: -1035 ==> by trainee with ID: 1302
+Survivors: 5
+- Survivor ID: 1302 ==> With Fitness: -1035
+- Survivor ID: 1300 ==> With Fitness: -1280
+- Survivor ID: 1364 ==> With Fitness: -1659
+- Survivor ID: 1374 ==> With Fitness: -1789
+- Survivor ID: 1392 ==> With Fitness: -1911
+-------------- Generation: 14 -------------- 
+Average fitness: -4395.09
+Highest fitness: -1287 ==> by trainee with ID: 1404
+Survivors: 5
+- Survivor ID: 1404 ==> With Fitness: -1287
+- Survivor ID: 1400 ==> With Fitness: -1471
+- Survivor ID: 1402 ==> With Fitness: -1541
+- Survivor ID: 1480 ==> With Fitness: -1719
+- Survivor ID: 1468 ==> With Fitness: -2032
+-------------- Generation: 15 -------------- 
+Average fitness: -4091.75
+Highest fitness: -911 ==> by trainee with ID: 1566
+Survivors: 5
+- Survivor ID: 1566 ==> With Fitness: -911
+- Survivor ID: 1502 ==> With Fitness: -1158
+- Survivor ID: 1584 ==> With Fitness: -1286
+- Survivor ID: 1592 ==> With Fitness: -1290
+- Survivor ID: 1528 ==> With Fitness: -1406
+-------------- Generation: 16 -------------- 
+Average fitness: -4291.1
+Highest fitness: -784 ==> by trainee with ID: 1602
+Survivors: 5
+- Survivor ID: 1602 ==> With Fitness: -784
+- Survivor ID: 1684 ==> With Fitness: -1032
+- Survivor ID: 1604 ==> With Fitness: -1040
+- Survivor ID: 1600 ==> With Fitness: -1161
+- Survivor ID: 1610 ==> With Fitness: -1727
+-------------- Generation: 17 -------------- 
+Average fitness: -4197.43
+Highest fitness: -536 ==> by trainee with ID: 1776
+Survivors: 5
+- Survivor ID: 1776 ==> With Fitness: -536
+- Survivor ID: 1718 ==> With Fitness: -1284
+- Survivor ID: 1700 ==> With Fitness: -1290
+- Survivor ID: 1766 ==> With Fitness: -1411
+- Survivor ID: 1780 ==> With Fitness: -1533
+-------------- Generation: 18 -------------- 
+Average fitness: -4150.44
+Highest fitness: -659 ==> by trainee with ID: 1872
+Survivors: 5
+- Survivor ID: 1872 ==> With Fitness: -659
+- Survivor ID: 1800 ==> With Fitness: -909
+- Survivor ID: 1802 ==> With Fitness: -917
+- Survivor ID: 1876 ==> With Fitness: -1288
+- Survivor ID: 1804 ==> With Fitness: -1473
+-------------- Generation: 19 -------------- 
+Average fitness: -4086.95
+Highest fitness: -533 ==> by trainee with ID: 1996
+Survivors: 5
+- Survivor ID: 1996 ==> With Fitness: -533
+- Survivor ID: 1902 ==> With Fitness: -786
+- Survivor ID: 1900 ==> With Fitness: -911
+- Survivor ID: 1986 ==> With Fitness: -1036
+- Survivor ID: 1968 ==> With Fitness: -1039
+-------------- Generation: 20 -------------- 
+Average fitness: -4067.88
+Highest fitness: -284 ==> by trainee with ID: 2002
+Survivors: 5
+- Survivor ID: 2002 ==> With Fitness: -284
+- Survivor ID: 2058 ==> With Fitness: -1162
+- Survivor ID: 2032 ==> With Fitness: -1223
+- Survivor ID: 2042 ==> With Fitness: -1524
+- Survivor ID: 2052 ==> With Fitness: -1721
+-------------- Generation: 21 -------------- 
+Average fitness: -4175.08
+Highest fitness: -1032 ==> by trainee with ID: 2134
+Survivors: 5
+- Survivor ID: 2134 ==> With Fitness: -1032
+- Survivor ID: 2102 ==> With Fitness: -1034
+- Survivor ID: 2104 ==> With Fitness: -1223
+- Survivor ID: 2100 ==> With Fitness: -1416
+- Survivor ID: 2164 ==> With Fitness: -1661
+-------------- Generation: 22 -------------- 
+Average fitness: -4199.92
+Highest fitness: -1036 ==> by trainee with ID: 2240
+Survivors: 5
+- Survivor ID: 2240 ==> With Fitness: -1036
+- Survivor ID: 2248 ==> With Fitness: -1153
+- Survivor ID: 2296 ==> With Fitness: -1266
+- Survivor ID: 2232 ==> With Fitness: -1413
+- Survivor ID: 2254 ==> With Fitness: -1465
+-------------- Generation: 23 -------------- 
+Average fitness: -4215.02
+Highest fitness: -1024 ==> by trainee with ID: 2302
+Survivors: 5
+- Survivor ID: 2302 ==> With Fitness: -1024
+- Survivor ID: 2358 ==> With Fitness: -1040
+- Survivor ID: 2300 ==> With Fitness: -1536
+- Survivor ID: 2378 ==> With Fitness: -2037
+- Survivor ID: 2354 ==> With Fitness: -2089
+-------------- Generation: 24 -------------- 
+Average fitness: -3883.56
+Highest fitness: -408 ==> by trainee with ID: 2458
+Survivors: 5
+- Survivor ID: 2458 ==> With Fitness: -408
+- Survivor ID: 2442 ==> With Fitness: -411
+- Survivor ID: 2412 ==> With Fitness: -411
+- Survivor ID: 2426 ==> With Fitness: -907
+- Survivor ID: 2402 ==> With Fitness: -914
+-------------- Generation: 25 -------------- 
+Average fitness: -4067.99
+Highest fitness: -411 ==> by trainee with ID: 2500
+Survivors: 5
+- Survivor ID: 2500 ==> With Fitness: -411
+- Survivor ID: 2538 ==> With Fitness: -654
+- Survivor ID: 2520 ==> With Fitness: -661
+- Survivor ID: 2502 ==> With Fitness: -913
+- Survivor ID: 2536 ==> With Fitness: -1030
+-------------- Generation: 26 -------------- 
+Average fitness: -3748.69
+Highest fitness: -278 ==> by trainee with ID: 2616
+Survivors: 5
+- Survivor ID: 2616 ==> With Fitness: -278
+- Survivor ID: 2666 ==> With Fitness: -526
+- Survivor ID: 2660 ==> With Fitness: -784
+- Survivor ID: 2606 ==> With Fitness: -1162
+- Survivor ID: 2640 ==> With Fitness: -1227
+-------------- Generation: 27 -------------- 
+Average fitness: -3823.18
+Highest fitness: -403 ==> by trainee with ID: 2700
+Survivors: 5
+- Survivor ID: 2700 ==> With Fitness: -403
+- Survivor ID: 2748 ==> With Fitness: -470
+- Survivor ID: 2708 ==> With Fitness: -785
+- Survivor ID: 2732 ==> With Fitness: -915
+- Survivor ID: 2702 ==> With Fitness: -1033
+-------------- Generation: 28 -------------- 
+Average fitness: -3782.16
+Highest fitness: -151 ==> by trainee with ID: 2892
+Survivors: 5
+- Survivor ID: 2892 ==> With Fitness: -151
+- Survivor ID: 2832 ==> With Fitness: -408
+- Survivor ID: 2818 ==> With Fitness: -787
+- Survivor ID: 2862 ==> With Fitness: -1029
+- Survivor ID: 2870 ==> With Fitness: -1031
+-------------- Generation: 29 -------------- 
+Average fitness: -3807.17
+Highest fitness: -531 ==> by trainee with ID: 2984
+Survivors: 5
+- Survivor ID: 2984 ==> With Fitness: -531
+- Survivor ID: 2956 ==> With Fitness: -655
+- Survivor ID: 2920 ==> With Fitness: -656
+- Survivor ID: 2936 ==> With Fitness: -784
+- Survivor ID: 2948 ==> With Fitness: -903
+-------------- Generation: 30 -------------- 
+Average fitness: -3827.73
+Highest fitness: -156 ==> by trainee with ID: 3086
+Survivors: 5
+- Survivor ID: 3086 ==> With Fitness: -156
+- Survivor ID: 3042 ==> With Fitness: -653
+- Survivor ID: 3096 ==> With Fitness: -655
+- Survivor ID: 3000 ==> With Fitness: -1032
+- Survivor ID: 3024 ==> With Fitness: -1155
+-------------- Generation: 31 -------------- 
+Average fitness: -3769.04
+Highest fitness: -781 ==> by trainee with ID: 3110
+Survivors: 5
+- Survivor ID: 3110 ==> With Fitness: -781
+- Survivor ID: 3180 ==> With Fitness: -910
+- Survivor ID: 3100 ==> With Fitness: -1031
+- Survivor ID: 3178 ==> With Fitness: -1031
+- Survivor ID: 3120 ==> With Fitness: -1279
+-------------- Generation: 32 -------------- 
+Average fitness: -3551.52
+Highest fitness: 93 ==> by trainee with ID: 3276
+Survivors: 5
+- Survivor ID: 3276 ==> With Fitness: 93
+- Survivor ID: 3270 ==> With Fitness: -282
+- Survivor ID: 3296 ==> With Fitness: -285
+- Survivor ID: 3200 ==> With Fitness: -530
+- Survivor ID: 3242 ==> With Fitness: -655
+-------------- Generation: 33 -------------- 
+Average fitness: -3460.55
+Highest fitness: -280 ==> by trainee with ID: 3364
+Survivors: 5
+- Survivor ID: 3364 ==> With Fitness: -280
+- Survivor ID: 3398 ==> With Fitness: -530
+- Survivor ID: 3312 ==> With Fitness: -536
+- Survivor ID: 3318 ==> With Fitness: -653
+- Survivor ID: 3308 ==> With Fitness: -778
+-------------- Generation: 34 -------------- 
+Average fitness: -3458.56
+Highest fitness: -279 ==> by trainee with ID: 3424
+Survivors: 5
+- Survivor ID: 3424 ==> With Fitness: -279
+- Survivor ID: 3446 ==> With Fitness: -527
+- Survivor ID: 3478 ==> With Fitness: -654
+- Survivor ID: 3450 ==> With Fitness: -776
+- Survivor ID: 3436 ==> With Fitness: -789
+-------------- Generation: 35 -------------- 
+Average fitness: -3499.57
+Highest fitness: -151 ==> by trainee with ID: 3532
+Survivors: 5
+- Survivor ID: 3532 ==> With Fitness: -151
+- Survivor ID: 3542 ==> With Fitness: -528
+- Survivor ID: 3502 ==> With Fitness: -533
+- Survivor ID: 3590 ==> With Fitness: -537
+- Survivor ID: 3582 ==> With Fitness: -654
+-------------- Generation: 36 -------------- 
+Average fitness: -3506.93
+Highest fitness: -657 ==> by trainee with ID: 3600
+Survivors: 5
+- Survivor ID: 3600 ==> With Fitness: -657
+- Survivor ID: 3604 ==> With Fitness: -781
+- Survivor ID: 3670 ==> With Fitness: -902
+- Survivor ID: 3662 ==> With Fitness: -905
+- Survivor ID: 3614 ==> With Fitness: -906
+-------------- Generation: 37 -------------- 
+Average fitness: -3396.13
+Highest fitness: -530 ==> by trainee with ID: 3766
+Survivors: 5
+- Survivor ID: 3766 ==> With Fitness: -530
+- Survivor ID: 3704 ==> With Fitness: -657
+- Survivor ID: 3716 ==> With Fitness: -658
+- Survivor ID: 3762 ==> With Fitness: -780
+- Survivor ID: 3776 ==> With Fitness: -780
+-------------- Generation: 38 -------------- 
+Average fitness: -3508.81
+Highest fitness: -653 ==> by trainee with ID: 3830
+Survivors: 5
+- Survivor ID: 3830 ==> With Fitness: -653
+- Survivor ID: 3840 ==> With Fitness: -656
+- Survivor ID: 3802 ==> With Fitness: -907
+- Survivor ID: 3800 ==> With Fitness: -910
+- Survivor ID: 3892 ==> With Fitness: -1031
+-------------- Generation: 39 -------------- 
+Average fitness: -3371.95
+Highest fitness: -528 ==> by trainee with ID: 3980
+Survivors: 5
+- Survivor ID: 3980 ==> With Fitness: -528
+- Survivor ID: 3986 ==> With Fitness: -532
+- Survivor ID: 3918 ==> With Fitness: -652
+- Survivor ID: 3930 ==> With Fitness: -778
+- Survivor ID: 3924 ==> With Fitness: -780
+-------------- Generation: 40 -------------- 
+Average fitness: -3368.44
+Highest fitness: -279 ==> by trainee with ID: 4022
+Survivors: 5
+- Survivor ID: 4022 ==> With Fitness: -279
+- Survivor ID: 4004 ==> With Fitness: -406
+- Survivor ID: 4090 ==> With Fitness: -529
+- Survivor ID: 4010 ==> With Fitness: -653
+- Survivor ID: 4086 ==> With Fitness: -777
+-------------- Generation: 41 -------------- 
+Average fitness: -3412.71
+Highest fitness: -152 ==> by trainee with ID: 4190
+Survivors: 5
+- Survivor ID: 4190 ==> With Fitness: -152
+- Survivor ID: 4102 ==> With Fitness: -156
+- Survivor ID: 4148 ==> With Fitness: -277
+- Survivor ID: 4122 ==> With Fitness: -652
+- Survivor ID: 4198 ==> With Fitness: -657
+-------------- Generation: 42 -------------- 
+Average fitness: -3376.42
+Highest fitness: -654 ==> by trainee with ID: 4246
+Survivors: 5
+- Survivor ID: 4246 ==> With Fitness: -654
+- Survivor ID: 4220 ==> With Fitness: -656
+- Survivor ID: 4296 ==> With Fitness: -780
+- Survivor ID: 4228 ==> With Fitness: -782
+- Survivor ID: 4298 ==> With Fitness: -783
+-------------- Generation: 43 -------------- 
+Average fitness: -3463.9
+Highest fitness: -534 ==> by trainee with ID: 4374
+Survivors: 5
+- Survivor ID: 4374 ==> With Fitness: -534
+- Survivor ID: 4388 ==> With Fitness: -652
+- Survivor ID: 4300 ==> With Fitness: -780
+- Survivor ID: 4334 ==> With Fitness: -789
+- Survivor ID: 4382 ==> With Fitness: -907
+-------------- Generation: 44 -------------- 
+Average fitness: -3391.34
+Highest fitness: -27 ==> by trainee with ID: 4406
+Survivors: 5
+- Survivor ID: 4406 ==> With Fitness: -27
+- Survivor ID: 4478 ==> With Fitness: -282
+- Survivor ID: 4404 ==> With Fitness: -401
+- Survivor ID: 4400 ==> With Fitness: -411
+- Survivor ID: 4448 ==> With Fitness: -654
+-------------- Generation: 45 -------------- 
+Average fitness: -3522.22
+Highest fitness: -160 ==> by trainee with ID: 4550
+Survivors: 5
+- Survivor ID: 4550 ==> With Fitness: -160
+- Survivor ID: 4578 ==> With Fitness: -536
+- Survivor ID: 4502 ==> With Fitness: -654
+- Survivor ID: 4598 ==> With Fitness: -656
+- Survivor ID: 4534 ==> With Fitness: -778
+-------------- Generation: 46 -------------- 
+Average fitness: -3390.95
+Highest fitness: -287 ==> by trainee with ID: 4658
+Survivors: 5
+- Survivor ID: 4658 ==> With Fitness: -287
+- Survivor ID: 4694 ==> With Fitness: -408
+- Survivor ID: 4626 ==> With Fitness: -537
+- Survivor ID: 4654 ==> With Fitness: -652
+- Survivor ID: 4604 ==> With Fitness: -654
+-------------- Generation: 47 -------------- 
+Average fitness: -3617.69
+Highest fitness: -281 ==> by trainee with ID: 4752
+Survivors: 5
+- Survivor ID: 4752 ==> With Fitness: -281
+- Survivor ID: 4724 ==> With Fitness: -531
+- Survivor ID: 4702 ==> With Fitness: -786
+- Survivor ID: 4790 ==> With Fitness: -909
+- Survivor ID: 4738 ==> With Fitness: -1150
+-------------- Generation: 48 -------------- 
+Average fitness: -3454.82
+Highest fitness: -411 ==> by trainee with ID: 4886
+Survivors: 5
+- Survivor ID: 4886 ==> With Fitness: -411
+- Survivor ID: 4820 ==> With Fitness: -656
+- Survivor ID: 4890 ==> With Fitness: -664
+- Survivor ID: 4836 ==> With Fitness: -787
+- Survivor ID: 4800 ==> With Fitness: -911
+-------------- Generation: 49 -------------- 
+Average fitness: -3484.54
+Highest fitness: -289 ==> by trainee with ID: 4942
+Survivors: 5
+- Survivor ID: 4942 ==> With Fitness: -289
+- Survivor ID: 4938 ==> With Fitness: -654
+- Survivor ID: 4930 ==> With Fitness: -664
+- Survivor ID: 4960 ==> With Fitness: -783
+- Survivor ID: 4932 ==> With Fitness: -910
+-------------- Generation: 50 -------------- 
+Average fitness: -3713.81
+Highest fitness: -410 ==> by trainee with ID: 5002
+Survivors: 5
+- Survivor ID: 5002 ==> With Fitness: -410
+- Survivor ID: 5026 ==> With Fitness: -529
+- Survivor ID: 5096 ==> With Fitness: -657
+- Survivor ID: 5050 ==> With Fitness: -788
+- Survivor ID: 5000 ==> With Fitness: -790
+-------------- Generation: 51 -------------- 
+Average fitness: -3440.32
+Highest fitness: -410 ==> by trainee with ID: 5190
+Survivors: 5
+- Survivor ID: 5190 ==> With Fitness: -410
+- Survivor ID: 5148 ==> With Fitness: -659
+- Survivor ID: 5198 ==> With Fitness: -911
+- Survivor ID: 5104 ==> With Fitness: -917
+- Survivor ID: 5144 ==> With Fitness: -1036
+-------------- Generation: 52 -------------- 
+Average fitness: -3389.43
+Highest fitness: 218 ==> by trainee with ID: 5288
+Survivors: 5
+- Survivor ID: 5288 ==> With Fitness: 218
+- Survivor ID: 5240 ==> With Fitness: -156
+- Survivor ID: 5202 ==> With Fitness: -411
+- Survivor ID: 5224 ==> With Fitness: -538
+- Survivor ID: 5292 ==> With Fitness: -658
+-------------- Generation: 53 -------------- 
+Average fitness: -3241.14
+Highest fitness: -281 ==> by trainee with ID: 5392
+Survivors: 5
+- Survivor ID: 5392 ==> With Fitness: -281
+- Survivor ID: 5362 ==> With Fitness: -535
+- Survivor ID: 5372 ==> With Fitness: -661
+- Survivor ID: 5308 ==> With Fitness: -665
+- Survivor ID: 5322 ==> With Fitness: -789
+-------------- Generation: 54 -------------- 
+Average fitness: -3228.66
+Highest fitness: -405 ==> by trainee with ID: 5432
+Survivors: 5
+- Survivor ID: 5432 ==> With Fitness: -405
+- Survivor ID: 5492 ==> With Fitness: -412
+- Survivor ID: 5494 ==> With Fitness: -412
+- Survivor ID: 5422 ==> With Fitness: -534
+- Survivor ID: 5406 ==> With Fitness: -659
+-------------- Generation: 55 -------------- 
+Average fitness: -3253.7
+Highest fitness: -282 ==> by trainee with ID: 5508
+Survivors: 5
+- Survivor ID: 5508 ==> With Fitness: -282
+- Survivor ID: 5550 ==> With Fitness: -285
+- Survivor ID: 5540 ==> With Fitness: -535
+- Survivor ID: 5510 ==> With Fitness: -537
+- Survivor ID: 5514 ==> With Fitness: -656
+-------------- Generation: 56 -------------- 
+Average fitness: -3188.33
+Highest fitness: -27 ==> by trainee with ID: 5600
+Survivors: 5
+- Survivor ID: 5600 ==> With Fitness: -27
+- Survivor ID: 5690 ==> With Fitness: -158
+- Survivor ID: 5670 ==> With Fitness: -159
+- Survivor ID: 5662 ==> With Fitness: -286
+- Survivor ID: 5602 ==> With Fitness: -286
+-------------- Generation: 57 -------------- 
+Average fitness: -3216.3
+Highest fitness: -278 ==> by trainee with ID: 5746
+Survivors: 5
+- Survivor ID: 5746 ==> With Fitness: -278
+- Survivor ID: 5730 ==> With Fitness: -526
+- Survivor ID: 5788 ==> With Fitness: -536
+- Survivor ID: 5736 ==> With Fitness: -536
+- Survivor ID: 5706 ==> With Fitness: -537
+-------------- Generation: 58 -------------- 
+Average fitness: -3147.38
+Highest fitness: -154 ==> by trainee with ID: 5800
+Survivors: 5
+- Survivor ID: 5800 ==> With Fitness: -154
+- Survivor ID: 5872 ==> With Fitness: -286
+- Survivor ID: 5868 ==> With Fitness: -410
+- Survivor ID: 5804 ==> With Fitness: -410
+- Survivor ID: 5820 ==> With Fitness: -534
+-------------- Generation: 59 -------------- 
+Average fitness: -3185.23
+Highest fitness: 220 ==> by trainee with ID: 5910
+Survivors: 5
+- Survivor ID: 5960 ==> With Fitness: 220
+- Survivor ID: 5910 ==> With Fitness: 220
+- Survivor ID: 5900 ==> With Fitness: 95
+- Survivor ID: 5998 ==> With Fitness: -32
+- Survivor ID: 5920 ==> With Fitness: -782
+-------------- Generation: 60 -------------- 
+Average fitness: -3019.88
+Highest fitness: 95 ==> by trainee with ID: 6024
+Survivors: 5
+- Survivor ID: 6024 ==> With Fitness: 95
+- Survivor ID: 6084 ==> With Fitness: 93
+- Survivor ID: 6036 ==> With Fitness: -28
+- Survivor ID: 6044 ==> With Fitness: -148
+- Survivor ID: 6008 ==> With Fitness: -149
+-------------- Generation: 61 -------------- 
+Average fitness: -3107.81
+Highest fitness: -30 ==> by trainee with ID: 6172
+Survivors: 5
+- Survivor ID: 6172 ==> With Fitness: -30
+- Survivor ID: 6126 ==> With Fitness: -156
+- Survivor ID: 6112 ==> With Fitness: -279
+- Survivor ID: 6192 ==> With Fitness: -280
+- Survivor ID: 6130 ==> With Fitness: -527
+-------------- Generation: 62 -------------- 
+Average fitness: -2916.92
+Highest fitness: -29 ==> by trainee with ID: 6250
+Survivors: 5
+- Survivor ID: 6250 ==> With Fitness: -29
+- Survivor ID: 6268 ==> With Fitness: -30
+- Survivor ID: 6282 ==> With Fitness: -32
+- Survivor ID: 6208 ==> With Fitness: -154
+- Survivor ID: 6238 ==> With Fitness: -154
+-------------- Generation: 63 -------------- 
+Average fitness: -2929.37
+Highest fitness: 221 ==> by trainee with ID: 6366
+Survivors: 5
+- Survivor ID: 6366 ==> With Fitness: 221
+- Survivor ID: 6372 ==> With Fitness: 221
+- Survivor ID: 6374 ==> With Fitness: -29
+- Survivor ID: 6378 ==> With Fitness: -31
+- Survivor ID: 6304 ==> With Fitness: -32
+-------------- Generation: 64 -------------- 
+Average fitness: -3019.1
+Highest fitness: 220 ==> by trainee with ID: 6480
+Survivors: 5
+- Survivor ID: 6480 ==> With Fitness: 220
+- Survivor ID: 6414 ==> With Fitness: -28
+- Survivor ID: 6400 ==> With Fitness: -31
+- Survivor ID: 6404 ==> With Fitness: -34
+- Survivor ID: 6460 ==> With Fitness: -153
+-------------- Generation: 65 -------------- 
+Average fitness: -2955.43
+Highest fitness: 349 ==> by trainee with ID: 6508
+Survivors: 5
+- Survivor ID: 6508 ==> With Fitness: 349
+- Survivor ID: 6510 ==> With Fitness: -29
+- Survivor ID: 6568 ==> With Fitness: -158
+- Survivor ID: 6582 ==> With Fitness: -277
+- Survivor ID: 6532 ==> With Fitness: -277
+-------------- Generation: 66 -------------- 
+Average fitness: -2955.09
+Highest fitness: -30 ==> by trainee with ID: 6604
+Survivors: 5
+- Survivor ID: 6604 ==> With Fitness: -30
+- Survivor ID: 6656 ==> With Fitness: -153
+- Survivor ID: 6670 ==> With Fitness: -156
+- Survivor ID: 6600 ==> With Fitness: -278
+- Survivor ID: 6632 ==> With Fitness: -281
+-------------- Generation: 67 -------------- 
+Average fitness: -2896.54
+Highest fitness: -32 ==> by trainee with ID: 6768
+Survivors: 5
+- Survivor ID: 6768 ==> With Fitness: -32
+- Survivor ID: 6746 ==> With Fitness: -33
+- Survivor ID: 6710 ==> With Fitness: -154
+- Survivor ID: 6780 ==> With Fitness: -155
+- Survivor ID: 6726 ==> With Fitness: -156
+-------------- Generation: 68 -------------- 
+Average fitness: -2823.95
+Highest fitness: 348 ==> by trainee with ID: 6826
+Survivors: 5
+- Survivor ID: 6826 ==> With Fitness: 348
+- Survivor ID: 6894 ==> With Fitness: 98
+- Survivor ID: 6812 ==> With Fitness: -28
+- Survivor ID: 6808 ==> With Fitness: -29
+- Survivor ID: 6864 ==> With Fitness: -30
+-------------- Generation: 69 -------------- 
+Average fitness: -3093.81
+Highest fitness: -31 ==> by trainee with ID: 6938
+Survivors: 5
+- Survivor ID: 6938 ==> With Fitness: -31
+- Survivor ID: 6916 ==> With Fitness: -157
+- Survivor ID: 6966 ==> With Fitness: -277
+- Survivor ID: 6900 ==> With Fitness: -280
+- Survivor ID: 6968 ==> With Fitness: -280
+-------------- Generation: 70 -------------- 
+Average fitness: -2978.57
+Highest fitness: 221 ==> by trainee with ID: 7000
+Survivors: 5
+- Survivor ID: 7000 ==> With Fitness: 221
+- Survivor ID: 7022 ==> With Fitness: -152
+- Survivor ID: 7070 ==> With Fitness: -154
+- Survivor ID: 7050 ==> With Fitness: -156
+- Survivor ID: 7074 ==> With Fitness: -157
+-------------- Generation: 71 -------------- 
+Average fitness: -2974.2
+Highest fitness: 95 ==> by trainee with ID: 7180
+Survivors: 5
+- Survivor ID: 7180 ==> With Fitness: 95
+- Survivor ID: 7144 ==> With Fitness: -153
+- Survivor ID: 7158 ==> With Fitness: -154
+- Survivor ID: 7152 ==> With Fitness: -275
+- Survivor ID: 7100 ==> With Fitness: -279
+-------------- Generation: 72 -------------- 
+Average fitness: -2975.73
+Highest fitness: -29 ==> by trainee with ID: 7202
+Survivors: 5
+- Survivor ID: 7202 ==> With Fitness: -29
+- Survivor ID: 7220 ==> With Fitness: -91
+- Survivor ID: 7270 ==> With Fitness: -153
+- Survivor ID: 7264 ==> With Fitness: -153
+- Survivor ID: 7252 ==> With Fitness: -155
+-------------- Generation: 73 -------------- 
+Average fitness: -3060.35
+Highest fitness: -24 ==> by trainee with ID: 7380
+Survivors: 5
+- Survivor ID: 7380 ==> With Fitness: -24
+- Survivor ID: 7376 ==> With Fitness: -153
+- Survivor ID: 7344 ==> With Fitness: -155
+- Survivor ID: 7302 ==> With Fitness: -157
+- Survivor ID: 7372 ==> With Fitness: -216
+-------------- Generation: 74 -------------- 
+Average fitness: -3134.9
+Highest fitness: 599 ==> by trainee with ID: 7488
+Survivors: 5
+- Survivor ID: 7488 ==> With Fitness: 599
+- Survivor ID: 7470 ==> With Fitness: 345
+- Survivor ID: 7472 ==> With Fitness: 225
+- Survivor ID: 7468 ==> With Fitness: -95
+- Survivor ID: 7414 ==> With Fitness: -154
+-------------- Generation: 75 -------------- 
+Average fitness: -3122.71
+Highest fitness: -147 ==> by trainee with ID: 7598
+Survivors: 5
+- Survivor ID: 7598 ==> With Fitness: -147
+- Survivor ID: 7580 ==> With Fitness: -155
+- Survivor ID: 7500 ==> With Fitness: -156
+- Survivor ID: 7510 ==> With Fitness: -282
+- Survivor ID: 7504 ==> With Fitness: -283
+-------------- Generation: 76 -------------- 
+Average fitness: -2938.14
+Highest fitness: 291 ==> by trainee with ID: 7600
+Survivors: 5
+- Survivor ID: 7600 ==> With Fitness: 291
+- Survivor ID: 7650 ==> With Fitness: 224
+- Survivor ID: 7602 ==> With Fitness: 219
+- Survivor ID: 7620 ==> With Fitness: -26
+- Survivor ID: 7692 ==> With Fitness: -30
+-------------- Generation: 77 -------------- 
+Average fitness: -2947.19
+Highest fitness: 100 ==> by trainee with ID: 7740
+Survivors: 5
+- Survivor ID: 7740 ==> With Fitness: 100
+- Survivor ID: 7702 ==> With Fitness: 98
+- Survivor ID: 7764 ==> With Fitness: 38
+- Survivor ID: 7788 ==> With Fitness: -20
+- Survivor ID: 7700 ==> With Fitness: -148
+-------------- Generation: 78 -------------- 
+Average fitness: -2975.15
+Highest fitness: 350 ==> by trainee with ID: 7810
+Survivors: 5
+- Survivor ID: 7810 ==> With Fitness: 350
+- Survivor ID: 7806 ==> With Fitness: 222
+- Survivor ID: 7838 ==> With Fitness: -27
+- Survivor ID: 7824 ==> With Fitness: -148
+- Survivor ID: 7874 ==> With Fitness: -150
+-------------- Generation: 79 -------------- 
+Average fitness: -3008.69
+Highest fitness: 851 ==> by trainee with ID: 7900
+Survivors: 5
+- Survivor ID: 7900 ==> With Fitness: 851
+- Survivor ID: 7908 ==> With Fitness: 225
+- Survivor ID: 7942 ==> With Fitness: 160
+- Survivor ID: 7932 ==> With Fitness: 94
+- Survivor ID: 7982 ==> With Fitness: 94
+-------------- Generation: 80 -------------- 
+Average fitness: -2789.09
+Highest fitness: 597 ==> by trainee with ID: 8014
+Survivors: 5
+- Survivor ID: 8014 ==> With Fitness: 597
+- Survivor ID: 8050 ==> With Fitness: 225
+- Survivor ID: 8002 ==> With Fitness: 220
+- Survivor ID: 8020 ==> With Fitness: -23
+- Survivor ID: 8060 ==> With Fitness: -25
+-------------- Generation: 81 -------------- 
+Average fitness: -2934.69
+Highest fitness: 474 ==> by trainee with ID: 8100
+Survivors: 5
+- Survivor ID: 8100 ==> With Fitness: 474
+- Survivor ID: 8186 ==> With Fitness: 220
+- Survivor ID: 8172 ==> With Fitness: 96
+- Survivor ID: 8190 ==> With Fitness: -27
+- Survivor ID: 8130 ==> With Fitness: -29
+-------------- Generation: 82 -------------- 
+Average fitness: -2870.11
+Highest fitness: 468 ==> by trainee with ID: 8288
+Survivors: 5
+- Survivor ID: 8288 ==> With Fitness: 468
+- Survivor ID: 8252 ==> With Fitness: 346
+- Survivor ID: 8262 ==> With Fitness: 98
+- Survivor ID: 8238 ==> With Fitness: 96
+- Survivor ID: 8248 ==> With Fitness: 93
+-------------- Generation: 83 -------------- 
+Average fitness: -2779.01
+Highest fitness: 222 ==> by trainee with ID: 8374
+Survivors: 5
+- Survivor ID: 8374 ==> With Fitness: 222
+- Survivor ID: 8332 ==> With Fitness: 220
+- Survivor ID: 8308 ==> With Fitness: 217
+- Survivor ID: 8380 ==> With Fitness: 98
+- Survivor ID: 8390 ==> With Fitness: -29
+-------------- Generation: 84 -------------- 
+Average fitness: -3044.77
+Highest fitness: 347 ==> by trainee with ID: 8454
+Survivors: 5
+- Survivor ID: 8454 ==> With Fitness: 347
+- Survivor ID: 8400 ==> With Fitness: 158
+- Survivor ID: 8402 ==> With Fitness: 95
+- Survivor ID: 8472 ==> With Fitness: 32
+- Survivor ID: 8422 ==> With Fitness: -153
+-------------- Generation: 85 -------------- 
+Average fitness: -3119.58
+Highest fitness: 353 ==> by trainee with ID: 8542
+Survivors: 5
+- Survivor ID: 8542 ==> With Fitness: 353
+- Survivor ID: 8566 ==> With Fitness: 348
+- Survivor ID: 8596 ==> With Fitness: 221
+- Survivor ID: 8576 ==> With Fitness: 219
+- Survivor ID: 8536 ==> With Fitness: 98
+-------------- Generation: 86 -------------- 
+Average fitness: -2835.67
+Highest fitness: 473 ==> by trainee with ID: 8666
+Survivors: 5
+- Survivor ID: 8666 ==> With Fitness: 473
+- Survivor ID: 8690 ==> With Fitness: 346
+- Survivor ID: 8634 ==> With Fitness: 343
+- Survivor ID: 8646 ==> With Fitness: 95
+- Survivor ID: 8672 ==> With Fitness: 33
+-------------- Generation: 87 -------------- 
+Average fitness: -2926.04
+Highest fitness: 970 ==> by trainee with ID: 8772
+Survivors: 5
+- Survivor ID: 8772 ==> With Fitness: 970
+- Survivor ID: 8704 ==> With Fitness: 97
+- Survivor ID: 8762 ==> With Fitness: 94
+- Survivor ID: 8786 ==> With Fitness: -26
+- Survivor ID: 8710 ==> With Fitness: -29
+-------------- Generation: 88 -------------- 
+Average fitness: -2997.47
+Highest fitness: 406 ==> by trainee with ID: 8842
+Survivors: 5
+- Survivor ID: 8842 ==> With Fitness: 406
+- Survivor ID: 8820 ==> With Fitness: 347
+- Survivor ID: 8826 ==> With Fitness: 226
+- Survivor ID: 8830 ==> With Fitness: 97
+- Survivor ID: 8802 ==> With Fitness: 96
+-------------- Generation: 89 -------------- 
+Average fitness: -2879.34
+Highest fitness: 596 ==> by trainee with ID: 8910
+Survivors: 5
+- Survivor ID: 8910 ==> With Fitness: 596
+- Survivor ID: 8976 ==> With Fitness: 532
+- Survivor ID: 8900 ==> With Fitness: 464
+- Survivor ID: 8950 ==> With Fitness: 96
+- Survivor ID: 8948 ==> With Fitness: -23
+-------------- Generation: 90 -------------- 
+Average fitness: -3140.01
+Highest fitness: 468 ==> by trainee with ID: 9082
+Survivors: 5
+- Survivor ID: 9082 ==> With Fitness: 468
+- Survivor ID: 9076 ==> With Fitness: 350
+- Survivor ID: 9002 ==> With Fitness: 220
+- Survivor ID: 9000 ==> With Fitness: 98
+- Survivor ID: 9046 ==> With Fitness: 34
+-------------- Generation: 91 -------------- 
+Average fitness: -2719.84
+Highest fitness: 408 ==> by trainee with ID: 9174
+Survivors: 5
+- Survivor ID: 9174 ==> With Fitness: 408
+- Survivor ID: 9164 ==> With Fitness: 407
+- Survivor ID: 9132 ==> With Fitness: 342
+- Survivor ID: 9168 ==> With Fitness: 222
+- Survivor ID: 9120 ==> With Fitness: 219
+-------------- Generation: 92 -------------- 
+Average fitness: -2716.77
+Highest fitness: 784 ==> by trainee with ID: 9282
+Survivors: 5
+- Survivor ID: 9282 ==> With Fitness: 784
+- Survivor ID: 9296 ==> With Fitness: 601
+- Survivor ID: 9250 ==> With Fitness: 406
+- Survivor ID: 9226 ==> With Fitness: 346
+- Survivor ID: 9210 ==> With Fitness: 344
+-------------- Generation: 93 -------------- 
+Average fitness: -2984.55
+Highest fitness: 656 ==> by trainee with ID: 9316
+Survivors: 5
+- Survivor ID: 9316 ==> With Fitness: 656
+- Survivor ID: 9342 ==> With Fitness: 467
+- Survivor ID: 9362 ==> With Fitness: 342
+- Survivor ID: 9326 ==> With Fitness: 282
+- Survivor ID: 9374 ==> With Fitness: 282
+-------------- Generation: 94 -------------- 
+Average fitness: -2801.05
+Highest fitness: 594 ==> by trainee with ID: 9426
+Survivors: 5
+- Survivor ID: 9426 ==> With Fitness: 594
+- Survivor ID: 9406 ==> With Fitness: 347
+- Survivor ID: 9416 ==> With Fitness: 278
+- Survivor ID: 9402 ==> With Fitness: 156
+- Survivor ID: 9492 ==> With Fitness: 98
+-------------- Generation: 95 -------------- 
+Average fitness: -2896.27
+Highest fitness: 281 ==> by trainee with ID: 9502
+Survivors: 5
+- Survivor ID: 9502 ==> With Fitness: 281
+- Survivor ID: 9556 ==> With Fitness: 224
+- Survivor ID: 9536 ==> With Fitness: 92
+- Survivor ID: 9554 ==> With Fitness: 92
+- Survivor ID: 9528 ==> With Fitness: 86
+-------------- Generation: 96 -------------- 
+Average fitness: -2777.88
+Highest fitness: 472 ==> by trainee with ID: 9650
+Survivors: 5
+- Survivor ID: 9650 ==> With Fitness: 472
+- Survivor ID: 9678 ==> With Fitness: 467
+- Survivor ID: 9694 ==> With Fitness: 221
+- Survivor ID: 9610 ==> With Fitness: 97
+- Survivor ID: 9698 ==> With Fitness: 95
+-------------- Generation: 97 -------------- 
+Average fitness: -2890.53
+Highest fitness: 474 ==> by trainee with ID: 9704
+Survivors: 5
+- Survivor ID: 9704 ==> With Fitness: 474
+- Survivor ID: 9706 ==> With Fitness: 346
+- Survivor ID: 9728 ==> With Fitness: 341
+- Survivor ID: 9702 ==> With Fitness: 218
+- Survivor ID: 9798 ==> With Fitness: 33
+-------------- Generation: 98 -------------- 
+Average fitness: -2852.12
+Highest fitness: 721 ==> by trainee with ID: 9846
+Survivors: 5
+- Survivor ID: 9846 ==> With Fitness: 721
+- Survivor ID: 9858 ==> With Fitness: 718
+- Survivor ID: 9804 ==> With Fitness: 348
+- Survivor ID: 9824 ==> With Fitness: 343
+- Survivor ID: 9860 ==> With Fitness: 93
+-------------- Generation: 99 -------------- 
+Average fitness: -2853.12
+Highest fitness: 603 ==> by trainee with ID: 9996
+Survivors: 5
+- Survivor ID: 9996 ==> With Fitness: 603
+- Survivor ID: 9924 ==> With Fitness: 469
+- Survivor ID: 9994 ==> With Fitness: 344
+- Survivor ID: 9940 ==> With Fitness: 344
+- Survivor ID: 9990 ==> With Fitness: 285
+-------------- Generation: 100 -------------- 
+Average fitness: -3049.69
+Highest fitness: 652 ==> by trainee with ID: 10074
+Survivors: 5
+- Survivor ID: 10074 ==> With Fitness: 652
+- Survivor ID: 10080 ==> With Fitness: 468
+- Survivor ID: 10000 ==> With Fitness: 402
+- Survivor ID: 10048 ==> With Fitness: 340
+- Survivor ID: 10016 ==> With Fitness: 280
+-------------- Generation: 101 -------------- 
+Average fitness: -3044.84
+Highest fitness: 468 ==> by trainee with ID: 10192
+Survivors: 5
+- Survivor ID: 10192 ==> With Fitness: 468
+- Survivor ID: 10178 ==> With Fitness: 467
+- Survivor ID: 10128 ==> With Fitness: 346
+- Survivor ID: 10164 ==> With Fitness: 343
+- Survivor ID: 10126 ==> With Fitness: 343
+-------------- Generation: 102 -------------- 
+Average fitness: -2894.38
+Highest fitness: 342 ==> by trainee with ID: 10210
+Survivors: 5
+- Survivor ID: 10210 ==> With Fitness: 342
+- Survivor ID: 10208 ==> With Fitness: 154
+- Survivor ID: 10268 ==> With Fitness: 93
+- Survivor ID: 10236 ==> With Fitness: 33
+- Survivor ID: 10260 ==> With Fitness: 30
+-------------- Generation: 103 -------------- 
+Average fitness: -3111.76
+Highest fitness: 347 ==> by trainee with ID: 10380
+Survivors: 5
+- Survivor ID: 10380 ==> With Fitness: 347
+- Survivor ID: 10358 ==> With Fitness: 344
+- Survivor ID: 10346 ==> With Fitness: 342
+- Survivor ID: 10348 ==> With Fitness: 285
+- Survivor ID: 10304 ==> With Fitness: 279
+-------------- Generation: 104 -------------- 
+Average fitness: -3008.32
+Highest fitness: 221 ==> by trainee with ID: 10416
+Survivors: 5
+- Survivor ID: 10416 ==> With Fitness: 221
+- Survivor ID: 10404 ==> With Fitness: 216
+- Survivor ID: 10442 ==> With Fitness: 93
+- Survivor ID: 10426 ==> With Fitness: 91
+- Survivor ID: 10428 ==> With Fitness: 29
+-------------- Generation: 105 -------------- 
+Average fitness: -2981.86
+Highest fitness: 721 ==> by trainee with ID: 10546
+Survivors: 5
+- Survivor ID: 10546 ==> With Fitness: 721
+- Survivor ID: 10572 ==> With Fitness: 473
+- Survivor ID: 10592 ==> With Fitness: 350
+- Survivor ID: 10582 ==> With Fitness: 162
+- Survivor ID: 10514 ==> With Fitness: 154
+-------------- Generation: 106 -------------- 
+Average fitness: -2908.48
+Highest fitness: 469 ==> by trainee with ID: 10632
+Survivors: 5
+- Survivor ID: 10632 ==> With Fitness: 469
+- Survivor ID: 10606 ==> With Fitness: 348
+- Survivor ID: 10654 ==> With Fitness: 346
+- Survivor ID: 10680 ==> With Fitness: 273
+- Survivor ID: 10610 ==> With Fitness: 217
+-------------- Generation: 107 -------------- 
+Average fitness: -2860.42
+Highest fitness: 596 ==> by trainee with ID: 10700
+Survivors: 5
+- Survivor ID: 10700 ==> With Fitness: 596
+- Survivor ID: 10748 ==> With Fitness: 103
+- Survivor ID: 10794 ==> With Fitness: 95
+- Survivor ID: 10772 ==> With Fitness: -32
+- Survivor ID: 10780 ==> With Fitness: -94
+-------------- Generation: 108 -------------- 
+Average fitness: -2910.63
+Highest fitness: 599 ==> by trainee with ID: 10826
+Survivors: 5
+- Survivor ID: 10826 ==> With Fitness: 599
+- Survivor ID: 10836 ==> With Fitness: 473
+- Survivor ID: 10892 ==> With Fitness: 95
+- Survivor ID: 10898 ==> With Fitness: 91
+- Survivor ID: 10802 ==> With Fitness: 31
+-------------- Generation: 109 -------------- 
+Average fitness: -2700.22
+Highest fitness: 405 ==> by trainee with ID: 10988
+Survivors: 5
+- Survivor ID: 10988 ==> With Fitness: 405
+- Survivor ID: 10918 ==> With Fitness: 220
+- Survivor ID: 10938 ==> With Fitness: 219
+- Survivor ID: 10972 ==> With Fitness: 218
+- Survivor ID: 10952 ==> With Fitness: 217
+-------------- Generation: 110 -------------- 
+Average fitness: -3152.11
+Highest fitness: 404 ==> by trainee with ID: 11040
+Survivors: 5
+- Survivor ID: 11040 ==> With Fitness: 404
+- Survivor ID: 11010 ==> With Fitness: 342
+- Survivor ID: 11052 ==> With Fitness: 218
+- Survivor ID: 11074 ==> With Fitness: 152
+- Survivor ID: 11000 ==> With Fitness: 94
+-------------- Generation: 111 -------------- 
+Average fitness: -3122.35
+Highest fitness: 470 ==> by trainee with ID: 11112
+Survivors: 5
+- Survivor ID: 11112 ==> With Fitness: 470
+- Survivor ID: 11100 ==> With Fitness: 348
+- Survivor ID: 11158 ==> With Fitness: 347
+- Survivor ID: 11132 ==> With Fitness: 345
+- Survivor ID: 11182 ==> With Fitness: 222
+-------------- Generation: 112 -------------- 
+Average fitness: -3111.25
+Highest fitness: 343 ==> by trainee with ID: 11254
+Survivors: 5
+- Survivor ID: 11254 ==> With Fitness: 343
+- Survivor ID: 11238 ==> With Fitness: 280
+- Survivor ID: 11252 ==> With Fitness: 220
+- Survivor ID: 11244 ==> With Fitness: 154
+- Survivor ID: 11270 ==> With Fitness: 95
+-------------- Generation: 113 -------------- 
+Average fitness: -3291.98
+Highest fitness: 407 ==> by trainee with ID: 11374
+Survivors: 5
+- Survivor ID: 11374 ==> With Fitness: 407
+- Survivor ID: 11340 ==> With Fitness: 343
+- Survivor ID: 11354 ==> With Fitness: 97
+- Survivor ID: 11314 ==> With Fitness: 94
+- Survivor ID: 11306 ==> With Fitness: 89
+-------------- Generation: 114 -------------- 
+Average fitness: -3003
+Highest fitness: 472 ==> by trainee with ID: 11464
+Survivors: 5
+- Survivor ID: 11464 ==> With Fitness: 472
+- Survivor ID: 11458 ==> With Fitness: 348
+- Survivor ID: 11494 ==> With Fitness: 347
+- Survivor ID: 11470 ==> With Fitness: 220
+- Survivor ID: 11428 ==> With Fitness: 209
+-------------- Generation: 115 -------------- 
+Average fitness: -3050.6
+Highest fitness: 349 ==> by trainee with ID: 11574
+Survivors: 5
+- Survivor ID: 11574 ==> With Fitness: 349
+- Survivor ID: 11524 ==> With Fitness: 342
+- Survivor ID: 11508 ==> With Fitness: 157
+- Survivor ID: 11518 ==> With Fitness: 91
+- Survivor ID: 11546 ==> With Fitness: -33
+-------------- Generation: 116 -------------- 
+Average fitness: -2672.13
+Highest fitness: 531 ==> by trainee with ID: 11644
+Survivors: 5
+- Survivor ID: 11644 ==> With Fitness: 531
+- Survivor ID: 11698 ==> With Fitness: 474
+- Survivor ID: 11612 ==> With Fitness: 347
+- Survivor ID: 11624 ==> With Fitness: 287
+- Survivor ID: 11662 ==> With Fitness: 283
+-------------- Generation: 117 -------------- 
+Average fitness: -2838.76
+Highest fitness: 596 ==> by trainee with ID: 11770
+Survivors: 5
+- Survivor ID: 11770 ==> With Fitness: 596
+- Survivor ID: 11784 ==> With Fitness: 530
+- Survivor ID: 11776 ==> With Fitness: 409
+- Survivor ID: 11760 ==> With Fitness: 346
+- Survivor ID: 11726 ==> With Fitness: 279
+-------------- Generation: 118 -------------- 
+Average fitness: -2734.26
+Highest fitness: 594 ==> by trainee with ID: 11884
+Survivors: 5
+- Survivor ID: 11884 ==> With Fitness: 594
+- Survivor ID: 11896 ==> With Fitness: 280
+- Survivor ID: 11866 ==> With Fitness: 224
+- Survivor ID: 11860 ==> With Fitness: 220
+- Survivor ID: 11872 ==> With Fitness: 102
+-------------- Generation: 119 -------------- 
+Average fitness: -2799.07
+Highest fitness: 349 ==> by trainee with ID: 11922
+Survivors: 5
+- Survivor ID: 11922 ==> With Fitness: 349
+- Survivor ID: 11916 ==> With Fitness: 347
+- Survivor ID: 11904 ==> With Fitness: 290
+- Survivor ID: 11900 ==> With Fitness: 276
+- Survivor ID: 11908 ==> With Fitness: 227
+-------------- Generation: 120 -------------- 
+Average fitness: -2744.77
+Highest fitness: 597 ==> by trainee with ID: 12010
+Survivors: 5
+- Survivor ID: 12010 ==> With Fitness: 597
+- Survivor ID: 12002 ==> With Fitness: 475
+- Survivor ID: 12042 ==> With Fitness: 349
+- Survivor ID: 12044 ==> With Fitness: 222
+- Survivor ID: 12000 ==> With Fitness: 31
+-------------- Generation: 121 -------------- 
+Average fitness: -2985.88
+Highest fitness: 1099 ==> by trainee with ID: 12196
+Survivors: 5
+- Survivor ID: 12196 ==> With Fitness: 1099
+- Survivor ID: 12102 ==> With Fitness: 474
+- Survivor ID: 12178 ==> With Fitness: 222
+- Survivor ID: 12162 ==> With Fitness: 164
+- Survivor ID: 12126 ==> With Fitness: 159
+-------------- Generation: 122 -------------- 
+Average fitness: -2826.75
+Highest fitness: 347 ==> by trainee with ID: 12290
+Survivors: 5
+- Survivor ID: 12290 ==> With Fitness: 347
+- Survivor ID: 12284 ==> With Fitness: 225
+- Survivor ID: 12264 ==> With Fitness: 224
+- Survivor ID: 12238 ==> With Fitness: 153
+- Survivor ID: 12204 ==> With Fitness: 98
+-------------- Generation: 123 -------------- 
+Average fitness: -2806.91
+Highest fitness: 849 ==> by trainee with ID: 12304
+Survivors: 5
+- Survivor ID: 12304 ==> With Fitness: 849
+- Survivor ID: 12300 ==> With Fitness: 347
+- Survivor ID: 12378 ==> With Fitness: 345
+- Survivor ID: 12334 ==> With Fitness: 283
+- Survivor ID: 12344 ==> With Fitness: 100
+-------------- Generation: 124 -------------- 
+Average fitness: -2839.41
+Highest fitness: 599 ==> by trainee with ID: 12454
+Survivors: 5
+- Survivor ID: 12454 ==> With Fitness: 599
+- Survivor ID: 12490 ==> With Fitness: 289
+- Survivor ID: 12400 ==> With Fitness: 224
+- Survivor ID: 12430 ==> With Fitness: -29
+- Survivor ID: 12432 ==> With Fitness: -30
+-------------- Generation: 125 -------------- 
+Average fitness: -2805.66
+Highest fitness: 595 ==> by trainee with ID: 12542
+Survivors: 5
+- Survivor ID: 12542 ==> With Fitness: 595
+- Survivor ID: 12598 ==> With Fitness: 473
+- Survivor ID: 12558 ==> With Fitness: 349
+- Survivor ID: 12502 ==> With Fitness: 99
+- Survivor ID: 12550 ==> With Fitness: -152
+-------------- Generation: 126 -------------- 
+Average fitness: -2863.4
+Highest fitness: 473 ==> by trainee with ID: 12628
+Survivors: 5
+- Survivor ID: 12628 ==> With Fitness: 473
+- Survivor ID: 12680 ==> With Fitness: 345
+- Survivor ID: 12640 ==> With Fitness: 219
+- Survivor ID: 12648 ==> With Fitness: 100
+- Survivor ID: 12620 ==> With Fitness: 36
+-------------- Generation: 127 -------------- 
+Average fitness: -2895.64
+Highest fitness: 223 ==> by trainee with ID: 12768
+Survivors: 5
+- Survivor ID: 12768 ==> With Fitness: 223
+- Survivor ID: 12798 ==> With Fitness: 100
+- Survivor ID: 12744 ==> With Fitness: -24
+- Survivor ID: 12708 ==> With Fitness: -92
+- Survivor ID: 12752 ==> With Fitness: -100
+-------------- Generation: 128 -------------- 
+Average fitness: -2878.95
+Highest fitness: 600 ==> by trainee with ID: 12802
+Survivors: 5
+- Survivor ID: 12802 ==> With Fitness: 600
+- Survivor ID: 12876 ==> With Fitness: 161
+- Survivor ID: 12806 ==> With Fitness: 98
+- Survivor ID: 12828 ==> With Fitness: -148
+- Survivor ID: 12874 ==> With Fitness: -222
+-------------- Generation: 129 -------------- 
+Average fitness: -2905.58
+Highest fitness: 348 ==> by trainee with ID: 12952
+Survivors: 5
+- Survivor ID: 12952 ==> With Fitness: 348
+- Survivor ID: 12956 ==> With Fitness: 285
+- Survivor ID: 12970 ==> With Fitness: 226
+- Survivor ID: 12944 ==> With Fitness: 223
+- Survivor ID: 12900 ==> With Fitness: 102
+-------------- Generation: 130 -------------- 
+Average fitness: -2881.77
+Highest fitness: 225 ==> by trainee with ID: 13016
+Survivors: 5
+- Survivor ID: 13016 ==> With Fitness: 225
+- Survivor ID: 13076 ==> With Fitness: 222
+- Survivor ID: 13026 ==> With Fitness: 154
+- Survivor ID: 13002 ==> With Fitness: -23
+- Survivor ID: 13032 ==> With Fitness: -23
+-------------- Generation: 131 -------------- 
+Average fitness: -2856.94
+Highest fitness: 535 ==> by trainee with ID: 13126
+Survivors: 5
+- Survivor ID: 13126 ==> With Fitness: 535
+- Survivor ID: 13186 ==> With Fitness: 530
+- Survivor ID: 13120 ==> With Fitness: 101
+- Survivor ID: 13104 ==> With Fitness: -24
+- Survivor ID: 13166 ==> With Fitness: -25
+-------------- Generation: 132 -------------- 
+Average fitness: -2868.54
+Highest fitness: 601 ==> by trainee with ID: 13266
+Survivors: 5
+- Survivor ID: 13266 ==> With Fitness: 601
+- Survivor ID: 13288 ==> With Fitness: 476
+- Survivor ID: 13274 ==> With Fitness: 352
+- Survivor ID: 13214 ==> With Fitness: 288
+- Survivor ID: 13238 ==> With Fitness: 218
+-------------- Generation: 133 -------------- 
+Average fitness: -2789.35
+Highest fitness: 1037 ==> by trainee with ID: 13302
+Survivors: 5
+- Survivor ID: 13302 ==> With Fitness: 1037
+- Survivor ID: 13340 ==> With Fitness: 475
+- Survivor ID: 13372 ==> With Fitness: 286
+- Survivor ID: 13370 ==> With Fitness: 225
+- Survivor ID: 13356 ==> With Fitness: 222
+-------------- Generation: 134 -------------- 
+Average fitness: -2969.2
+Highest fitness: 287 ==> by trainee with ID: 13498
+Survivors: 5
+- Survivor ID: 13498 ==> With Fitness: 287
+- Survivor ID: 13460 ==> With Fitness: 284
+- Survivor ID: 13400 ==> With Fitness: 102
+- Survivor ID: 13424 ==> With Fitness: -24
+- Survivor ID: 13442 ==> With Fitness: -29
+-------------- Generation: 135 -------------- 
+Average fitness: -3262.07
+Highest fitness: 406 ==> by trainee with ID: 13520
+Survivors: 5
+- Survivor ID: 13520 ==> With Fitness: 406
+- Survivor ID: 13508 ==> With Fitness: 350
+- Survivor ID: 13568 ==> With Fitness: 287
+- Survivor ID: 13542 ==> With Fitness: 214
+- Survivor ID: 13518 ==> With Fitness: 90
+-------------- Generation: 136 -------------- 
+Average fitness: -3049.37
+Highest fitness: 599 ==> by trainee with ID: 13626
+Survivors: 5
+- Survivor ID: 13626 ==> With Fitness: 599
+- Survivor ID: 13608 ==> With Fitness: 286
+- Survivor ID: 13654 ==> With Fitness: -28
+- Survivor ID: 13620 ==> With Fitness: -86
+- Survivor ID: 13658 ==> With Fitness: -149
+-------------- Generation: 137 -------------- 
+Average fitness: -2969
+Highest fitness: 844 ==> by trainee with ID: 13728
+Survivors: 5
+- Survivor ID: 13728 ==> With Fitness: 844
+- Survivor ID: 13700 ==> With Fitness: 598
+- Survivor ID: 13788 ==> With Fitness: 32
+- Survivor ID: 13726 ==> With Fitness: -147
+- Survivor ID: 13778 ==> With Fitness: -209
+-------------- Generation: 138 -------------- 
+Average fitness: -2909.09
+Highest fitness: 412 ==> by trainee with ID: 13810
+Survivors: 5
+- Survivor ID: 13810 ==> With Fitness: 412
+- Survivor ID: 13840 ==> With Fitness: 291
+- Survivor ID: 13806 ==> With Fitness: 283
+- Survivor ID: 13848 ==> With Fitness: 217
+- Survivor ID: 13800 ==> With Fitness: 105
+-------------- Generation: 139 -------------- 
+Average fitness: -2905.86
+Highest fitness: 349 ==> by trainee with ID: 13904
+Survivors: 5
+- Survivor ID: 13904 ==> With Fitness: 349
+- Survivor ID: 13968 ==> With Fitness: 222
+- Survivor ID: 13940 ==> With Fitness: 37
+- Survivor ID: 13986 ==> With Fitness: -22
+- Survivor ID: 13930 ==> With Fitness: -23
+-------------- Generation: 140 -------------- 
+Average fitness: -2958.53
+Highest fitness: 353 ==> by trainee with ID: 14000
+Survivors: 5
+- Survivor ID: 14000 ==> With Fitness: 353
+- Survivor ID: 14096 ==> With Fitness: 348
+- Survivor ID: 14020 ==> With Fitness: 229
+- Survivor ID: 14072 ==> With Fitness: 222
+- Survivor ID: 14014 ==> With Fitness: 101
+-------------- Generation: 141 -------------- 
+Average fitness: -3090.29
+Highest fitness: 351 ==> by trainee with ID: 14198
+Survivors: 5
+- Survivor ID: 14198 ==> With Fitness: 351
+- Survivor ID: 14146 ==> With Fitness: 343
+- Survivor ID: 14190 ==> With Fitness: 224
+- Survivor ID: 14100 ==> With Fitness: 102
+- Survivor ID: 14132 ==> With Fitness: 91
+-------------- Generation: 142 -------------- 
+Average fitness: -2994.71
+Highest fitness: 465 ==> by trainee with ID: 14274
+Survivors: 5
+- Survivor ID: 14274 ==> With Fitness: 465
+- Survivor ID: 14246 ==> With Fitness: 347
+- Survivor ID: 14268 ==> With Fitness: 226
+- Survivor ID: 14290 ==> With Fitness: 225
+- Survivor ID: 14212 ==> With Fitness: 163
+-------------- Generation: 143 -------------- 
+Average fitness: -2980.48
+Highest fitness: 412 ==> by trainee with ID: 14302
+Survivors: 5
+- Survivor ID: 14302 ==> With Fitness: 412
+- Survivor ID: 14330 ==> With Fitness: 98
+- Survivor ID: 14368 ==> With Fitness: 96
+- Survivor ID: 14366 ==> With Fitness: -29
+- Survivor ID: 14338 ==> With Fitness: -217
+-------------- Generation: 144 -------------- 
+Average fitness: -3063.18
+Highest fitness: 230 ==> by trainee with ID: 14420
+Survivors: 5
+- Survivor ID: 14420 ==> With Fitness: 230
+- Survivor ID: 14472 ==> With Fitness: 97
+- Survivor ID: 14424 ==> With Fitness: 97
+- Survivor ID: 14496 ==> With Fitness: -23
+- Survivor ID: 14448 ==> With Fitness: -26
+-------------- Generation: 145 -------------- 
+Average fitness: -2858.84
+Highest fitness: 472 ==> by trainee with ID: 14584
+Survivors: 5
+- Survivor ID: 14584 ==> With Fitness: 472
+- Survivor ID: 14540 ==> With Fitness: 224
+- Survivor ID: 14534 ==> With Fitness: 224
+- Survivor ID: 14502 ==> With Fitness: 32
+- Survivor ID: 14510 ==> With Fitness: -21
+-------------- Generation: 146 -------------- 
+Average fitness: -2832.04
+Highest fitness: 478 ==> by trainee with ID: 14604
+Survivors: 5
+- Survivor ID: 14604 ==> With Fitness: 478
+- Survivor ID: 14600 ==> With Fitness: 344
+- Survivor ID: 14660 ==> With Fitness: 344
+- Survivor ID: 14680 ==> With Fitness: 225
+- Survivor ID: 14690 ==> With Fitness: 220
+-------------- Generation: 147 -------------- 
+Average fitness: -2752.86
+Highest fitness: 848 ==> by trainee with ID: 14738
+Survivors: 5
+- Survivor ID: 14738 ==> With Fitness: 848
+- Survivor ID: 14710 ==> With Fitness: 105
+- Survivor ID: 14726 ==> With Fitness: 100
+- Survivor ID: 14790 ==> With Fitness: 96
+- Survivor ID: 14776 ==> With Fitness: -32
+-------------- Generation: 148 -------------- 
+Average fitness: -2920.79
+Highest fitness: 350 ==> by trainee with ID: 14802
+Survivors: 5
+- Survivor ID: 14802 ==> With Fitness: 350
+- Survivor ID: 14846 ==> With Fitness: 226
+- Survivor ID: 14860 ==> With Fitness: 161
+- Survivor ID: 14840 ==> With Fitness: 30
+- Survivor ID: 14800 ==> With Fitness: -28
+-------------- Generation: 149 -------------- 
+Average fitness: -2892.43
+Highest fitness: 596 ==> by trainee with ID: 14962
+Survivors: 5
+- Survivor ID: 14962 ==> With Fitness: 596
+- Survivor ID: 14924 ==> With Fitness: 408
+- Survivor ID: 14918 ==> With Fitness: 220
+- Survivor ID: 14972 ==> With Fitness: 102
+- Survivor ID: 14992 ==> With Fitness: 101
+-------------- Generation: 150 -------------- 
+Average fitness: -2959.65
+Highest fitness: 222 ==> by trainee with ID: 15020
+Survivors: 5
+- Survivor ID: 15020 ==> With Fitness: 222
+- Survivor ID: 15044 ==> With Fitness: 219
+- Survivor ID: 15050 ==> With Fitness: 160
+- Survivor ID: 15012 ==> With Fitness: 155
+- Survivor ID: 15048 ==> With Fitness: 101
+-------------- Generation: 151 -------------- 
+Average fitness: -2978.13
+Highest fitness: 782 ==> by trainee with ID: 15110
+Survivors: 5
+- Survivor ID: 15110 ==> With Fitness: 782
+- Survivor ID: 15196 ==> With Fitness: 468
+- Survivor ID: 15176 ==> With Fitness: 226
+- Survivor ID: 15120 ==> With Fitness: 216
+- Survivor ID: 15166 ==> With Fitness: 161
+-------------- Generation: 152 -------------- 
+Average fitness: -2725.91
+Highest fitness: 475 ==> by trainee with ID: 15294
+Survivors: 5
+- Survivor ID: 15294 ==> With Fitness: 475
+- Survivor ID: 15202 ==> With Fitness: 348
+- Survivor ID: 15220 ==> With Fitness: 345
+- Survivor ID: 15230 ==> With Fitness: 283
+- Survivor ID: 15200 ==> With Fitness: 160
+-------------- Generation: 153 -------------- 
+Average fitness: -2750.1
+Highest fitness: 600 ==> by trainee with ID: 15316
+Survivors: 5
+- Survivor ID: 15316 ==> With Fitness: 600
+- Survivor ID: 15384 ==> With Fitness: 345
+- Survivor ID: 15372 ==> With Fitness: 342
+- Survivor ID: 15328 ==> With Fitness: 224
+- Survivor ID: 15380 ==> With Fitness: 102
+-------------- Generation: 154 -------------- 
+Average fitness: -2771.26
+Highest fitness: 721 ==> by trainee with ID: 15408
+Survivors: 5
+- Survivor ID: 15408 ==> With Fitness: 721
+- Survivor ID: 15442 ==> With Fitness: 408
+- Survivor ID: 15482 ==> With Fitness: 220
+- Survivor ID: 15400 ==> With Fitness: 98
+- Survivor ID: 15464 ==> With Fitness: 97
+-------------- Generation: 155 -------------- 
+Average fitness: -2803.51
+Highest fitness: 596 ==> by trainee with ID: 15548
+Survivors: 5
+- Survivor ID: 15548 ==> With Fitness: 596
+- Survivor ID: 15570 ==> With Fitness: 350
+- Survivor ID: 15546 ==> With Fitness: 280
+- Survivor ID: 15596 ==> With Fitness: 221
+- Survivor ID: 15576 ==> With Fitness: 220
+-------------- Generation: 156 -------------- 
+Average fitness: -2845.37
+Highest fitness: 219 ==> by trainee with ID: 15612
+Survivors: 5
+- Survivor ID: 15612 ==> With Fitness: 219
+- Survivor ID: 15652 ==> With Fitness: 29
+- Survivor ID: 15628 ==> With Fitness: 27
+- Survivor ID: 15646 ==> With Fitness: -25
+- Survivor ID: 15662 ==> With Fitness: -35
+-------------- Generation: 157 -------------- 
+Average fitness: -2901.09
+Highest fitness: 474 ==> by trainee with ID: 15760
+Survivors: 5
+- Survivor ID: 15770 ==> With Fitness: 474
+- Survivor ID: 15760 ==> With Fitness: 474
+- Survivor ID: 15786 ==> With Fitness: 342
+- Survivor ID: 15700 ==> With Fitness: 152
+- Survivor ID: 15710 ==> With Fitness: 87
+-------------- Generation: 158 -------------- 
+Average fitness: -2867.55
+Highest fitness: 98 ==> by trainee with ID: 15892
+Survivors: 5
+- Survivor ID: 15892 ==> With Fitness: 98
+- Survivor ID: 15896 ==> With Fitness: 93
+- Survivor ID: 15884 ==> With Fitness: 92
+- Survivor ID: 15832 ==> With Fitness: -28
+- Survivor ID: 15852 ==> With Fitness: -29
+-------------- Generation: 159 -------------- 
+Average fitness: -2947.55
+Highest fitness: 471 ==> by trainee with ID: 15994
+Survivors: 5
+- Survivor ID: 15994 ==> With Fitness: 471
+- Survivor ID: 15960 ==> With Fitness: 224
+- Survivor ID: 15952 ==> With Fitness: 157
+- Survivor ID: 15990 ==> With Fitness: -96
+- Survivor ID: 15930 ==> With Fitness: -155
+-------------- Generation: 160 -------------- 
+Average fitness: -2924.35
+Highest fitness: 219 ==> by trainee with ID: 16002
+Survivors: 5
+- Survivor ID: 16002 ==> With Fitness: 219
+- Survivor ID: 16068 ==> With Fitness: 218
+- Survivor ID: 16006 ==> With Fitness: 93
+- Survivor ID: 16040 ==> With Fitness: 91
+- Survivor ID: 16020 ==> With Fitness: 29
+-------------- Generation: 161 -------------- 
+Average fitness: -2886.97
+Highest fitness: 408 ==> by trainee with ID: 16194
+Survivors: 5
+- Survivor ID: 16194 ==> With Fitness: 408
+- Survivor ID: 16130 ==> With Fitness: 216
+- Survivor ID: 16142 ==> With Fitness: 156
+- Survivor ID: 16154 ==> With Fitness: 91
+- Survivor ID: 16132 ==> With Fitness: -31
+-------------- Generation: 162 -------------- 
+Average fitness: -2683.08
+Highest fitness: 595 ==> by trainee with ID: 16212
+Survivors: 5
+- Survivor ID: 16212 ==> With Fitness: 595
+- Survivor ID: 16288 ==> With Fitness: 471
+- Survivor ID: 16230 ==> With Fitness: 345
+- Survivor ID: 16202 ==> With Fitness: 343
+- Survivor ID: 16222 ==> With Fitness: 221
+-------------- Generation: 163 -------------- 
+Average fitness: -2751.64
+Highest fitness: 719 ==> by trainee with ID: 16352
+Survivors: 5
+- Survivor ID: 16352 ==> With Fitness: 719
+- Survivor ID: 16300 ==> With Fitness: 349
+- Survivor ID: 16372 ==> With Fitness: 283
+- Survivor ID: 16398 ==> With Fitness: 221
+- Survivor ID: 16328 ==> With Fitness: 152
+-------------- Generation: 164 -------------- 
+Average fitness: -2805.76
+Highest fitness: 472 ==> by trainee with ID: 16462
+Survivors: 5
+- Survivor ID: 16462 ==> With Fitness: 472
+- Survivor ID: 16406 ==> With Fitness: 464
+- Survivor ID: 16404 ==> With Fitness: 408
+- Survivor ID: 16444 ==> With Fitness: 344
+- Survivor ID: 16438 ==> With Fitness: 215
+-------------- Generation: 165 -------------- 
+Average fitness: -2673.43
+Highest fitness: 597 ==> by trainee with ID: 16504
+Survivors: 5
+- Survivor ID: 16504 ==> With Fitness: 597
+- Survivor ID: 16588 ==> With Fitness: 408
+- Survivor ID: 16542 ==> With Fitness: 407
+- Survivor ID: 16548 ==> With Fitness: 347
+- Survivor ID: 16558 ==> With Fitness: 345
+-------------- Generation: 166 -------------- 
+Average fitness: -2696.81
+Highest fitness: 722 ==> by trainee with ID: 16690
+Survivors: 5
+- Survivor ID: 16690 ==> With Fitness: 722
+- Survivor ID: 16660 ==> With Fitness: 471
+- Survivor ID: 16636 ==> With Fitness: 282
+- Survivor ID: 16668 ==> With Fitness: 220
+- Survivor ID: 16670 ==> With Fitness: 157
+-------------- Generation: 167 -------------- 
+Average fitness: -2659.91
+Highest fitness: 407 ==> by trainee with ID: 16732
+Survivors: 5
+- Survivor ID: 16732 ==> With Fitness: 407
+- Survivor ID: 16726 ==> With Fitness: 347
+- Survivor ID: 16758 ==> With Fitness: 346
+- Survivor ID: 16702 ==> With Fitness: 226
+- Survivor ID: 16752 ==> With Fitness: 98
+-------------- Generation: 168 -------------- 
+Average fitness: -2654.42
+Highest fitness: 724 ==> by trainee with ID: 16804
+Survivors: 5
+- Survivor ID: 16804 ==> With Fitness: 724
+- Survivor ID: 16850 ==> With Fitness: 409
+- Survivor ID: 16822 ==> With Fitness: 408
+- Survivor ID: 16848 ==> With Fitness: 402
+- Survivor ID: 16872 ==> With Fitness: 348
+-------------- Generation: 169 -------------- 
+Average fitness: -2724.61
+Highest fitness: 468 ==> by trainee with ID: 16958
+Survivors: 5
+- Survivor ID: 16958 ==> With Fitness: 468
+- Survivor ID: 16994 ==> With Fitness: 343
+- Survivor ID: 16942 ==> With Fitness: 225
+- Survivor ID: 16988 ==> With Fitness: 224
+- Survivor ID: 16934 ==> With Fitness: 156
+-------------- Generation: 170 -------------- 
+Average fitness: -2750.26
+Highest fitness: 224 ==> by trainee with ID: 17048
+Survivors: 5
+- Survivor ID: 17048 ==> With Fitness: 224
+- Survivor ID: 17000 ==> With Fitness: 222
+- Survivor ID: 17082 ==> With Fitness: 218
+- Survivor ID: 17022 ==> With Fitness: 95
+- Survivor ID: 17064 ==> With Fitness: 31
+-------------- Generation: 171 -------------- 
+Average fitness: -2711.55
+Highest fitness: 473 ==> by trainee with ID: 17180
+Survivors: 5
+- Survivor ID: 17180 ==> With Fitness: 473
+- Survivor ID: 17140 ==> With Fitness: 409
+- Survivor ID: 17112 ==> With Fitness: 280
+- Survivor ID: 17126 ==> With Fitness: 221
+- Survivor ID: 17138 ==> With Fitness: 217
+-------------- Generation: 172 -------------- 
+Average fitness: -2705.73
+Highest fitness: 469 ==> by trainee with ID: 17204
+Survivors: 5
+- Survivor ID: 17204 ==> With Fitness: 469
+- Survivor ID: 17282 ==> With Fitness: 283
+- Survivor ID: 17292 ==> With Fitness: 217
+- Survivor ID: 17272 ==> With Fitness: 28
+- Survivor ID: 17232 ==> With Fitness: -26
+-------------- Generation: 173 -------------- 
+Average fitness: -2802.35
+Highest fitness: 341 ==> by trainee with ID: 17306
+Survivors: 5
+- Survivor ID: 17306 ==> With Fitness: 341
+- Survivor ID: 17386 ==> With Fitness: 341
+- Survivor ID: 17378 ==> With Fitness: 160
+- Survivor ID: 17330 ==> With Fitness: 157
+- Survivor ID: 17316 ==> With Fitness: 97
+-------------- Generation: 174 -------------- 
+Average fitness: -2685.89
+Highest fitness: 468 ==> by trainee with ID: 17456
+Survivors: 5
+- Survivor ID: 17456 ==> With Fitness: 468
+- Survivor ID: 17436 ==> With Fitness: 346
+- Survivor ID: 17446 ==> With Fitness: 281
+- Survivor ID: 17484 ==> With Fitness: 280
+- Survivor ID: 17418 ==> With Fitness: 220
+-------------- Generation: 175 -------------- 
+Average fitness: -2747.53
+Highest fitness: 525 ==> by trainee with ID: 17588
+Survivors: 5
+- Survivor ID: 17588 ==> With Fitness: 525
+- Survivor ID: 17562 ==> With Fitness: 467
+- Survivor ID: 17578 ==> With Fitness: 405
+- Survivor ID: 17572 ==> With Fitness: 344
+- Survivor ID: 17596 ==> With Fitness: 153
+-------------- Generation: 176 -------------- 
+Average fitness: -2863.66
+Highest fitness: 600 ==> by trainee with ID: 17628
+Survivors: 5
+- Survivor ID: 17628 ==> With Fitness: 600
+- Survivor ID: 17656 ==> With Fitness: 286
+- Survivor ID: 17602 ==> With Fitness: 280
+- Survivor ID: 17616 ==> With Fitness: 96
+- Survivor ID: 17612 ==> With Fitness: 31
+-------------- Generation: 177 -------------- 
+Average fitness: -2682.46
+Highest fitness: 469 ==> by trainee with ID: 17744
+Survivors: 5
+- Survivor ID: 17744 ==> With Fitness: 469
+- Survivor ID: 17778 ==> With Fitness: 408
+- Survivor ID: 17730 ==> With Fitness: 220
+- Survivor ID: 17700 ==> With Fitness: 218
+- Survivor ID: 17708 ==> With Fitness: 100
+-------------- Generation: 178 -------------- 
+Average fitness: -2750.37
+Highest fitness: 726 ==> by trainee with ID: 17894
+Survivors: 5
+- Survivor ID: 17894 ==> With Fitness: 726
+- Survivor ID: 17874 ==> With Fitness: 415
+- Survivor ID: 17854 ==> With Fitness: 281
+- Survivor ID: 17804 ==> With Fitness: 216
+- Survivor ID: 17888 ==> With Fitness: 161
+-------------- Generation: 179 -------------- 
+Average fitness: -2651.92
+Highest fitness: 472 ==> by trainee with ID: 17902
+Survivors: 5
+- Survivor ID: 17902 ==> With Fitness: 472
+- Survivor ID: 17974 ==> With Fitness: 348
+- Survivor ID: 17912 ==> With Fitness: 345
+- Survivor ID: 17958 ==> With Fitness: 275
+- Survivor ID: 17900 ==> With Fitness: 223
+-------------- Generation: 180 -------------- 
+Average fitness: -2733.3
+Highest fitness: 724 ==> by trainee with ID: 18002
+Survivors: 5
+- Survivor ID: 18068 ==> With Fitness: 724
+- Survivor ID: 18002 ==> With Fitness: 724
+- Survivor ID: 18088 ==> With Fitness: 472
+- Survivor ID: 18094 ==> With Fitness: 468
+- Survivor ID: 18006 ==> With Fitness: 342
+-------------- Generation: 181 -------------- 
+Average fitness: -2711.23
+Highest fitness: 472 ==> by trainee with ID: 18182
+Survivors: 5
+- Survivor ID: 18182 ==> With Fitness: 472
+- Survivor ID: 18150 ==> With Fitness: 351
+- Survivor ID: 18148 ==> With Fitness: 345
+- Survivor ID: 18126 ==> With Fitness: 344
+- Survivor ID: 18120 ==> With Fitness: 219
+-------------- Generation: 182 -------------- 
+Average fitness: -2734.7
+Highest fitness: 468 ==> by trainee with ID: 18224
+Survivors: 5
+- Survivor ID: 18224 ==> With Fitness: 468
+- Survivor ID: 18234 ==> With Fitness: 464
+- Survivor ID: 18274 ==> With Fitness: 407
+- Survivor ID: 18244 ==> With Fitness: 287
+- Survivor ID: 18280 ==> With Fitness: 283
+-------------- Generation: 183 -------------- 
+Average fitness: -2948.35
+Highest fitness: 721 ==> by trainee with ID: 18302
+Survivors: 5
+- Survivor ID: 18302 ==> With Fitness: 721
+- Survivor ID: 18314 ==> With Fitness: 721
+- Survivor ID: 18378 ==> With Fitness: 472
+- Survivor ID: 18326 ==> With Fitness: 223
+- Survivor ID: 18398 ==> With Fitness: 221
+-------------- Generation: 184 -------------- 
+Average fitness: -2966.93
+Highest fitness: 599 ==> by trainee with ID: 18480
+Survivors: 5
+- Survivor ID: 18480 ==> With Fitness: 599
+- Survivor ID: 18404 ==> With Fitness: 345
+- Survivor ID: 18482 ==> With Fitness: 94
+- Survivor ID: 18400 ==> With Fitness: -22
+- Survivor ID: 18476 ==> With Fitness: -31
+-------------- Generation: 185 -------------- 
+Average fitness: -2661.75
+Highest fitness: 348 ==> by trainee with ID: 18584
+Survivors: 5
+- Survivor ID: 18584 ==> With Fitness: 348
+- Survivor ID: 18546 ==> With Fitness: 218
+- Survivor ID: 18552 ==> With Fitness: 98
+- Survivor ID: 18574 ==> With Fitness: 93
+- Survivor ID: 18580 ==> With Fitness: 37
+-------------- Generation: 186 -------------- 
+Average fitness: -2630.81
+Highest fitness: 588 ==> by trainee with ID: 18668
+Survivors: 5
+- Survivor ID: 18668 ==> With Fitness: 588
+- Survivor ID: 18674 ==> With Fitness: 281
+- Survivor ID: 18606 ==> With Fitness: 100
+- Survivor ID: 18604 ==> With Fitness: 96
+- Survivor ID: 18698 ==> With Fitness: 96
+-------------- Generation: 187 -------------- 
+Average fitness: -2621.85
+Highest fitness: 722 ==> by trainee with ID: 18736
+Survivors: 5
+- Survivor ID: 18736 ==> With Fitness: 722
+- Survivor ID: 18784 ==> With Fitness: 347
+- Survivor ID: 18738 ==> With Fitness: 221
+- Survivor ID: 18712 ==> With Fitness: 220
+- Survivor ID: 18798 ==> With Fitness: 218
+-------------- Generation: 188 -------------- 
+Average fitness: -2763.98
+Highest fitness: 721 ==> by trainee with ID: 18850
+Survivors: 5
+- Survivor ID: 18850 ==> With Fitness: 721
+- Survivor ID: 18820 ==> With Fitness: 532
+- Survivor ID: 18856 ==> With Fitness: 348
+- Survivor ID: 18800 ==> With Fitness: 220
+- Survivor ID: 18880 ==> With Fitness: 154
+-------------- Generation: 189 -------------- 
+Average fitness: -2635.4
+Highest fitness: 469 ==> by trainee with ID: 18958
+Survivors: 5
+- Survivor ID: 18958 ==> With Fitness: 469
+- Survivor ID: 18960 ==> With Fitness: 348
+- Survivor ID: 18930 ==> With Fitness: 345
+- Survivor ID: 18964 ==> With Fitness: 277
+- Survivor ID: 18988 ==> With Fitness: 220
+-------------- Generation: 190 -------------- 
+Average fitness: -2680.14
+Highest fitness: 599 ==> by trainee with ID: 19000
+Survivors: 5
+- Survivor ID: 19000 ==> With Fitness: 599
+- Survivor ID: 19014 ==> With Fitness: 595
+- Survivor ID: 19062 ==> With Fitness: 530
+- Survivor ID: 19084 ==> With Fitness: 407
+- Survivor ID: 19058 ==> With Fitness: 404
+-------------- Generation: 191 -------------- 
+Average fitness: -2684.21
+Highest fitness: 720 ==> by trainee with ID: 19198
+Survivors: 5
+- Survivor ID: 19198 ==> With Fitness: 720
+- Survivor ID: 19152 ==> With Fitness: 468
+- Survivor ID: 19154 ==> With Fitness: 221
+- Survivor ID: 19120 ==> With Fitness: 159
+- Survivor ID: 19116 ==> With Fitness: 158
+-------------- Generation: 192 -------------- 
+Average fitness: -2697.04
+Highest fitness: 412 ==> by trainee with ID: 19222
+Survivors: 5
+- Survivor ID: 19222 ==> With Fitness: 412
+- Survivor ID: 19210 ==> With Fitness: 279
+- Survivor ID: 19208 ==> With Fitness: 226
+- Survivor ID: 19200 ==> With Fitness: 222
+- Survivor ID: 19246 ==> With Fitness: 156
+-------------- Generation: 193 -------------- 
+Average fitness: -2669.38
+Highest fitness: 850 ==> by trainee with ID: 19358
+Survivors: 5
+- Survivor ID: 19358 ==> With Fitness: 850
+- Survivor ID: 19300 ==> With Fitness: 472
+- Survivor ID: 19392 ==> With Fitness: 347
+- Survivor ID: 19364 ==> With Fitness: 346
+- Survivor ID: 19314 ==> With Fitness: 345
+-------------- Generation: 194 -------------- 
+Average fitness: -2682.44
+Highest fitness: 408 ==> by trainee with ID: 19490
+Survivors: 5
+- Survivor ID: 19490 ==> With Fitness: 408
+- Survivor ID: 19410 ==> With Fitness: 346
+- Survivor ID: 19482 ==> With Fitness: 282
+- Survivor ID: 19402 ==> With Fitness: 222
+- Survivor ID: 19454 ==> With Fitness: 222
+-------------- Generation: 195 -------------- 
+Average fitness: -2787.33
+Highest fitness: 349 ==> by trainee with ID: 19550
+Survivors: 5
+- Survivor ID: 19550 ==> With Fitness: 349
+- Survivor ID: 19578 ==> With Fitness: 223
+- Survivor ID: 19518 ==> With Fitness: 217
+- Survivor ID: 19504 ==> With Fitness: 154
+- Survivor ID: 19544 ==> With Fitness: 97
+-------------- Generation: 196 -------------- 
+Average fitness: -2946.81
+Highest fitness: 467 ==> by trainee with ID: 19640
+Survivors: 5
+- Survivor ID: 19640 ==> With Fitness: 467
+- Survivor ID: 19638 ==> With Fitness: 403
+- Survivor ID: 19636 ==> With Fitness: 219
+- Survivor ID: 19666 ==> With Fitness: 96
+- Survivor ID: 19688 ==> With Fitness: 95
+-------------- Generation: 197 -------------- 
+Average fitness: -2765.46
+Highest fitness: 91 ==> by trainee with ID: 19796
+Survivors: 5
+- Survivor ID: 19796 ==> With Fitness: 91
+- Survivor ID: 19786 ==> With Fitness: 33
+- Survivor ID: 19752 ==> With Fitness: -32
+- Survivor ID: 19774 ==> With Fitness: -155
+- Survivor ID: 19702 ==> With Fitness: -156
+-------------- Generation: 198 -------------- 
+Average fitness: -2815.96
+Highest fitness: 534 ==> by trainee with ID: 19814
+Survivors: 5
+- Survivor ID: 19814 ==> With Fitness: 534
+- Survivor ID: 19886 ==> With Fitness: 409
+- Survivor ID: 19802 ==> With Fitness: 346
+- Survivor ID: 19852 ==> With Fitness: 346
+- Survivor ID: 19830 ==> With Fitness: -92
+-------------- Generation: 199 -------------- 
+Average fitness: -2848.53
+Highest fitness: 719 ==> by trainee with ID: 19918
+Survivors: 5
+- Survivor ID: 19918 ==> With Fitness: 719
+- Survivor ID: 19902 ==> With Fitness: 468
+- Survivor ID: 19962 ==> With Fitness: 404
+- Survivor ID: 19932 ==> With Fitness: 283
+- Survivor ID: 19978 ==> With Fitness: 100
+-------------- Generation: 200 -------------- 
+Average fitness: -2814.73
+Highest fitness: 530 ==> by trainee with ID: 20040
+Survivors: 5
+- Survivor ID: 20040 ==> With Fitness: 530
+- Survivor ID: 20036 ==> With Fitness: 471
+- Survivor ID: 20000 ==> With Fitness: 345
+- Survivor ID: 20080 ==> With Fitness: 222
+- Survivor ID: 20076 ==> With Fitness: 157
+-------------- Generation: 201 -------------- 
+Average fitness: -2555.17
+Highest fitness: 475 ==> by trainee with ID: 20182
+Survivors: 5
+- Survivor ID: 20182 ==> With Fitness: 475
+- Survivor ID: 20180 ==> With Fitness: 466
+- Survivor ID: 20130 ==> With Fitness: 224
+- Survivor ID: 20188 ==> With Fitness: 224
+- Survivor ID: 20152 ==> With Fitness: 223
+-------------- Generation: 202 -------------- 
+Average fitness: -2691.81
+Highest fitness: 345 ==> by trainee with ID: 20294
+Survivors: 5
+- Survivor ID: 20294 ==> With Fitness: 345
+- Survivor ID: 20278 ==> With Fitness: 343
+- Survivor ID: 20284 ==> With Fitness: 285
+- Survivor ID: 20222 ==> With Fitness: 220
+- Survivor ID: 20214 ==> With Fitness: 98
+-------------- Generation: 203 -------------- 
+Average fitness: -2654.74
+Highest fitness: 658 ==> by trainee with ID: 20380
+Survivors: 5
+- Survivor ID: 20380 ==> With Fitness: 658
+- Survivor ID: 20304 ==> With Fitness: 596
+- Survivor ID: 20374 ==> With Fitness: 475
+- Survivor ID: 20356 ==> With Fitness: 403
+- Survivor ID: 20342 ==> With Fitness: 350
+-------------- Generation: 204 -------------- 
+Average fitness: -2791.99
+Highest fitness: 409 ==> by trainee with ID: 20428
+Survivors: 5
+- Survivor ID: 20428 ==> With Fitness: 409
+- Survivor ID: 20472 ==> With Fitness: 347
+- Survivor ID: 20418 ==> With Fitness: 346
+- Survivor ID: 20436 ==> With Fitness: 221
+- Survivor ID: 20494 ==> With Fitness: 95
+-------------- Generation: 205 -------------- 
+Average fitness: -2688.98
+Highest fitness: 461 ==> by trainee with ID: 20588
+Survivors: 5
+- Survivor ID: 20588 ==> With Fitness: 461
+- Survivor ID: 20540 ==> With Fitness: 222
+- Survivor ID: 20516 ==> With Fitness: 154
+- Survivor ID: 20572 ==> With Fitness: 96
+- Survivor ID: 20568 ==> With Fitness: 95
+-------------- Generation: 206 -------------- 
+Average fitness: -2775.26
+Highest fitness: 718 ==> by trainee with ID: 20624
+Survivors: 5
+- Survivor ID: 20624 ==> With Fitness: 718
+- Survivor ID: 20632 ==> With Fitness: 349
+- Survivor ID: 20698 ==> With Fitness: 342
+- Survivor ID: 20634 ==> With Fitness: 278
+- Survivor ID: 20664 ==> With Fitness: 218
+-------------- Generation: 207 -------------- 
+Average fitness: -2524.57
+Highest fitness: 716 ==> by trainee with ID: 20790
+Survivors: 5
+- Survivor ID: 20790 ==> With Fitness: 716
+- Survivor ID: 20792 ==> With Fitness: 470
+- Survivor ID: 20766 ==> With Fitness: 403
+- Survivor ID: 20758 ==> With Fitness: 346
+- Survivor ID: 20796 ==> With Fitness: 280
+-------------- Generation: 208 -------------- 
+Average fitness: -2571.63
+Highest fitness: 598 ==> by trainee with ID: 20834
+Survivors: 5
+- Survivor ID: 20834 ==> With Fitness: 598
+- Survivor ID: 20838 ==> With Fitness: 475
+- Survivor ID: 20848 ==> With Fitness: 345
+- Survivor ID: 20840 ==> With Fitness: 344
+- Survivor ID: 20810 ==> With Fitness: 339
+-------------- Generation: 209 -------------- 
+Average fitness: -2595.51
+Highest fitness: 471 ==> by trainee with ID: 20966
+Survivors: 5
+- Survivor ID: 20966 ==> With Fitness: 471
+- Survivor ID: 20922 ==> With Fitness: 467
+- Survivor ID: 20916 ==> With Fitness: 344
+- Survivor ID: 20956 ==> With Fitness: 277
+- Survivor ID: 20982 ==> With Fitness: 220
+-------------- Generation: 210 -------------- 
+Average fitness: -2613.6
+Highest fitness: 475 ==> by trainee with ID: 21094
+Survivors: 5
+- Survivor ID: 21094 ==> With Fitness: 475
+- Survivor ID: 21022 ==> With Fitness: 472
+- Survivor ID: 21078 ==> With Fitness: 471
+- Survivor ID: 21092 ==> With Fitness: 408
+- Survivor ID: 21014 ==> With Fitness: 346
+-------------- Generation: 211 -------------- 
+Average fitness: -2824.93
+Highest fitness: 350 ==> by trainee with ID: 21186
+Survivors: 5
+- Survivor ID: 21186 ==> With Fitness: 350
+- Survivor ID: 21130 ==> With Fitness: 345
+- Survivor ID: 21128 ==> With Fitness: 343
+- Survivor ID: 21150 ==> With Fitness: 227
+- Survivor ID: 21126 ==> With Fitness: 220
+-------------- Generation: 212 -------------- 
+Average fitness: -2957.16
+Highest fitness: 593 ==> by trainee with ID: 21218
+Survivors: 5
+- Survivor ID: 21218 ==> With Fitness: 593
+- Survivor ID: 21212 ==> With Fitness: 349
+- Survivor ID: 21266 ==> With Fitness: 348
+- Survivor ID: 21296 ==> With Fitness: 222
+- Survivor ID: 21238 ==> With Fitness: 222
+-------------- Generation: 213 -------------- 
+Average fitness: -2747.94
+Highest fitness: 593 ==> by trainee with ID: 21316
+Survivors: 5
+- Survivor ID: 21316 ==> With Fitness: 593
+- Survivor ID: 21352 ==> With Fitness: 474
+- Survivor ID: 21314 ==> With Fitness: 409
+- Survivor ID: 21306 ==> With Fitness: 280
+- Survivor ID: 21390 ==> With Fitness: 160
+-------------- Generation: 214 -------------- 
+Average fitness: -2745.88
+Highest fitness: 346 ==> by trainee with ID: 21478
+Survivors: 5
+- Survivor ID: 21478 ==> With Fitness: 346
+- Survivor ID: 21406 ==> With Fitness: 280
+- Survivor ID: 21462 ==> With Fitness: 224
+- Survivor ID: 21474 ==> With Fitness: 222
+- Survivor ID: 21468 ==> With Fitness: 219
+-------------- Generation: 215 -------------- 
+Average fitness: -2614.86
+Highest fitness: 603 ==> by trainee with ID: 21546
+Survivors: 5
+- Survivor ID: 21546 ==> With Fitness: 603
+- Survivor ID: 21558 ==> With Fitness: 345
+- Survivor ID: 21548 ==> With Fitness: 344
+- Survivor ID: 21560 ==> With Fitness: 277
+- Survivor ID: 21596 ==> With Fitness: 219
+-------------- Generation: 216 -------------- 
+Average fitness: -2909.81
+Highest fitness: 473 ==> by trainee with ID: 21678
+Survivors: 5
+- Survivor ID: 21678 ==> With Fitness: 473
+- Survivor ID: 21660 ==> With Fitness: 349
+- Survivor ID: 21604 ==> With Fitness: 347
+- Survivor ID: 21610 ==> With Fitness: 338
+- Survivor ID: 21676 ==> With Fitness: 278
+-------------- Generation: 217 -------------- 
+Average fitness: -2841.23
+Highest fitness: 471 ==> by trainee with ID: 21740
+Survivors: 5
+- Survivor ID: 21740 ==> With Fitness: 471
+- Survivor ID: 21782 ==> With Fitness: 470
+- Survivor ID: 21774 ==> With Fitness: 342
+- Survivor ID: 21750 ==> With Fitness: 279
+- Survivor ID: 21764 ==> With Fitness: 27
+-------------- Generation: 218 -------------- 
+Average fitness: -2561.06
+Highest fitness: 471 ==> by trainee with ID: 21828
+Survivors: 5
+- Survivor ID: 21828 ==> With Fitness: 471
+- Survivor ID: 21818 ==> With Fitness: 352
+- Survivor ID: 21882 ==> With Fitness: 283
+- Survivor ID: 21894 ==> With Fitness: 282
+- Survivor ID: 21866 ==> With Fitness: 224
+-------------- Generation: 219 -------------- 
+Average fitness: -2813.22
+Highest fitness: 1095 ==> by trainee with ID: 21926
+Survivors: 5
+- Survivor ID: 21926 ==> With Fitness: 1095
+- Survivor ID: 21946 ==> With Fitness: 468
+- Survivor ID: 21910 ==> With Fitness: 282
+- Survivor ID: 21994 ==> With Fitness: 156
+- Survivor ID: 21982 ==> With Fitness: 95
+-------------- Generation: 220 -------------- 
+Average fitness: -2771.15
+Highest fitness: 223 ==> by trainee with ID: 22038
+Survivors: 5
+- Survivor ID: 22038 ==> With Fitness: 223
+- Survivor ID: 22084 ==> With Fitness: 221
+- Survivor ID: 22048 ==> With Fitness: 156
+- Survivor ID: 22074 ==> With Fitness: 91
+- Survivor ID: 22076 ==> With Fitness: 31
+-------------- Generation: 221 -------------- 
+Average fitness: -2772.28
+Highest fitness: 594 ==> by trainee with ID: 22158
+Survivors: 5
+- Survivor ID: 22158 ==> With Fitness: 594
+- Survivor ID: 22186 ==> With Fitness: 408
+- Survivor ID: 22136 ==> With Fitness: 343
+- Survivor ID: 22166 ==> With Fitness: 282
+- Survivor ID: 22140 ==> With Fitness: 222
+-------------- Generation: 222 -------------- 
+Average fitness: -2958.8
+Highest fitness: 467 ==> by trainee with ID: 22248
+Survivors: 5
+- Survivor ID: 22248 ==> With Fitness: 467
+- Survivor ID: 22254 ==> With Fitness: 341
+- Survivor ID: 22208 ==> With Fitness: 92
+- Survivor ID: 22258 ==> With Fitness: 91
+- Survivor ID: 22204 ==> With Fitness: 37
+-------------- Generation: 223 -------------- 
+Average fitness: -3006.16
+Highest fitness: 660 ==> by trainee with ID: 22334
+Survivors: 5
+- Survivor ID: 22334 ==> With Fitness: 660
+- Survivor ID: 22362 ==> With Fitness: 470
+- Survivor ID: 22302 ==> With Fitness: 280
+- Survivor ID: 22342 ==> With Fitness: 219
+- Survivor ID: 22336 ==> With Fitness: 216
+-------------- Generation: 224 -------------- 
+Average fitness: -2731.97
+Highest fitness: 404 ==> by trainee with ID: 22498
+Survivors: 5
+- Survivor ID: 22498 ==> With Fitness: 404
+- Survivor ID: 22438 ==> With Fitness: 346
+- Survivor ID: 22480 ==> With Fitness: 221
+- Survivor ID: 22466 ==> With Fitness: 213
+- Survivor ID: 22420 ==> With Fitness: 28
+-------------- Generation: 225 -------------- 
+Average fitness: -2788.79
+Highest fitness: 970 ==> by trainee with ID: 22516
+Survivors: 5
+- Survivor ID: 22516 ==> With Fitness: 970
+- Survivor ID: 22596 ==> With Fitness: 472
+- Survivor ID: 22532 ==> With Fitness: 348
+- Survivor ID: 22586 ==> With Fitness: 345
+- Survivor ID: 22526 ==> With Fitness: 214
+-------------- Generation: 226 -------------- 
+Average fitness: -2929.69
+Highest fitness: 849 ==> by trainee with ID: 22610
+Survivors: 5
+- Survivor ID: 22610 ==> With Fitness: 849
+- Survivor ID: 22640 ==> With Fitness: 722
+- Survivor ID: 22690 ==> With Fitness: 720
+- Survivor ID: 22660 ==> With Fitness: 346
+- Survivor ID: 22680 ==> With Fitness: 345
+-------------- Generation: 227 -------------- 
+Average fitness: -2743.92
+Highest fitness: 715 ==> by trainee with ID: 22710
+Survivors: 5
+- Survivor ID: 22710 ==> With Fitness: 715
+- Survivor ID: 22704 ==> With Fitness: 596
+- Survivor ID: 22720 ==> With Fitness: 595
+- Survivor ID: 22746 ==> With Fitness: 465
+- Survivor ID: 22790 ==> With Fitness: 407
+-------------- Generation: 228 -------------- 
+Average fitness: -2572.3
+Highest fitness: 848 ==> by trainee with ID: 22884
+Survivors: 5
+- Survivor ID: 22884 ==> With Fitness: 848
+- Survivor ID: 22864 ==> With Fitness: 535
+- Survivor ID: 22878 ==> With Fitness: 534
+- Survivor ID: 22862 ==> With Fitness: 529
+- Survivor ID: 22842 ==> With Fitness: 473
+-------------- Generation: 229 -------------- 
+Average fitness: -2648.08
+Highest fitness: 655 ==> by trainee with ID: 22952
+Survivors: 5
+- Survivor ID: 22952 ==> With Fitness: 655
+- Survivor ID: 22986 ==> With Fitness: 471
+- Survivor ID: 22938 ==> With Fitness: 401
+- Survivor ID: 22902 ==> With Fitness: 343
+- Survivor ID: 22916 ==> With Fitness: 220
+-------------- Generation: 230 -------------- 
+Average fitness: -2795.47
+Highest fitness: 973 ==> by trainee with ID: 23078
+Survivors: 5
+- Survivor ID: 23078 ==> With Fitness: 973
+- Survivor ID: 23066 ==> With Fitness: 468
+- Survivor ID: 23060 ==> With Fitness: 340
+- Survivor ID: 23034 ==> With Fitness: 279
+- Survivor ID: 23038 ==> With Fitness: 220
+-------------- Generation: 231 -------------- 
+Average fitness: -2723.45
+Highest fitness: 402 ==> by trainee with ID: 23180
+Survivors: 5
+- Survivor ID: 23180 ==> With Fitness: 402
+- Survivor ID: 23178 ==> With Fitness: 349
+- Survivor ID: 23130 ==> With Fitness: 220
+- Survivor ID: 23184 ==> With Fitness: 219
+- Survivor ID: 23152 ==> With Fitness: 218
+-------------- Generation: 232 -------------- 
+Average fitness: -2700.99
+Highest fitness: 346 ==> by trainee with ID: 23298
+Survivors: 5
+- Survivor ID: 23298 ==> With Fitness: 346
+- Survivor ID: 23268 ==> With Fitness: 285
+- Survivor ID: 23218 ==> With Fitness: 224
+- Survivor ID: 23204 ==> With Fitness: 223
+- Survivor ID: 23260 ==> With Fitness: 219
+-------------- Generation: 233 -------------- 
+Average fitness: -2724.97
+Highest fitness: 596 ==> by trainee with ID: 23304
+Survivors: 5
+- Survivor ID: 23304 ==> With Fitness: 596
+- Survivor ID: 23392 ==> With Fitness: 466
+- Survivor ID: 23330 ==> With Fitness: 349
+- Survivor ID: 23348 ==> With Fitness: 219
+- Survivor ID: 23352 ==> With Fitness: 155
+-------------- Generation: 234 -------------- 
+Average fitness: -2765.6
+Highest fitness: 593 ==> by trainee with ID: 23446
+Survivors: 5
+- Survivor ID: 23446 ==> With Fitness: 593
+- Survivor ID: 23456 ==> With Fitness: 346
+- Survivor ID: 23454 ==> With Fitness: 345
+- Survivor ID: 23430 ==> With Fitness: 344
+- Survivor ID: 23484 ==> With Fitness: 340
+-------------- Generation: 235 -------------- 
+Average fitness: -3017.03
+Highest fitness: 282 ==> by trainee with ID: 23524
+Survivors: 5
+- Survivor ID: 23524 ==> With Fitness: 282
+- Survivor ID: 23568 ==> With Fitness: 157
+- Survivor ID: 23522 ==> With Fitness: 95
+- Survivor ID: 23500 ==> With Fitness: -23
+- Survivor ID: 23598 ==> With Fitness: -93
+-------------- Generation: 236 -------------- 
+Average fitness: -2719.71
+Highest fitness: 470 ==> by trainee with ID: 23664
+Survivors: 5
+- Survivor ID: 23664 ==> With Fitness: 470
+- Survivor ID: 23692 ==> With Fitness: 346
+- Survivor ID: 23630 ==> With Fitness: 282
+- Survivor ID: 23644 ==> With Fitness: 164
+- Survivor ID: 23650 ==> With Fitness: 33
+-------------- Generation: 237 -------------- 
+Average fitness: -2819.55
+Highest fitness: 347 ==> by trainee with ID: 23798
+Survivors: 5
+- Survivor ID: 23798 ==> With Fitness: 347
+- Survivor ID: 23770 ==> With Fitness: 346
+- Survivor ID: 23756 ==> With Fitness: 229
+- Survivor ID: 23772 ==> With Fitness: 223
+- Survivor ID: 23768 ==> With Fitness: 220
+-------------- Generation: 238 -------------- 
+Average fitness: -2968.47
+Highest fitness: 405 ==> by trainee with ID: 23882
+Survivors: 5
+- Survivor ID: 23882 ==> With Fitness: 405
+- Survivor ID: 23858 ==> With Fitness: 403
+- Survivor ID: 23846 ==> With Fitness: 34
+- Survivor ID: 23816 ==> With Fitness: -21
+- Survivor ID: 23864 ==> With Fitness: -28
+-------------- Generation: 239 -------------- 
+Average fitness: -2921.73
+Highest fitness: 221 ==> by trainee with ID: 23900
+Survivors: 5
+- Survivor ID: 23900 ==> With Fitness: 221
+- Survivor ID: 23902 ==> With Fitness: 96
+- Survivor ID: 23944 ==> With Fitness: 93
+- Survivor ID: 23910 ==> With Fitness: 89
+- Survivor ID: 23932 ==> With Fitness: -32
+-------------- Generation: 240 -------------- 
+Average fitness: -2934.58
+Highest fitness: 411 ==> by trainee with ID: 24072
+Survivors: 5
+- Survivor ID: 24072 ==> With Fitness: 411
+- Survivor ID: 24026 ==> With Fitness: 158
+- Survivor ID: 24004 ==> With Fitness: -31
+- Survivor ID: 24082 ==> With Fitness: -93
+- Survivor ID: 24042 ==> With Fitness: -95
+-------------- Generation: 241 -------------- 
+Average fitness: -2864.34
+Highest fitness: 476 ==> by trainee with ID: 24174
+Survivors: 5
+- Survivor ID: 24174 ==> With Fitness: 476
+- Survivor ID: 24104 ==> With Fitness: 411
+- Survivor ID: 24164 ==> With Fitness: 285
+- Survivor ID: 24122 ==> With Fitness: 218
+- Survivor ID: 24138 ==> With Fitness: 94
+-------------- Generation: 242 -------------- 
+Average fitness: -2584.59
+Highest fitness: 603 ==> by trainee with ID: 24214
+Survivors: 5
+- Survivor ID: 24214 ==> With Fitness: 603
+- Survivor ID: 24282 ==> With Fitness: 475
+- Survivor ID: 24264 ==> With Fitness: 471
+- Survivor ID: 24250 ==> With Fitness: 407
+- Survivor ID: 24210 ==> With Fitness: 281
+-------------- Generation: 243 -------------- 
+Average fitness: -2939.21
+Highest fitness: 467 ==> by trainee with ID: 24334
+Survivors: 5
+- Survivor ID: 24334 ==> With Fitness: 467
+- Survivor ID: 24350 ==> With Fitness: 99
+- Survivor ID: 24328 ==> With Fitness: 99
+- Survivor ID: 24360 ==> With Fitness: 96
+- Survivor ID: 24348 ==> With Fitness: 95
+-------------- Generation: 244 -------------- 
+Average fitness: -3045.86
+Highest fitness: 658 ==> by trainee with ID: 24402
+Survivors: 5
+- Survivor ID: 24402 ==> With Fitness: 658
+- Survivor ID: 24474 ==> With Fitness: 347
+- Survivor ID: 24432 ==> With Fitness: 342
+- Survivor ID: 24422 ==> With Fitness: 226
+- Survivor ID: 24464 ==> With Fitness: 160
+-------------- Generation: 245 -------------- 
+Average fitness: -3277.66
+Highest fitness: 225 ==> by trainee with ID: 24534
+Survivors: 5
+- Survivor ID: 24534 ==> With Fitness: 225
+- Survivor ID: 24500 ==> With Fitness: 224
+- Survivor ID: 24530 ==> With Fitness: 222
+- Survivor ID: 24580 ==> With Fitness: 159
+- Survivor ID: 24538 ==> With Fitness: 157
+-------------- Generation: 246 -------------- 
+Average fitness: -3115.49
+Highest fitness: 540 ==> by trainee with ID: 24618
+Survivors: 5
+- Survivor ID: 24618 ==> With Fitness: 540
+- Survivor ID: 24672 ==> With Fitness: 228
+- Survivor ID: 24650 ==> With Fitness: 99
+- Survivor ID: 24606 ==> With Fitness: 37
+- Survivor ID: 24688 ==> With Fitness: -30
+-------------- Generation: 247 -------------- 
+Average fitness: -2907.41
+Highest fitness: 785 ==> by trainee with ID: 24750
+Survivors: 5
+- Survivor ID: 24750 ==> With Fitness: 785
+- Survivor ID: 24760 ==> With Fitness: 410
+- Survivor ID: 24798 ==> With Fitness: 351
+- Survivor ID: 24714 ==> With Fitness: 275
+- Survivor ID: 24744 ==> With Fitness: 220
+-------------- Generation: 248 -------------- 
+Average fitness: -2889.02
+Highest fitness: 344 ==> by trainee with ID: 24880
+Survivors: 5
+- Survivor ID: 24880 ==> With Fitness: 344
+- Survivor ID: 24840 ==> With Fitness: 288
+- Survivor ID: 24812 ==> With Fitness: 95
+- Survivor ID: 24826 ==> With Fitness: 34
+- Survivor ID: 24844 ==> With Fitness: 28
+-------------- Generation: 249 -------------- 
+Average fitness: -2756.4
+Highest fitness: 596 ==> by trainee with ID: 24976
+Survivors: 5
+- Survivor ID: 24976 ==> With Fitness: 596
+- Survivor ID: 24944 ==> With Fitness: 288
+- Survivor ID: 24948 ==> With Fitness: 224
+- Survivor ID: 24906 ==> With Fitness: 153
+- Survivor ID: 24938 ==> With Fitness: -26
+-------------- Generation: 250 -------------- 
+Average fitness: -2831.6
+Highest fitness: 222 ==> by trainee with ID: 25048
+Survivors: 5
+- Survivor ID: 25048 ==> With Fitness: 222
+- Survivor ID: 25068 ==> With Fitness: 155
+- Survivor ID: 25058 ==> With Fitness: 154
+- Survivor ID: 25070 ==> With Fitness: 98
+- Survivor ID: 25028 ==> With Fitness: 94
+-------------- Generation: 251 -------------- 
+Average fitness: -2564.39
+Highest fitness: 971 ==> by trainee with ID: 25196
+Survivors: 5
+- Survivor ID: 25196 ==> With Fitness: 971
+- Survivor ID: 25192 ==> With Fitness: 350
+- Survivor ID: 25160 ==> With Fitness: 347
+- Survivor ID: 25104 ==> With Fitness: 282
+- Survivor ID: 25158 ==> With Fitness: 230
+-------------- Generation: 252 -------------- 
+Average fitness: -2628.98
+Highest fitness: 475 ==> by trainee with ID: 25228
+Survivors: 5
+- Survivor ID: 25228 ==> With Fitness: 475
+- Survivor ID: 25220 ==> With Fitness: 97
+- Survivor ID: 25284 ==> With Fitness: 90
+- Survivor ID: 25260 ==> With Fitness: 35
+- Survivor ID: 25290 ==> With Fitness: 30
+-------------- Generation: 253 -------------- 
+Average fitness: -2751.87
+Highest fitness: 100 ==> by trainee with ID: 25334
+Survivors: 5
+- Survivor ID: 25334 ==> With Fitness: 100
+- Survivor ID: 25316 ==> With Fitness: 97
+- Survivor ID: 25398 ==> With Fitness: 96
+- Survivor ID: 25328 ==> With Fitness: 94
+- Survivor ID: 25368 ==> With Fitness: 92
+-------------- Generation: 254 -------------- 
+Average fitness: -2619.5
+Highest fitness: 593 ==> by trainee with ID: 25494
+Survivors: 5
+- Survivor ID: 25494 ==> With Fitness: 593
+- Survivor ID: 25480 ==> With Fitness: 539
+- Survivor ID: 25474 ==> With Fitness: 466
+- Survivor ID: 25448 ==> With Fitness: 150
+- Survivor ID: 25472 ==> With Fitness: 100
+-------------- Generation: 255 -------------- 
+Average fitness: -2598.48
+Highest fitness: 278 ==> by trainee with ID: 25592
+Survivors: 5
+- Survivor ID: 25592 ==> With Fitness: 278
+- Survivor ID: 25584 ==> With Fitness: 221
+- Survivor ID: 25520 ==> With Fitness: 215
+- Survivor ID: 25524 ==> With Fitness: 93
+- Survivor ID: 25578 ==> With Fitness: -21
+-------------- Generation: 256 -------------- 
+Average fitness: -2518.51
+Highest fitness: 656 ==> by trainee with ID: 25680
+Survivors: 5
+- Survivor ID: 25680 ==> With Fitness: 656
+- Survivor ID: 25696 ==> With Fitness: 533
+- Survivor ID: 25624 ==> With Fitness: 470
+- Survivor ID: 25640 ==> With Fitness: 468
+- Survivor ID: 25676 ==> With Fitness: 356
+-------------- Generation: 257 -------------- 
+Average fitness: -2598.82
+Highest fitness: 467 ==> by trainee with ID: 25792
+Survivors: 5
+- Survivor ID: 25792 ==> With Fitness: 467
+- Survivor ID: 25754 ==> With Fitness: 406
+- Survivor ID: 25780 ==> With Fitness: 344
+- Survivor ID: 25756 ==> With Fitness: 223
+- Survivor ID: 25752 ==> With Fitness: 222
+-------------- Generation: 258 -------------- 
+Average fitness: -2538.76
+Highest fitness: 716 ==> by trainee with ID: 25846
+Survivors: 5
+- Survivor ID: 25846 ==> With Fitness: 716
+- Survivor ID: 25814 ==> With Fitness: 472
+- Survivor ID: 25828 ==> With Fitness: 342
+- Survivor ID: 25878 ==> With Fitness: 284
+- Survivor ID: 25808 ==> With Fitness: 278
+-------------- Generation: 259 -------------- 
+Average fitness: -2530.8
+Highest fitness: 535 ==> by trainee with ID: 25994
+Survivors: 5
+- Survivor ID: 25994 ==> With Fitness: 535
+- Survivor ID: 25914 ==> With Fitness: 406
+- Survivor ID: 25952 ==> With Fitness: 347
+- Survivor ID: 25948 ==> With Fitness: 342
+- Survivor ID: 25940 ==> With Fitness: 342
+-------------- Generation: 260 -------------- 
+Average fitness: -2555.53
+Highest fitness: 345 ==> by trainee with ID: 26068
+Survivors: 5
+- Survivor ID: 26068 ==> With Fitness: 345
+- Survivor ID: 26004 ==> With Fitness: 221
+- Survivor ID: 26046 ==> With Fitness: 219
+- Survivor ID: 26080 ==> With Fitness: 97
+- Survivor ID: 26010 ==> With Fitness: 90
+-------------- Generation: 261 -------------- 
+Average fitness: -2504.7
+Highest fitness: 475 ==> by trainee with ID: 26132
+Survivors: 5
+- Survivor ID: 26132 ==> With Fitness: 475
+- Survivor ID: 26142 ==> With Fitness: 470
+- Survivor ID: 26160 ==> With Fitness: 466
+- Survivor ID: 26168 ==> With Fitness: 227
+- Survivor ID: 26130 ==> With Fitness: 219
+-------------- Generation: 262 -------------- 
+Average fitness: -2803.63
+Highest fitness: 594 ==> by trainee with ID: 26250
+Survivors: 5
+- Survivor ID: 26250 ==> With Fitness: 594
+- Survivor ID: 26222 ==> With Fitness: 467
+- Survivor ID: 26232 ==> With Fitness: 347
+- Survivor ID: 26226 ==> With Fitness: 281
+- Survivor ID: 26260 ==> With Fitness: 160
+-------------- Generation: 263 -------------- 
+Average fitness: -2946.38
+Highest fitness: 479 ==> by trainee with ID: 26362
+Survivors: 5
+- Survivor ID: 26362 ==> With Fitness: 479
+- Survivor ID: 26344 ==> With Fitness: 475
+- Survivor ID: 26336 ==> With Fitness: 472
+- Survivor ID: 26326 ==> With Fitness: 223
+- Survivor ID: 26378 ==> With Fitness: 223
+-------------- Generation: 264 -------------- 
+Average fitness: -2815.68
+Highest fitness: 475 ==> by trainee with ID: 26456
+Survivors: 5
+- Survivor ID: 26456 ==> With Fitness: 475
+- Survivor ID: 26416 ==> With Fitness: 345
+- Survivor ID: 26432 ==> With Fitness: 223
+- Survivor ID: 26448 ==> With Fitness: 222
+- Survivor ID: 26478 ==> With Fitness: 217
+-------------- Generation: 265 -------------- 
+Average fitness: -2854.04
+Highest fitness: 473 ==> by trainee with ID: 26508
+Survivors: 5
+- Survivor ID: 26508 ==> With Fitness: 473
+- Survivor ID: 26514 ==> With Fitness: 473
+- Survivor ID: 26588 ==> With Fitness: 349
+- Survivor ID: 26552 ==> With Fitness: 347
+- Survivor ID: 26598 ==> With Fitness: 287
+-------------- Generation: 266 -------------- 
+Average fitness: -2623.5
+Highest fitness: 413 ==> by trainee with ID: 26644
+Survivors: 5
+- Survivor ID: 26644 ==> With Fitness: 413
+- Survivor ID: 26672 ==> With Fitness: 343
+- Survivor ID: 26648 ==> With Fitness: 230
+- Survivor ID: 26688 ==> With Fitness: 224
+- Survivor ID: 26600 ==> With Fitness: 217
+-------------- Generation: 267 -------------- 
+Average fitness: -2562.35
+Highest fitness: 592 ==> by trainee with ID: 26704
+Survivors: 5
+- Survivor ID: 26704 ==> With Fitness: 592
+- Survivor ID: 26710 ==> With Fitness: 534
+- Survivor ID: 26786 ==> With Fitness: 471
+- Survivor ID: 26788 ==> With Fitness: 407
+- Survivor ID: 26718 ==> With Fitness: 347
+-------------- Generation: 268 -------------- 
+Average fitness: -2615.9
+Highest fitness: 472 ==> by trainee with ID: 26862
+Survivors: 5
+- Survivor ID: 26862 ==> With Fitness: 472
+- Survivor ID: 26802 ==> With Fitness: 346
+- Survivor ID: 26886 ==> With Fitness: 282
+- Survivor ID: 26854 ==> With Fitness: 98
+- Survivor ID: 26836 ==> With Fitness: 98
+-------------- Generation: 269 -------------- 
+Average fitness: -2573.64
+Highest fitness: 601 ==> by trainee with ID: 26990
+Survivors: 5
+- Survivor ID: 26990 ==> With Fitness: 601
+- Survivor ID: 26994 ==> With Fitness: 350
+- Survivor ID: 26950 ==> With Fitness: 342
+- Survivor ID: 26902 ==> With Fitness: 283
+- Survivor ID: 26928 ==> With Fitness: 221
+-------------- Generation: 270 -------------- 
+Average fitness: -2711.96
+Highest fitness: 908 ==> by trainee with ID: 27080
+Survivors: 5
+- Survivor ID: 27080 ==> With Fitness: 908
+- Survivor ID: 27030 ==> With Fitness: 471
+- Survivor ID: 27044 ==> With Fitness: 468
+- Survivor ID: 27002 ==> With Fitness: 348
+- Survivor ID: 27040 ==> With Fitness: 348
+-------------- Generation: 271 -------------- 
+Average fitness: -2623.69
+Highest fitness: 469 ==> by trainee with ID: 27100
+Survivors: 5
+- Survivor ID: 27100 ==> With Fitness: 469
+- Survivor ID: 27196 ==> With Fitness: 347
+- Survivor ID: 27192 ==> With Fitness: 345
+- Survivor ID: 27176 ==> With Fitness: 343
+- Survivor ID: 27142 ==> With Fitness: 340
+-------------- Generation: 272 -------------- 
+Average fitness: -2744.72
+Highest fitness: 846 ==> by trainee with ID: 27252
+Survivors: 5
+- Survivor ID: 27252 ==> With Fitness: 846
+- Survivor ID: 27270 ==> With Fitness: 595
+- Survivor ID: 27294 ==> With Fitness: 532
+- Survivor ID: 27240 ==> With Fitness: 401
+- Survivor ID: 27250 ==> With Fitness: 282
+-------------- Generation: 273 -------------- 
+Average fitness: -2688.98
+Highest fitness: 595 ==> by trainee with ID: 27360
+Survivors: 5
+- Survivor ID: 27360 ==> With Fitness: 595
+- Survivor ID: 27354 ==> With Fitness: 526
+- Survivor ID: 27304 ==> With Fitness: 342
+- Survivor ID: 27386 ==> With Fitness: 342
+- Survivor ID: 27338 ==> With Fitness: 341
+-------------- Generation: 274 -------------- 
+Average fitness: -2604.24
+Highest fitness: 721 ==> by trainee with ID: 27426
+Survivors: 5
+- Survivor ID: 27426 ==> With Fitness: 721
+- Survivor ID: 27494 ==> With Fitness: 342
+- Survivor ID: 27496 ==> With Fitness: 219
+- Survivor ID: 27406 ==> With Fitness: 218
+- Survivor ID: 27454 ==> With Fitness: 218
+-------------- Generation: 275 -------------- 
+Average fitness: -2531.59
+Highest fitness: 972 ==> by trainee with ID: 27570
+Survivors: 5
+- Survivor ID: 27570 ==> With Fitness: 972
+- Survivor ID: 27532 ==> With Fitness: 780
+- Survivor ID: 27506 ==> With Fitness: 596
+- Survivor ID: 27544 ==> With Fitness: 588
+- Survivor ID: 27530 ==> With Fitness: 400
+-------------- Generation: 276 -------------- 
+Average fitness: -2571.18
+Highest fitness: 476 ==> by trainee with ID: 27676
+Survivors: 5
+- Survivor ID: 27676 ==> With Fitness: 476
+- Survivor ID: 27628 ==> With Fitness: 471
+- Survivor ID: 27666 ==> With Fitness: 470
+- Survivor ID: 27698 ==> With Fitness: 462
+- Survivor ID: 27618 ==> With Fitness: 349
+-------------- Generation: 277 -------------- 
+Average fitness: -3039.98
+Highest fitness: 849 ==> by trainee with ID: 27776
+Survivors: 5
+- Survivor ID: 27776 ==> With Fitness: 849
+- Survivor ID: 27792 ==> With Fitness: 528
+- Survivor ID: 27752 ==> With Fitness: 405
+- Survivor ID: 27760 ==> With Fitness: 215
+- Survivor ID: 27772 ==> With Fitness: 91
+-------------- Generation: 278 -------------- 
+Average fitness: -2605.65
+Highest fitness: 598 ==> by trainee with ID: 27860
+Survivors: 5
+- Survivor ID: 27860 ==> With Fitness: 598
+- Survivor ID: 27848 ==> With Fitness: 592
+- Survivor ID: 27884 ==> With Fitness: 533
+- Survivor ID: 27874 ==> With Fitness: 528
+- Survivor ID: 27846 ==> With Fitness: 528
+-------------- Generation: 279 -------------- 
+Average fitness: -2581.43
+Highest fitness: 589 ==> by trainee with ID: 27996
+Survivors: 5
+- Survivor ID: 27996 ==> With Fitness: 589
+- Survivor ID: 27938 ==> With Fitness: 467
+- Survivor ID: 27992 ==> With Fitness: 344
+- Survivor ID: 27906 ==> With Fitness: 225
+- Survivor ID: 27912 ==> With Fitness: 221
+-------------- Generation: 280 -------------- 
+Average fitness: -2504.96
+Highest fitness: 965 ==> by trainee with ID: 28036
+Survivors: 5
+- Survivor ID: 28036 ==> With Fitness: 965
+- Survivor ID: 28012 ==> With Fitness: 653
+- Survivor ID: 28068 ==> With Fitness: 528
+- Survivor ID: 28004 ==> With Fitness: 281
+- Survivor ID: 28092 ==> With Fitness: 280
+-------------- Generation: 281 -------------- 
+Average fitness: -2611.17
+Highest fitness: 225 ==> by trainee with ID: 28114
+Survivors: 5
+- Survivor ID: 28114 ==> With Fitness: 225
+- Survivor ID: 28174 ==> With Fitness: 221
+- Survivor ID: 28176 ==> With Fitness: 220
+- Survivor ID: 28106 ==> With Fitness: 98
+- Survivor ID: 28172 ==> With Fitness: 93
+-------------- Generation: 282 -------------- 
+Average fitness: -2560.03
+Highest fitness: 534 ==> by trainee with ID: 28228
+Survivors: 5
+- Survivor ID: 28228 ==> With Fitness: 534
+- Survivor ID: 28232 ==> With Fitness: 410
+- Survivor ID: 28220 ==> With Fitness: 405
+- Survivor ID: 28222 ==> With Fitness: 228
+- Survivor ID: 28210 ==> With Fitness: 220
+-------------- Generation: 283 -------------- 
+Average fitness: -2639.5
+Highest fitness: 478 ==> by trainee with ID: 28304
+Survivors: 5
+- Survivor ID: 28304 ==> With Fitness: 478
+- Survivor ID: 28308 ==> With Fitness: 470
+- Survivor ID: 28382 ==> With Fitness: 342
+- Survivor ID: 28326 ==> With Fitness: 221
+- Survivor ID: 28330 ==> With Fitness: 213
+-------------- Generation: 284 -------------- 
+Average fitness: -2446.7
+Highest fitness: 598 ==> by trainee with ID: 28442
+Survivors: 5
+- Survivor ID: 28442 ==> With Fitness: 598
+- Survivor ID: 28424 ==> With Fitness: 593
+- Survivor ID: 28434 ==> With Fitness: 526
+- Survivor ID: 28416 ==> With Fitness: 472
+- Survivor ID: 28476 ==> With Fitness: 471
+-------------- Generation: 285 -------------- 
+Average fitness: -2498.91
+Highest fitness: 841 ==> by trainee with ID: 28592
+Survivors: 5
+- Survivor ID: 28592 ==> With Fitness: 841
+- Survivor ID: 28546 ==> With Fitness: 720
+- Survivor ID: 28580 ==> With Fitness: 469
+- Survivor ID: 28596 ==> With Fitness: 466
+- Survivor ID: 28534 ==> With Fitness: 403
+-------------- Generation: 286 -------------- 
+Average fitness: -2644.9
+Highest fitness: 967 ==> by trainee with ID: 28664
+Survivors: 5
+- Survivor ID: 28664 ==> With Fitness: 967
+- Survivor ID: 28682 ==> With Fitness: 466
+- Survivor ID: 28698 ==> With Fitness: 337
+- Survivor ID: 28634 ==> With Fitness: 220
+- Survivor ID: 28646 ==> With Fitness: 219
+-------------- Generation: 287 -------------- 
+Average fitness: -2546.99
+Highest fitness: 845 ==> by trainee with ID: 28762
+Survivors: 5
+- Survivor ID: 28762 ==> With Fitness: 845
+- Survivor ID: 28758 ==> With Fitness: 529
+- Survivor ID: 28700 ==> With Fitness: 466
+- Survivor ID: 28780 ==> With Fitness: 346
+- Survivor ID: 28776 ==> With Fitness: 276
+-------------- Generation: 288 -------------- 
+Average fitness: -2501.36
+Highest fitness: 351 ==> by trainee with ID: 28800
+Survivors: 5
+- Survivor ID: 28800 ==> With Fitness: 351
+- Survivor ID: 28832 ==> With Fitness: 344
+- Survivor ID: 28894 ==> With Fitness: 283
+- Survivor ID: 28844 ==> With Fitness: 282
+- Survivor ID: 28862 ==> With Fitness: 222
+-------------- Generation: 289 -------------- 
+Average fitness: -2664.11
+Highest fitness: 719 ==> by trainee with ID: 28984
+Survivors: 5
+- Survivor ID: 28984 ==> With Fitness: 719
+- Survivor ID: 28990 ==> With Fitness: 661
+- Survivor ID: 28926 ==> With Fitness: 468
+- Survivor ID: 28968 ==> With Fitness: 462
+- Survivor ID: 28956 ==> With Fitness: 408
+-------------- Generation: 290 -------------- 
+Average fitness: -2641.75
+Highest fitness: 342 ==> by trainee with ID: 29032
+Survivors: 5
+- Survivor ID: 29032 ==> With Fitness: 342
+- Survivor ID: 29092 ==> With Fitness: 342
+- Survivor ID: 29090 ==> With Fitness: 342
+- Survivor ID: 29072 ==> With Fitness: 339
+- Survivor ID: 29006 ==> With Fitness: 224
+-------------- Generation: 291 -------------- 
+Average fitness: -2390.62
+Highest fitness: 846 ==> by trainee with ID: 29120
+Survivors: 5
+- Survivor ID: 29120 ==> With Fitness: 846
+- Survivor ID: 29138 ==> With Fitness: 718
+- Survivor ID: 29140 ==> With Fitness: 600
+- Survivor ID: 29178 ==> With Fitness: 470
+- Survivor ID: 29126 ==> With Fitness: 467
+-------------- Generation: 292 -------------- 
+Average fitness: -2422.52
+Highest fitness: 721 ==> by trainee with ID: 29266
+Survivors: 5
+- Survivor ID: 29266 ==> With Fitness: 721
+- Survivor ID: 29246 ==> With Fitness: 598
+- Survivor ID: 29296 ==> With Fitness: 593
+- Survivor ID: 29288 ==> With Fitness: 469
+- Survivor ID: 29202 ==> With Fitness: 467
+-------------- Generation: 293 -------------- 
+Average fitness: -2388.61
+Highest fitness: 654 ==> by trainee with ID: 29392
+Survivors: 5
+- Survivor ID: 29392 ==> With Fitness: 654
+- Survivor ID: 29386 ==> With Fitness: 594
+- Survivor ID: 29352 ==> With Fitness: 530
+- Survivor ID: 29312 ==> With Fitness: 529
+- Survivor ID: 29374 ==> With Fitness: 474
+-------------- Generation: 294 -------------- 
+Average fitness: -2470.77
+Highest fitness: 718 ==> by trainee with ID: 29450
+Survivors: 5
+- Survivor ID: 29450 ==> With Fitness: 718
+- Survivor ID: 29486 ==> With Fitness: 533
+- Survivor ID: 29468 ==> With Fitness: 531
+- Survivor ID: 29472 ==> With Fitness: 473
+- Survivor ID: 29440 ==> With Fitness: 467
+-------------- Generation: 295 -------------- 
+Average fitness: -2536.15
+Highest fitness: 590 ==> by trainee with ID: 29598
+Survivors: 5
+- Survivor ID: 29598 ==> With Fitness: 590
+- Survivor ID: 29570 ==> With Fitness: 470
+- Survivor ID: 29566 ==> With Fitness: 348
+- Survivor ID: 29590 ==> With Fitness: 344
+- Survivor ID: 29528 ==> With Fitness: 220
+-------------- Generation: 296 -------------- 
+Average fitness: -2493.87
+Highest fitness: 468 ==> by trainee with ID: 29690
+Survivors: 5
+- Survivor ID: 29690 ==> With Fitness: 468
+- Survivor ID: 29608 ==> With Fitness: 407
+- Survivor ID: 29686 ==> With Fitness: 346
+- Survivor ID: 29610 ==> With Fitness: 344
+- Survivor ID: 29616 ==> With Fitness: 341
+-------------- Generation: 297 -------------- 
+Average fitness: -2614.6
+Highest fitness: 471 ==> by trainee with ID: 29794
+Survivors: 5
+- Survivor ID: 29794 ==> With Fitness: 471
+- Survivor ID: 29790 ==> With Fitness: 405
+- Survivor ID: 29758 ==> With Fitness: 346
+- Survivor ID: 29702 ==> With Fitness: 220
+- Survivor ID: 29704 ==> With Fitness: 220
+-------------- Generation: 298 -------------- 
+Average fitness: -2542.93
+Highest fitness: 722 ==> by trainee with ID: 29862
+Survivors: 5
+- Survivor ID: 29862 ==> With Fitness: 722
+- Survivor ID: 29884 ==> With Fitness: 721
+- Survivor ID: 29802 ==> With Fitness: 592
+- Survivor ID: 29824 ==> With Fitness: 406
+- Survivor ID: 29842 ==> With Fitness: 281
+-------------- Generation: 299 -------------- 
+Average fitness: -2490.56
+Highest fitness: 783 ==> by trainee with ID: 29904
+Survivors: 5
+- Survivor ID: 29904 ==> With Fitness: 783
+- Survivor ID: 29902 ==> With Fitness: 725
+- Survivor ID: 29968 ==> With Fitness: 721
+- Survivor ID: 29966 ==> With Fitness: 598
+- Survivor ID: 29928 ==> With Fitness: 593
