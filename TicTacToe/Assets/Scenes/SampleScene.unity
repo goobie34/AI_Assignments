@@ -181,8 +181,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agentType: 2
-  fileName: /Evo NN 2026-03-05_13-52-50.json
-  blockIllegalMoves: 0
+  fileName: /Evo NN 2026-03-05_11-05-47.json
+  blockIllegalMoves: 1
   randomNeuralNetShape: 09000000040000000400000009000000
   mutationChance: 5
   mutationAmount: 5
@@ -1081,15 +1081,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2894e0c2acc1d7b4f8818dd90f4dc007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  networkShape: 09000000120000001200000009000000
+  networkShape: 09000000090000000900000009000000
   outputFolderPath: /NN Evolution
-  sourceNeuralNetFileName: /Evo NN 2026-03-05_13-49-40.json
+  sourceNeuralNetFileName: /Evo NN 2026-03-05_11-05-47.json
   n_trainees: 100
-  n_generations: 500
-  n_survivors: 20
-  n_gamesPerGeneration: 50
-  mutationAmount: 0.05
-  mutationChance: 0.05
+  n_generations: 1000
+  n_survivors: 10
+  n_gamesPerGeneration: 100
+  mutationAmount: 0.08
+  mutationChance: 0.09
 --- !u!4 &1368437943
 Transform:
   m_ObjectHideFlags: 0

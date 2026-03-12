@@ -1,0 +1,1507 @@
+--- Evolution Log: --- 
+Num of trainees: 100
+Num of generations: 500
+Num of survivors per gen: 10
+Num of games per gen: 100
+Mutation chance: 0.05
+Mutation amount: 0.05
+-------------- Generation: 0 -------------- 
+Average fitness: -5532.9
+Highest fitness: -805 ==> by trainee with ID: 11
+-------------- Generation: 1 -------------- 
+Average fitness: -5392.33
+Highest fitness: -422 ==> by trainee with ID: 107
+-------------- Generation: 2 -------------- 
+Average fitness: -5410.36
+Highest fitness: -679 ==> by trainee with ID: 297
+-------------- Generation: 3 -------------- 
+Average fitness: -5492.04
+Highest fitness: -936 ==> by trainee with ID: 311
+-------------- Generation: 4 -------------- 
+Average fitness: -5540.17
+Highest fitness: -687 ==> by trainee with ID: 443
+-------------- Generation: 5 -------------- 
+Average fitness: -5394.48
+Highest fitness: 70 ==> by trainee with ID: 543
+-------------- Generation: 6 -------------- 
+Average fitness: -5381.51
+Highest fitness: -362 ==> by trainee with ID: 697
+-------------- Generation: 7 -------------- 
+Average fitness: -5448.81
+Highest fitness: -558 ==> by trainee with ID: 737
+-------------- Generation: 8 -------------- 
+Average fitness: -5421.67
+Highest fitness: -676 ==> by trainee with ID: 855
+-------------- Generation: 9 -------------- 
+Average fitness: -5389.02
+Highest fitness: -376 ==> by trainee with ID: 977
+-------------- Generation: 10 -------------- 
+Average fitness: -5400.66
+Highest fitness: -746 ==> by trainee with ID: 1079
+-------------- Generation: 11 -------------- 
+Average fitness: -5415.71
+Highest fitness: -50 ==> by trainee with ID: 1107
+-------------- Generation: 12 -------------- 
+Average fitness: -5441.41
+Highest fitness: -620 ==> by trainee with ID: 1243
+-------------- Generation: 13 -------------- 
+Average fitness: -5418.94
+Highest fitness: -674 ==> by trainee with ID: 1305
+-------------- Generation: 14 -------------- 
+Average fitness: -5372.08
+Highest fitness: -801 ==> by trainee with ID: 1423
+-------------- Generation: 15 -------------- 
+Average fitness: -5420.41
+Highest fitness: -1059 ==> by trainee with ID: 1559
+-------------- Generation: 16 -------------- 
+Average fitness: -5414.8
+Highest fitness: -618 ==> by trainee with ID: 1639
+-------------- Generation: 17 -------------- 
+Average fitness: -5291.36
+Highest fitness: -740 ==> by trainee with ID: 1753
+-------------- Generation: 18 -------------- 
+Average fitness: -5359.88
+Highest fitness: -300 ==> by trainee with ID: 1875
+-------------- Generation: 19 -------------- 
+Average fitness: -5366.47
+Highest fitness: -738 ==> by trainee with ID: 1995
+-------------- Generation: 20 -------------- 
+Average fitness: -5457.17
+Highest fitness: 73 ==> by trainee with ID: 2085
+-------------- Generation: 21 -------------- 
+Average fitness: -5423.69
+Highest fitness: -557 ==> by trainee with ID: 2171
+-------------- Generation: 22 -------------- 
+Average fitness: -5438.21
+Highest fitness: -554 ==> by trainee with ID: 2245
+-------------- Generation: 23 -------------- 
+Average fitness: -5473.28
+Highest fitness: -487 ==> by trainee with ID: 2317
+-------------- Generation: 24 -------------- 
+Average fitness: -5433.54
+Highest fitness: -804 ==> by trainee with ID: 2485
+-------------- Generation: 25 -------------- 
+Average fitness: -5354.03
+Highest fitness: -681 ==> by trainee with ID: 2563
+-------------- Generation: 26 -------------- 
+Average fitness: -5449.26
+Highest fitness: -614 ==> by trainee with ID: 2697
+-------------- Generation: 27 -------------- 
+Average fitness: -5458.36
+Highest fitness: -117 ==> by trainee with ID: 2773
+-------------- Generation: 28 -------------- 
+Average fitness: -5474.84
+Highest fitness: -557 ==> by trainee with ID: 2821
+-------------- Generation: 29 -------------- 
+Average fitness: -5392.98
+Highest fitness: -114 ==> by trainee with ID: 2983
+-------------- Generation: 30 -------------- 
+Average fitness: -5382.19
+Highest fitness: 322 ==> by trainee with ID: 3039
+-------------- Generation: 31 -------------- 
+Average fitness: -5511.19
+Highest fitness: -680 ==> by trainee with ID: 3169
+-------------- Generation: 32 -------------- 
+Average fitness: -5338.56
+Highest fitness: -488 ==> by trainee with ID: 3267
+-------------- Generation: 33 -------------- 
+Average fitness: -5392.25
+Highest fitness: 68 ==> by trainee with ID: 3395
+-------------- Generation: 34 -------------- 
+Average fitness: -5508.59
+Highest fitness: -1054 ==> by trainee with ID: 3441
+-------------- Generation: 35 -------------- 
+Average fitness: -5441.63
+Highest fitness: -547 ==> by trainee with ID: 3507
+-------------- Generation: 36 -------------- 
+Average fitness: -5356.65
+Highest fitness: -744 ==> by trainee with ID: 3661
+-------------- Generation: 37 -------------- 
+Average fitness: -5423.13
+Highest fitness: -927 ==> by trainee with ID: 3739
+-------------- Generation: 38 -------------- 
+Average fitness: -5386.15
+Highest fitness: -369 ==> by trainee with ID: 3887
+-------------- Generation: 39 -------------- 
+Average fitness: -5401.01
+Highest fitness: 451 ==> by trainee with ID: 3939
+-------------- Generation: 40 -------------- 
+Average fitness: -5331.21
+Highest fitness: -675 ==> by trainee with ID: 4061
+-------------- Generation: 41 -------------- 
+Average fitness: -5314.47
+Highest fitness: -617 ==> by trainee with ID: 4199
+-------------- Generation: 42 -------------- 
+Average fitness: -5518.85
+Highest fitness: -683 ==> by trainee with ID: 4211
+-------------- Generation: 43 -------------- 
+Average fitness: -5427.31
+Highest fitness: -811 ==> by trainee with ID: 4365
+-------------- Generation: 44 -------------- 
+Average fitness: -5361.02
+Highest fitness: -429 ==> by trainee with ID: 4441
+-------------- Generation: 45 -------------- 
+Average fitness: -5413.91
+Highest fitness: -302 ==> by trainee with ID: 4537
+-------------- Generation: 46 -------------- 
+Average fitness: -5380.51
+Highest fitness: -805 ==> by trainee with ID: 4631
+-------------- Generation: 47 -------------- 
+Average fitness: -5442.54
+Highest fitness: -677 ==> by trainee with ID: 4725
+-------------- Generation: 48 -------------- 
+Average fitness: -5494.38
+Highest fitness: -182 ==> by trainee with ID: 4829
+-------------- Generation: 49 -------------- 
+Average fitness: -5392.13
+Highest fitness: -677 ==> by trainee with ID: 4935
+-------------- Generation: 50 -------------- 
+Average fitness: -5561.47
+Highest fitness: -928 ==> by trainee with ID: 5001
+-------------- Generation: 51 -------------- 
+Average fitness: -5411.94
+Highest fitness: -873 ==> by trainee with ID: 5101
+-------------- Generation: 52 -------------- 
+Average fitness: -5489
+Highest fitness: -554 ==> by trainee with ID: 5247
+-------------- Generation: 53 -------------- 
+Average fitness: -5425.84
+Highest fitness: -428 ==> by trainee with ID: 5389
+-------------- Generation: 54 -------------- 
+Average fitness: -5411.33
+Highest fitness: -685 ==> by trainee with ID: 5495
+-------------- Generation: 55 -------------- 
+Average fitness: -5439.2
+Highest fitness: -749 ==> by trainee with ID: 5515
+-------------- Generation: 56 -------------- 
+Average fitness: -5403.62
+Highest fitness: -614 ==> by trainee with ID: 5677
+-------------- Generation: 57 -------------- 
+Average fitness: -5438.25
+Highest fitness: -241 ==> by trainee with ID: 5779
+-------------- Generation: 58 -------------- 
+Average fitness: -5426.31
+Highest fitness: 73 ==> by trainee with ID: 5829
+-------------- Generation: 59 -------------- 
+Average fitness: -5399.96
+Highest fitness: -429 ==> by trainee with ID: 5933
+-------------- Generation: 60 -------------- 
+Average fitness: -5441.21
+Highest fitness: -924 ==> by trainee with ID: 6047
+-------------- Generation: 61 -------------- 
+Average fitness: -5364.76
+Highest fitness: -927 ==> by trainee with ID: 6191
+-------------- Generation: 62 -------------- 
+Average fitness: -5411.17
+Highest fitness: -552 ==> by trainee with ID: 6217
+-------------- Generation: 63 -------------- 
+Average fitness: -5358.12
+Highest fitness: -423 ==> by trainee with ID: 6363
+-------------- Generation: 64 -------------- 
+Average fitness: -5369.1
+Highest fitness: -549 ==> by trainee with ID: 6409
+-------------- Generation: 65 -------------- 
+Average fitness: -5411.02
+Highest fitness: -121 ==> by trainee with ID: 6501
+-------------- Generation: 66 -------------- 
+Average fitness: -5363.72
+Highest fitness: -301 ==> by trainee with ID: 6619
+-------------- Generation: 67 -------------- 
+Average fitness: -5399.94
+Highest fitness: -614 ==> by trainee with ID: 6765
+-------------- Generation: 68 -------------- 
+Average fitness: -5455.13
+Highest fitness: -679 ==> by trainee with ID: 6829
+-------------- Generation: 69 -------------- 
+Average fitness: -5430.01
+Highest fitness: -612 ==> by trainee with ID: 6911
+-------------- Generation: 70 -------------- 
+Average fitness: -5423.6
+Highest fitness: -928 ==> by trainee with ID: 7035
+-------------- Generation: 71 -------------- 
+Average fitness: -5534.16
+Highest fitness: -423 ==> by trainee with ID: 7119
+-------------- Generation: 72 -------------- 
+Average fitness: -5427.16
+Highest fitness: -303 ==> by trainee with ID: 7279
+-------------- Generation: 73 -------------- 
+Average fitness: -5391.96
+Highest fitness: 382 ==> by trainee with ID: 7383
+-------------- Generation: 74 -------------- 
+Average fitness: -5458.15
+Highest fitness: -987 ==> by trainee with ID: 7483
+-------------- Generation: 75 -------------- 
+Average fitness: -5366.6
+Highest fitness: -621 ==> by trainee with ID: 7535
+-------------- Generation: 76 -------------- 
+Average fitness: -5506.89
+Highest fitness: -798 ==> by trainee with ID: 7677
+-------------- Generation: 77 -------------- 
+Average fitness: -5539.83
+Highest fitness: -741 ==> by trainee with ID: 7789
+-------------- Generation: 78 -------------- 
+Average fitness: -5470.34
+Highest fitness: -670 ==> by trainee with ID: 7835
+-------------- Generation: 79 -------------- 
+Average fitness: -5452.93
+Highest fitness: -430 ==> by trainee with ID: 7919
+-------------- Generation: 80 -------------- 
+Average fitness: -5503.41
+Highest fitness: -990 ==> by trainee with ID: 8079
+-------------- Generation: 81 -------------- 
+Average fitness: -5443.49
+Highest fitness: -932 ==> by trainee with ID: 8187
+-------------- Generation: 82 -------------- 
+Average fitness: -5392.45
+Highest fitness: 4 ==> by trainee with ID: 8267
+-------------- Generation: 83 -------------- 
+Average fitness: -5371.14
+Highest fitness: -559 ==> by trainee with ID: 8357
+-------------- Generation: 84 -------------- 
+Average fitness: -5421.31
+Highest fitness: -428 ==> by trainee with ID: 8401
+-------------- Generation: 85 -------------- 
+Average fitness: -5440.47
+Highest fitness: -550 ==> by trainee with ID: 8589
+-------------- Generation: 86 -------------- 
+Average fitness: -5423.28
+Highest fitness: -618 ==> by trainee with ID: 8617
+-------------- Generation: 87 -------------- 
+Average fitness: -5529.3
+Highest fitness: -805 ==> by trainee with ID: 8721
+-------------- Generation: 88 -------------- 
+Average fitness: -5505.08
+Highest fitness: -747 ==> by trainee with ID: 8899
+-------------- Generation: 89 -------------- 
+Average fitness: -5526.61
+Highest fitness: -307 ==> by trainee with ID: 8981
+-------------- Generation: 90 -------------- 
+Average fitness: -5486.09
+Highest fitness: -927 ==> by trainee with ID: 9013
+-------------- Generation: 91 -------------- 
+Average fitness: -5472.78
+Highest fitness: -557 ==> by trainee with ID: 9171
+-------------- Generation: 92 -------------- 
+Average fitness: -5481.18
+Highest fitness: -430 ==> by trainee with ID: 9225
+-------------- Generation: 93 -------------- 
+Average fitness: -5493.09
+Highest fitness: -929 ==> by trainee with ID: 9319
+-------------- Generation: 94 -------------- 
+Average fitness: -5468.75
+Highest fitness: -551 ==> by trainee with ID: 9415
+-------------- Generation: 95 -------------- 
+Average fitness: -5488.95
+Highest fitness: -679 ==> by trainee with ID: 9541
+-------------- Generation: 96 -------------- 
+Average fitness: -5588.38
+Highest fitness: -991 ==> by trainee with ID: 9677
+-------------- Generation: 97 -------------- 
+Average fitness: -5562.35
+Highest fitness: -924 ==> by trainee with ID: 9723
+-------------- Generation: 98 -------------- 
+Average fitness: -5504.06
+Highest fitness: -798 ==> by trainee with ID: 9893
+-------------- Generation: 99 -------------- 
+Average fitness: -5430.82
+Highest fitness: -671 ==> by trainee with ID: 9943
+-------------- Generation: 100 -------------- 
+Average fitness: -5478.38
+Highest fitness: -495 ==> by trainee with ID: 10023
+-------------- Generation: 101 -------------- 
+Average fitness: -5444.35
+Highest fitness: -425 ==> by trainee with ID: 10115
+-------------- Generation: 102 -------------- 
+Average fitness: -5517.12
+Highest fitness: -611 ==> by trainee with ID: 10255
+-------------- Generation: 103 -------------- 
+Average fitness: -5456.66
+Highest fitness: -868 ==> by trainee with ID: 10315
+-------------- Generation: 104 -------------- 
+Average fitness: -5518.83
+Highest fitness: -678 ==> by trainee with ID: 10451
+-------------- Generation: 105 -------------- 
+Average fitness: -5543.27
+Highest fitness: -52 ==> by trainee with ID: 10523
+-------------- Generation: 106 -------------- 
+Average fitness: -5555.56
+Highest fitness: -676 ==> by trainee with ID: 10655
+-------------- Generation: 107 -------------- 
+Average fitness: -5472.96
+Highest fitness: -672 ==> by trainee with ID: 10703
+-------------- Generation: 108 -------------- 
+Average fitness: -5515.55
+Highest fitness: -1055 ==> by trainee with ID: 10831
+-------------- Generation: 109 -------------- 
+Average fitness: -5599.88
+Highest fitness: -1049 ==> by trainee with ID: 10957
+-------------- Generation: 110 -------------- 
+Average fitness: -5477.66
+Highest fitness: -930 ==> by trainee with ID: 11059
+-------------- Generation: 111 -------------- 
+Average fitness: -5527.69
+Highest fitness: -802 ==> by trainee with ID: 11109
+-------------- Generation: 112 -------------- 
+Average fitness: -5594.7
+Highest fitness: -616 ==> by trainee with ID: 11289
+-------------- Generation: 113 -------------- 
+Average fitness: -5498.68
+Highest fitness: -550 ==> by trainee with ID: 11385
+-------------- Generation: 114 -------------- 
+Average fitness: -5476.43
+Highest fitness: -549 ==> by trainee with ID: 11467
+-------------- Generation: 115 -------------- 
+Average fitness: -5571.88
+Highest fitness: -740 ==> by trainee with ID: 11535
+-------------- Generation: 116 -------------- 
+Average fitness: -5527.74
+Highest fitness: -179 ==> by trainee with ID: 11655
+-------------- Generation: 117 -------------- 
+Average fitness: -5465.12
+Highest fitness: -684 ==> by trainee with ID: 11793
+-------------- Generation: 118 -------------- 
+Average fitness: -5542.54
+Highest fitness: -434 ==> by trainee with ID: 11819
+-------------- Generation: 119 -------------- 
+Average fitness: -5491.04
+Highest fitness: -804 ==> by trainee with ID: 11907
+-------------- Generation: 120 -------------- 
+Average fitness: -5474.04
+Highest fitness: -744 ==> by trainee with ID: 12085
+-------------- Generation: 121 -------------- 
+Average fitness: -5462.19
+Highest fitness: -554 ==> by trainee with ID: 12173
+-------------- Generation: 122 -------------- 
+Average fitness: -5486.01
+Highest fitness: -807 ==> by trainee with ID: 12227
+-------------- Generation: 123 -------------- 
+Average fitness: -5488.92
+Highest fitness: -1052 ==> by trainee with ID: 12309
+-------------- Generation: 124 -------------- 
+Average fitness: -5445.23
+Highest fitness: -867 ==> by trainee with ID: 12409
+-------------- Generation: 125 -------------- 
+Average fitness: -5417.94
+Highest fitness: -743 ==> by trainee with ID: 12579
+-------------- Generation: 126 -------------- 
+Average fitness: -5428.99
+Highest fitness: -805 ==> by trainee with ID: 12633
+-------------- Generation: 127 -------------- 
+Average fitness: -5501.84
+Highest fitness: -672 ==> by trainee with ID: 12797
+-------------- Generation: 128 -------------- 
+Average fitness: -5504.82
+Highest fitness: -303 ==> by trainee with ID: 12899
+-------------- Generation: 129 -------------- 
+Average fitness: -5509.22
+Highest fitness: -365 ==> by trainee with ID: 12909
+-------------- Generation: 130 -------------- 
+Average fitness: -5492.64
+Highest fitness: -930 ==> by trainee with ID: 13033
+-------------- Generation: 131 -------------- 
+Average fitness: -5559.94
+Highest fitness: -180 ==> by trainee with ID: 13115
+-------------- Generation: 132 -------------- 
+Average fitness: -5487.82
+Highest fitness: -362 ==> by trainee with ID: 13243
+-------------- Generation: 133 -------------- 
+Average fitness: -5495.63
+Highest fitness: -245 ==> by trainee with ID: 13357
+-------------- Generation: 134 -------------- 
+Average fitness: -5538.95
+Highest fitness: -1053 ==> by trainee with ID: 13429
+-------------- Generation: 135 -------------- 
+Average fitness: -5392.05
+Highest fitness: -794 ==> by trainee with ID: 13597
+-------------- Generation: 136 -------------- 
+Average fitness: -5461.39
+Highest fitness: -734 ==> by trainee with ID: 13655
+-------------- Generation: 137 -------------- 
+Average fitness: -5503.94
+Highest fitness: -799 ==> by trainee with ID: 13771
+-------------- Generation: 138 -------------- 
+Average fitness: -5451.62
+Highest fitness: -364 ==> by trainee with ID: 13895
+-------------- Generation: 139 -------------- 
+Average fitness: -5507.97
+Highest fitness: -247 ==> by trainee with ID: 13953
+-------------- Generation: 140 -------------- 
+Average fitness: -5568.11
+Highest fitness: -1051 ==> by trainee with ID: 14065
+-------------- Generation: 141 -------------- 
+Average fitness: -5501.98
+Highest fitness: 73 ==> by trainee with ID: 14169
+-------------- Generation: 142 -------------- 
+Average fitness: -5411.99
+Highest fitness: -926 ==> by trainee with ID: 14235
+-------------- Generation: 143 -------------- 
+Average fitness: -5497
+Highest fitness: -487 ==> by trainee with ID: 14393
+-------------- Generation: 144 -------------- 
+Average fitness: -5489.09
+Highest fitness: -923 ==> by trainee with ID: 14425
+-------------- Generation: 145 -------------- 
+Average fitness: -5395.45
+Highest fitness: 70 ==> by trainee with ID: 14569
+-------------- Generation: 146 -------------- 
+Average fitness: -5487.82
+Highest fitness: -497 ==> by trainee with ID: 14615
+-------------- Generation: 147 -------------- 
+Average fitness: -5490.64
+Highest fitness: -618 ==> by trainee with ID: 14721
+-------------- Generation: 148 -------------- 
+Average fitness: -5464.37
+Highest fitness: -866 ==> by trainee with ID: 14843
+-------------- Generation: 149 -------------- 
+Average fitness: -5514.76
+Highest fitness: -367 ==> by trainee with ID: 14935
+-------------- Generation: 150 -------------- 
+Average fitness: -5503.99
+Highest fitness: -809 ==> by trainee with ID: 15079
+-------------- Generation: 151 -------------- 
+Average fitness: -5425.1
+Highest fitness: -424 ==> by trainee with ID: 15135
+-------------- Generation: 152 -------------- 
+Average fitness: -5466.4
+Highest fitness: -931 ==> by trainee with ID: 15261
+-------------- Generation: 153 -------------- 
+Average fitness: -5519.1
+Highest fitness: -432 ==> by trainee with ID: 15393
+-------------- Generation: 154 -------------- 
+Average fitness: -5497.9
+Highest fitness: -551 ==> by trainee with ID: 15437
+-------------- Generation: 155 -------------- 
+Average fitness: -5493.3
+Highest fitness: -368 ==> by trainee with ID: 15505
+-------------- Generation: 156 -------------- 
+Average fitness: -5537.18
+Highest fitness: -491 ==> by trainee with ID: 15697
+-------------- Generation: 157 -------------- 
+Average fitness: -5478.39
+Highest fitness: -303 ==> by trainee with ID: 15771
+-------------- Generation: 158 -------------- 
+Average fitness: -5450.4
+Highest fitness: -432 ==> by trainee with ID: 15857
+-------------- Generation: 159 -------------- 
+Average fitness: -5441.22
+Highest fitness: -616 ==> by trainee with ID: 15903
+-------------- Generation: 160 -------------- 
+Average fitness: -5563.03
+Highest fitness: -1047 ==> by trainee with ID: 16007
+-------------- Generation: 161 -------------- 
+Average fitness: -5423.32
+Highest fitness: -301 ==> by trainee with ID: 16185
+-------------- Generation: 162 -------------- 
+Average fitness: -5559.93
+Highest fitness: -612 ==> by trainee with ID: 16263
+-------------- Generation: 163 -------------- 
+Average fitness: -5516.66
+Highest fitness: -178 ==> by trainee with ID: 16317
+-------------- Generation: 164 -------------- 
+Average fitness: -5565.28
+Highest fitness: -739 ==> by trainee with ID: 16401
+-------------- Generation: 165 -------------- 
+Average fitness: -5432.1
+Highest fitness: -554 ==> by trainee with ID: 16539
+-------------- Generation: 166 -------------- 
+Average fitness: -5558.11
+Highest fitness: -872 ==> by trainee with ID: 16603
+-------------- Generation: 167 -------------- 
+Average fitness: -5459.33
+Highest fitness: -426 ==> by trainee with ID: 16785
+-------------- Generation: 168 -------------- 
+Average fitness: -5488.98
+Highest fitness: -427 ==> by trainee with ID: 16883
+-------------- Generation: 169 -------------- 
+Average fitness: -5494.15
+Highest fitness: -742 ==> by trainee with ID: 16919
+-------------- Generation: 170 -------------- 
+Average fitness: -5464.84
+Highest fitness: -556 ==> by trainee with ID: 17025
+-------------- Generation: 171 -------------- 
+Average fitness: -5482.23
+Highest fitness: -612 ==> by trainee with ID: 17177
+-------------- Generation: 172 -------------- 
+Average fitness: -5597.86
+Highest fitness: -807 ==> by trainee with ID: 17285
+-------------- Generation: 173 -------------- 
+Average fitness: -5552.95
+Highest fitness: -301 ==> by trainee with ID: 17371
+-------------- Generation: 174 -------------- 
+Average fitness: -5545.77
+Highest fitness: -491 ==> by trainee with ID: 17467
+-------------- Generation: 175 -------------- 
+Average fitness: -5525.42
+Highest fitness: -861 ==> by trainee with ID: 17555
+-------------- Generation: 176 -------------- 
+Average fitness: -5445.51
+Highest fitness: -557 ==> by trainee with ID: 17603
+-------------- Generation: 177 -------------- 
+Average fitness: -5490.21
+Highest fitness: -799 ==> by trainee with ID: 17709
+-------------- Generation: 178 -------------- 
+Average fitness: -5424.83
+Highest fitness: -551 ==> by trainee with ID: 17831
+-------------- Generation: 179 -------------- 
+Average fitness: -5412.54
+Highest fitness: -494 ==> by trainee with ID: 17993
+-------------- Generation: 180 -------------- 
+Average fitness: -5480.61
+Highest fitness: -547 ==> by trainee with ID: 18015
+-------------- Generation: 181 -------------- 
+Average fitness: -5531.41
+Highest fitness: -613 ==> by trainee with ID: 18165
+-------------- Generation: 182 -------------- 
+Average fitness: -5472.74
+Highest fitness: -749 ==> by trainee with ID: 18265
+-------------- Generation: 183 -------------- 
+Average fitness: -5643.14
+Highest fitness: -681 ==> by trainee with ID: 18371
+-------------- Generation: 184 -------------- 
+Average fitness: -5516.99
+Highest fitness: -992 ==> by trainee with ID: 18401
+-------------- Generation: 185 -------------- 
+Average fitness: -5529.04
+Highest fitness: -419 ==> by trainee with ID: 18543
+-------------- Generation: 186 -------------- 
+Average fitness: -5433.19
+Highest fitness: -805 ==> by trainee with ID: 18699
+-------------- Generation: 187 -------------- 
+Average fitness: -5487.76
+Highest fitness: -303 ==> by trainee with ID: 18757
+-------------- Generation: 188 -------------- 
+Average fitness: -5475.93
+Highest fitness: -423 ==> by trainee with ID: 18859
+-------------- Generation: 189 -------------- 
+Average fitness: -5474.12
+Highest fitness: -554 ==> by trainee with ID: 18947
+-------------- Generation: 190 -------------- 
+Average fitness: -5541.68
+Highest fitness: -995 ==> by trainee with ID: 19069
+-------------- Generation: 191 -------------- 
+Average fitness: -5466.43
+Highest fitness: -432 ==> by trainee with ID: 19165
+-------------- Generation: 192 -------------- 
+Average fitness: -5426.14
+Highest fitness: -930 ==> by trainee with ID: 19299
+-------------- Generation: 193 -------------- 
+Average fitness: -5489.13
+Highest fitness: -307 ==> by trainee with ID: 19387
+-------------- Generation: 194 -------------- 
+Average fitness: -5497.16
+Highest fitness: -435 ==> by trainee with ID: 19489
+-------------- Generation: 195 -------------- 
+Average fitness: -5464.07
+Highest fitness: -986 ==> by trainee with ID: 19569
+-------------- Generation: 196 -------------- 
+Average fitness: -5545.96
+Highest fitness: -500 ==> by trainee with ID: 19683
+-------------- Generation: 197 -------------- 
+Average fitness: -5455.8
+Highest fitness: -550 ==> by trainee with ID: 19729
+-------------- Generation: 198 -------------- 
+Average fitness: -5459.96
+Highest fitness: -932 ==> by trainee with ID: 19847
+-------------- Generation: 199 -------------- 
+Average fitness: -5505.42
+Highest fitness: -1120 ==> by trainee with ID: 19999
+-------------- Generation: 200 -------------- 
+Average fitness: -5566.73
+Highest fitness: -559 ==> by trainee with ID: 20065
+-------------- Generation: 201 -------------- 
+Average fitness: -5453.21
+Highest fitness: -302 ==> by trainee with ID: 20109
+-------------- Generation: 202 -------------- 
+Average fitness: -5378.88
+Highest fitness: -174 ==> by trainee with ID: 20271
+-------------- Generation: 203 -------------- 
+Average fitness: -5514.96
+Highest fitness: -866 ==> by trainee with ID: 20329
+-------------- Generation: 204 -------------- 
+Average fitness: -5524.24
+Highest fitness: -548 ==> by trainee with ID: 20483
+-------------- Generation: 205 -------------- 
+Average fitness: -5522.29
+Highest fitness: -1049 ==> by trainee with ID: 20545
+-------------- Generation: 206 -------------- 
+Average fitness: -5583.71
+Highest fitness: -1373 ==> by trainee with ID: 20647
+-------------- Generation: 207 -------------- 
+Average fitness: -5475.51
+Highest fitness: -305 ==> by trainee with ID: 20787
+-------------- Generation: 208 -------------- 
+Average fitness: -5505.96
+Highest fitness: -490 ==> by trainee with ID: 20839
+-------------- Generation: 209 -------------- 
+Average fitness: -5530.01
+Highest fitness: -621 ==> by trainee with ID: 20973
+-------------- Generation: 210 -------------- 
+Average fitness: -5496.55
+Highest fitness: -1053 ==> by trainee with ID: 21079
+-------------- Generation: 211 -------------- 
+Average fitness: -5446.76
+Highest fitness: -489 ==> by trainee with ID: 21147
+-------------- Generation: 212 -------------- 
+Average fitness: -5408.02
+Highest fitness: -683 ==> by trainee with ID: 21225
+-------------- Generation: 213 -------------- 
+Average fitness: -5480.92
+Highest fitness: -433 ==> by trainee with ID: 21373
+-------------- Generation: 214 -------------- 
+Average fitness: -5438.52
+Highest fitness: -811 ==> by trainee with ID: 21481
+-------------- Generation: 215 -------------- 
+Average fitness: -5371.52
+Highest fitness: -680 ==> by trainee with ID: 21547
+-------------- Generation: 216 -------------- 
+Average fitness: -5513.38
+Highest fitness: -426 ==> by trainee with ID: 21677
+-------------- Generation: 217 -------------- 
+Average fitness: -5483.19
+Highest fitness: -1052 ==> by trainee with ID: 21715
+-------------- Generation: 218 -------------- 
+Average fitness: -5470.7
+Highest fitness: -746 ==> by trainee with ID: 21801
+-------------- Generation: 219 -------------- 
+Average fitness: -5406.71
+Highest fitness: -305 ==> by trainee with ID: 21915
+-------------- Generation: 220 -------------- 
+Average fitness: -5518.39
+Highest fitness: -621 ==> by trainee with ID: 22047
+-------------- Generation: 221 -------------- 
+Average fitness: -5554
+Highest fitness: -931 ==> by trainee with ID: 22169
+-------------- Generation: 222 -------------- 
+Average fitness: -5422.85
+Highest fitness: -802 ==> by trainee with ID: 22287
+-------------- Generation: 223 -------------- 
+Average fitness: -5391.08
+Highest fitness: -618 ==> by trainee with ID: 22395
+-------------- Generation: 224 -------------- 
+Average fitness: -5469.78
+Highest fitness: -246 ==> by trainee with ID: 22461
+-------------- Generation: 225 -------------- 
+Average fitness: -5497.1
+Highest fitness: -684 ==> by trainee with ID: 22517
+-------------- Generation: 226 -------------- 
+Average fitness: -5472.15
+Highest fitness: -808 ==> by trainee with ID: 22673
+-------------- Generation: 227 -------------- 
+Average fitness: -5481.16
+Highest fitness: -805 ==> by trainee with ID: 22797
+-------------- Generation: 228 -------------- 
+Average fitness: -5484.21
+Highest fitness: -807 ==> by trainee with ID: 22893
+-------------- Generation: 229 -------------- 
+Average fitness: -5353.3
+Highest fitness: -424 ==> by trainee with ID: 22907
+-------------- Generation: 230 -------------- 
+Average fitness: -5436.26
+Highest fitness: -560 ==> by trainee with ID: 23011
+-------------- Generation: 231 -------------- 
+Average fitness: -5465.05
+Highest fitness: -801 ==> by trainee with ID: 23185
+-------------- Generation: 232 -------------- 
+Average fitness: -5521.11
+Highest fitness: -744 ==> by trainee with ID: 23265
+-------------- Generation: 233 -------------- 
+Average fitness: -5415.37
+Highest fitness: -115 ==> by trainee with ID: 23377
+-------------- Generation: 234 -------------- 
+Average fitness: -5423.71
+Highest fitness: -180 ==> by trainee with ID: 23463
+-------------- Generation: 235 -------------- 
+Average fitness: -5452.96
+Highest fitness: -742 ==> by trainee with ID: 23585
+-------------- Generation: 236 -------------- 
+Average fitness: -5443.87
+Highest fitness: -550 ==> by trainee with ID: 23671
+-------------- Generation: 237 -------------- 
+Average fitness: -5455.44
+Highest fitness: -810 ==> by trainee with ID: 23735
+-------------- Generation: 238 -------------- 
+Average fitness: -5593.7
+Highest fitness: -54 ==> by trainee with ID: 23805
+-------------- Generation: 239 -------------- 
+Average fitness: -5492.79
+Highest fitness: -748 ==> by trainee with ID: 23979
+-------------- Generation: 240 -------------- 
+Average fitness: -5547.59
+Highest fitness: -625 ==> by trainee with ID: 24089
+-------------- Generation: 241 -------------- 
+Average fitness: -5472.18
+Highest fitness: -553 ==> by trainee with ID: 24155
+-------------- Generation: 242 -------------- 
+Average fitness: -5499.03
+Highest fitness: -675 ==> by trainee with ID: 24219
+-------------- Generation: 243 -------------- 
+Average fitness: -5573.61
+Highest fitness: -434 ==> by trainee with ID: 24327
+-------------- Generation: 244 -------------- 
+Average fitness: -5335.24
+Highest fitness: -429 ==> by trainee with ID: 24491
+-------------- Generation: 245 -------------- 
+Average fitness: -5480.44
+Highest fitness: -681 ==> by trainee with ID: 24523
+-------------- Generation: 246 -------------- 
+Average fitness: -5444.63
+Highest fitness: -493 ==> by trainee with ID: 24601
+-------------- Generation: 247 -------------- 
+Average fitness: -5471.66
+Highest fitness: -614 ==> by trainee with ID: 24787
+-------------- Generation: 248 -------------- 
+Average fitness: -5468.04
+Highest fitness: -490 ==> by trainee with ID: 24881
+-------------- Generation: 249 -------------- 
+Average fitness: -5468.49
+Highest fitness: -615 ==> by trainee with ID: 24929
+-------------- Generation: 250 -------------- 
+Average fitness: -5516.82
+Highest fitness: -801 ==> by trainee with ID: 25039
+-------------- Generation: 251 -------------- 
+Average fitness: -5479.97
+Highest fitness: -931 ==> by trainee with ID: 25159
+-------------- Generation: 252 -------------- 
+Average fitness: -5501.37
+Highest fitness: -924 ==> by trainee with ID: 25293
+-------------- Generation: 253 -------------- 
+Average fitness: -5531.59
+Highest fitness: -621 ==> by trainee with ID: 25393
+-------------- Generation: 254 -------------- 
+Average fitness: -5495.12
+Highest fitness: -629 ==> by trainee with ID: 25427
+-------------- Generation: 255 -------------- 
+Average fitness: -5538.94
+Highest fitness: -495 ==> by trainee with ID: 25577
+-------------- Generation: 256 -------------- 
+Average fitness: -5532.88
+Highest fitness: -303 ==> by trainee with ID: 25601
+-------------- Generation: 257 -------------- 
+Average fitness: -5514.84
+Highest fitness: -676 ==> by trainee with ID: 25737
+-------------- Generation: 258 -------------- 
+Average fitness: -5418.55
+Highest fitness: -678 ==> by trainee with ID: 25871
+-------------- Generation: 259 -------------- 
+Average fitness: -5441.22
+Highest fitness: -551 ==> by trainee with ID: 25995
+-------------- Generation: 260 -------------- 
+Average fitness: -5406.29
+Highest fitness: -115 ==> by trainee with ID: 26015
+-------------- Generation: 261 -------------- 
+Average fitness: -5383.57
+Highest fitness: 383 ==> by trainee with ID: 26127
+-------------- Generation: 262 -------------- 
+Average fitness: -5414.12
+Highest fitness: -676 ==> by trainee with ID: 26219
+-------------- Generation: 263 -------------- 
+Average fitness: -5466.74
+Highest fitness: -551 ==> by trainee with ID: 26369
+-------------- Generation: 264 -------------- 
+Average fitness: -5430.24
+Highest fitness: -622 ==> by trainee with ID: 26413
+-------------- Generation: 265 -------------- 
+Average fitness: -5440.68
+Highest fitness: -995 ==> by trainee with ID: 26543
+-------------- Generation: 266 -------------- 
+Average fitness: -5425.97
+Highest fitness: -808 ==> by trainee with ID: 26685
+-------------- Generation: 267 -------------- 
+Average fitness: -5478.86
+Highest fitness: -683 ==> by trainee with ID: 26737
+-------------- Generation: 268 -------------- 
+Average fitness: -5493.95
+Highest fitness: -927 ==> by trainee with ID: 26843
+-------------- Generation: 269 -------------- 
+Average fitness: -5442.66
+Highest fitness: -63 ==> by trainee with ID: 26919
+-------------- Generation: 270 -------------- 
+Average fitness: -5421.47
+Highest fitness: -558 ==> by trainee with ID: 27039
+-------------- Generation: 271 -------------- 
+Average fitness: -5471.14
+Highest fitness: -368 ==> by trainee with ID: 27185
+-------------- Generation: 272 -------------- 
+Average fitness: -5434.83
+Highest fitness: -305 ==> by trainee with ID: 27219
+-------------- Generation: 273 -------------- 
+Average fitness: -5419.04
+Highest fitness: 10 ==> by trainee with ID: 27395
+-------------- Generation: 274 -------------- 
+Average fitness: -5525.16
+Highest fitness: -1060 ==> by trainee with ID: 27477
+-------------- Generation: 275 -------------- 
+Average fitness: -5496.98
+Highest fitness: -741 ==> by trainee with ID: 27599
+-------------- Generation: 276 -------------- 
+Average fitness: -5562.93
+Highest fitness: -1187 ==> by trainee with ID: 27653
+-------------- Generation: 277 -------------- 
+Average fitness: -5392.64
+Highest fitness: -673 ==> by trainee with ID: 27755
+-------------- Generation: 278 -------------- 
+Average fitness: -5396.34
+Highest fitness: -492 ==> by trainee with ID: 27865
+-------------- Generation: 279 -------------- 
+Average fitness: -5445.55
+Highest fitness: -300 ==> by trainee with ID: 27995
+-------------- Generation: 280 -------------- 
+Average fitness: -5377.02
+Highest fitness: -432 ==> by trainee with ID: 28011
+-------------- Generation: 281 -------------- 
+Average fitness: -5320.96
+Highest fitness: -427 ==> by trainee with ID: 28125
+-------------- Generation: 282 -------------- 
+Average fitness: -5447.45
+Highest fitness: -621 ==> by trainee with ID: 28267
+-------------- Generation: 283 -------------- 
+Average fitness: -5327.67
+Highest fitness: -113 ==> by trainee with ID: 28397
+-------------- Generation: 284 -------------- 
+Average fitness: -5474.96
+Highest fitness: -495 ==> by trainee with ID: 28411
+-------------- Generation: 285 -------------- 
+Average fitness: -5466.79
+Highest fitness: -372 ==> by trainee with ID: 28501
+-------------- Generation: 286 -------------- 
+Average fitness: -5404.27
+Highest fitness: -681 ==> by trainee with ID: 28615
+-------------- Generation: 287 -------------- 
+Average fitness: -5430.37
+Highest fitness: -177 ==> by trainee with ID: 28731
+-------------- Generation: 288 -------------- 
+Average fitness: -5466.04
+Highest fitness: -555 ==> by trainee with ID: 28893
+-------------- Generation: 289 -------------- 
+Average fitness: -5432.28
+Highest fitness: -427 ==> by trainee with ID: 28987
+-------------- Generation: 290 -------------- 
+Average fitness: -5474.3
+Highest fitness: 68 ==> by trainee with ID: 29017
+-------------- Generation: 291 -------------- 
+Average fitness: -5483.44
+Highest fitness: -803 ==> by trainee with ID: 29191
+-------------- Generation: 292 -------------- 
+Average fitness: -5515.77
+Highest fitness: -559 ==> by trainee with ID: 29281
+-------------- Generation: 293 -------------- 
+Average fitness: -5430.37
+Highest fitness: -179 ==> by trainee with ID: 29339
+-------------- Generation: 294 -------------- 
+Average fitness: -5440.6
+Highest fitness: -930 ==> by trainee with ID: 29441
+-------------- Generation: 295 -------------- 
+Average fitness: -5453.83
+Highest fitness: -860 ==> by trainee with ID: 29505
+-------------- Generation: 296 -------------- 
+Average fitness: -5560.49
+Highest fitness: -677 ==> by trainee with ID: 29697
+-------------- Generation: 297 -------------- 
+Average fitness: -5464.56
+Highest fitness: -304 ==> by trainee with ID: 29775
+-------------- Generation: 298 -------------- 
+Average fitness: -5451.32
+Highest fitness: -804 ==> by trainee with ID: 29813
+-------------- Generation: 299 -------------- 
+Average fitness: -5498.44
+Highest fitness: -435 ==> by trainee with ID: 29925
+-------------- Generation: 300 -------------- 
+Average fitness: -5536.94
+Highest fitness: -801 ==> by trainee with ID: 30063
+-------------- Generation: 301 -------------- 
+Average fitness: -5596.23
+Highest fitness: -1181 ==> by trainee with ID: 30163
+-------------- Generation: 302 -------------- 
+Average fitness: -5516.65
+Highest fitness: -802 ==> by trainee with ID: 30205
+-------------- Generation: 303 -------------- 
+Average fitness: -5449.09
+Highest fitness: -617 ==> by trainee with ID: 30335
+-------------- Generation: 304 -------------- 
+Average fitness: -5528.64
+Highest fitness: -675 ==> by trainee with ID: 30401
+-------------- Generation: 305 -------------- 
+Average fitness: -5525.6
+Highest fitness: -685 ==> by trainee with ID: 30589
+-------------- Generation: 306 -------------- 
+Average fitness: -5417.21
+Highest fitness: -434 ==> by trainee with ID: 30691
+-------------- Generation: 307 -------------- 
+Average fitness: -5592.99
+Highest fitness: -932 ==> by trainee with ID: 30787
+-------------- Generation: 308 -------------- 
+Average fitness: -5418.2
+Highest fitness: -499 ==> by trainee with ID: 30809
+-------------- Generation: 309 -------------- 
+Average fitness: -5483.18
+Highest fitness: -302 ==> by trainee with ID: 30949
+-------------- Generation: 310 -------------- 
+Average fitness: -5499.43
+Highest fitness: -805 ==> by trainee with ID: 31005
+-------------- Generation: 311 -------------- 
+Average fitness: -5477.44
+Highest fitness: -614 ==> by trainee with ID: 31147
+-------------- Generation: 312 -------------- 
+Average fitness: -5418.81
+Highest fitness: -434 ==> by trainee with ID: 31299
+-------------- Generation: 313 -------------- 
+Average fitness: -5411.93
+Highest fitness: -681 ==> by trainee with ID: 31337
+-------------- Generation: 314 -------------- 
+Average fitness: -5452.73
+Highest fitness: -371 ==> by trainee with ID: 31429
+-------------- Generation: 315 -------------- 
+Average fitness: -5455.11
+Highest fitness: -300 ==> by trainee with ID: 31529
+-------------- Generation: 316 -------------- 
+Average fitness: -5494.12
+Highest fitness: -798 ==> by trainee with ID: 31601
+-------------- Generation: 317 -------------- 
+Average fitness: -5458.4
+Highest fitness: -430 ==> by trainee with ID: 31751
+-------------- Generation: 318 -------------- 
+Average fitness: -5396.96
+Highest fitness: -679 ==> by trainee with ID: 31893
+-------------- Generation: 319 -------------- 
+Average fitness: -5450.2
+Highest fitness: -49 ==> by trainee with ID: 31989
+-------------- Generation: 320 -------------- 
+Average fitness: -5464.68
+Highest fitness: -557 ==> by trainee with ID: 32025
+-------------- Generation: 321 -------------- 
+Average fitness: -5371.17
+Highest fitness: -169 ==> by trainee with ID: 32193
+-------------- Generation: 322 -------------- 
+Average fitness: -5483.65
+Highest fitness: -805 ==> by trainee with ID: 32273
+-------------- Generation: 323 -------------- 
+Average fitness: -5429.1
+Highest fitness: -865 ==> by trainee with ID: 32341
+-------------- Generation: 324 -------------- 
+Average fitness: -5486.16
+Highest fitness: -806 ==> by trainee with ID: 32409
+-------------- Generation: 325 -------------- 
+Average fitness: -5423.64
+Highest fitness: -180 ==> by trainee with ID: 32589
+-------------- Generation: 326 -------------- 
+Average fitness: -5349.95
+Highest fitness: -175 ==> by trainee with ID: 32619
+-------------- Generation: 327 -------------- 
+Average fitness: -5405.17
+Highest fitness: -429 ==> by trainee with ID: 32735
+-------------- Generation: 328 -------------- 
+Average fitness: -5370.52
+Highest fitness: -741 ==> by trainee with ID: 32881
+-------------- Generation: 329 -------------- 
+Average fitness: -5433.53
+Highest fitness: -427 ==> by trainee with ID: 32927
+-------------- Generation: 330 -------------- 
+Average fitness: -5507.07
+Highest fitness: -999 ==> by trainee with ID: 33011
+-------------- Generation: 331 -------------- 
+Average fitness: -5531.86
+Highest fitness: 202 ==> by trainee with ID: 33109
+-------------- Generation: 332 -------------- 
+Average fitness: -5488.53
+Highest fitness: -861 ==> by trainee with ID: 33245
+-------------- Generation: 333 -------------- 
+Average fitness: -5529.23
+Highest fitness: -555 ==> by trainee with ID: 33321
+-------------- Generation: 334 -------------- 
+Average fitness: -5517.56
+Highest fitness: -866 ==> by trainee with ID: 33451
+-------------- Generation: 335 -------------- 
+Average fitness: -5513.01
+Highest fitness: -688 ==> by trainee with ID: 33575
+-------------- Generation: 336 -------------- 
+Average fitness: -5565.01
+Highest fitness: -801 ==> by trainee with ID: 33683
+-------------- Generation: 337 -------------- 
+Average fitness: -5579.72
+Highest fitness: -425 ==> by trainee with ID: 33767
+-------------- Generation: 338 -------------- 
+Average fitness: -5472.41
+Highest fitness: -866 ==> by trainee with ID: 33825
+-------------- Generation: 339 -------------- 
+Average fitness: -5466
+Highest fitness: -307 ==> by trainee with ID: 33993
+-------------- Generation: 340 -------------- 
+Average fitness: -5482.85
+Highest fitness: -1053 ==> by trainee with ID: 34071
+-------------- Generation: 341 -------------- 
+Average fitness: -5447.5
+Highest fitness: -501 ==> by trainee with ID: 34107
+-------------- Generation: 342 -------------- 
+Average fitness: -5486.89
+Highest fitness: -808 ==> by trainee with ID: 34295
+-------------- Generation: 343 -------------- 
+Average fitness: -5514.87
+Highest fitness: -678 ==> by trainee with ID: 34307
+-------------- Generation: 344 -------------- 
+Average fitness: -5481.02
+Highest fitness: -555 ==> by trainee with ID: 34471
+-------------- Generation: 345 -------------- 
+Average fitness: -5565.78
+Highest fitness: -553 ==> by trainee with ID: 34543
+-------------- Generation: 346 -------------- 
+Average fitness: -5566.25
+Highest fitness: -743 ==> by trainee with ID: 34693
+-------------- Generation: 347 -------------- 
+Average fitness: -5497.56
+Highest fitness: -620 ==> by trainee with ID: 34705
+-------------- Generation: 348 -------------- 
+Average fitness: -5442.09
+Highest fitness: -248 ==> by trainee with ID: 34833
+-------------- Generation: 349 -------------- 
+Average fitness: -5494.48
+Highest fitness: -678 ==> by trainee with ID: 34979
+-------------- Generation: 350 -------------- 
+Average fitness: -5581.83
+Highest fitness: -493 ==> by trainee with ID: 35011
+-------------- Generation: 351 -------------- 
+Average fitness: -5481.03
+Highest fitness: 73 ==> by trainee with ID: 35189
+-------------- Generation: 352 -------------- 
+Average fitness: -5520.91
+Highest fitness: -1127 ==> by trainee with ID: 35281
+-------------- Generation: 353 -------------- 
+Average fitness: -5471.43
+Highest fitness: -431 ==> by trainee with ID: 35381
+-------------- Generation: 354 -------------- 
+Average fitness: -5611.83
+Highest fitness: -680 ==> by trainee with ID: 35479
+-------------- Generation: 355 -------------- 
+Average fitness: -5427.5
+Highest fitness: -613 ==> by trainee with ID: 35531
+-------------- Generation: 356 -------------- 
+Average fitness: -5587.49
+Highest fitness: -426 ==> by trainee with ID: 35661
+-------------- Generation: 357 -------------- 
+Average fitness: -5495.19
+Highest fitness: -931 ==> by trainee with ID: 35733
+-------------- Generation: 358 -------------- 
+Average fitness: -5517.45
+Highest fitness: -297 ==> by trainee with ID: 35857
+-------------- Generation: 359 -------------- 
+Average fitness: -5526.18
+Highest fitness: -373 ==> by trainee with ID: 35997
+-------------- Generation: 360 -------------- 
+Average fitness: -5492.05
+Highest fitness: -552 ==> by trainee with ID: 36051
+-------------- Generation: 361 -------------- 
+Average fitness: -5555.58
+Highest fitness: -983 ==> by trainee with ID: 36167
+-------------- Generation: 362 -------------- 
+Average fitness: -5553.84
+Highest fitness: -425 ==> by trainee with ID: 36279
+-------------- Generation: 363 -------------- 
+Average fitness: -5550.29
+Highest fitness: -933 ==> by trainee with ID: 36321
+-------------- Generation: 364 -------------- 
+Average fitness: -5486.11
+Highest fitness: -931 ==> by trainee with ID: 36441
+-------------- Generation: 365 -------------- 
+Average fitness: -5501.72
+Highest fitness: -493 ==> by trainee with ID: 36545
+-------------- Generation: 366 -------------- 
+Average fitness: -5613.1
+Highest fitness: -493 ==> by trainee with ID: 36693
+-------------- Generation: 367 -------------- 
+Average fitness: -5526.03
+Highest fitness: -677 ==> by trainee with ID: 36783
+-------------- Generation: 368 -------------- 
+Average fitness: -5466.13
+Highest fitness: -679 ==> by trainee with ID: 36859
+-------------- Generation: 369 -------------- 
+Average fitness: -5540.11
+Highest fitness: -991 ==> by trainee with ID: 36987
+-------------- Generation: 370 -------------- 
+Average fitness: -5495.5
+Highest fitness: -683 ==> by trainee with ID: 37007
+-------------- Generation: 371 -------------- 
+Average fitness: -5513.58
+Highest fitness: -615 ==> by trainee with ID: 37123
+-------------- Generation: 372 -------------- 
+Average fitness: -5534.79
+Highest fitness: -741 ==> by trainee with ID: 37235
+-------------- Generation: 373 -------------- 
+Average fitness: -5483.08
+Highest fitness: -493 ==> by trainee with ID: 37319
+-------------- Generation: 374 -------------- 
+Average fitness: -5416.37
+Highest fitness: -616 ==> by trainee with ID: 37469
+-------------- Generation: 375 -------------- 
+Average fitness: -5462.39
+Highest fitness: -934 ==> by trainee with ID: 37529
+-------------- Generation: 376 -------------- 
+Average fitness: -5520.05
+Highest fitness: -937 ==> by trainee with ID: 37607
+-------------- Generation: 377 -------------- 
+Average fitness: -5510.82
+Highest fitness: 9 ==> by trainee with ID: 37795
+-------------- Generation: 378 -------------- 
+Average fitness: -5546.67
+Highest fitness: -926 ==> by trainee with ID: 37813
+-------------- Generation: 379 -------------- 
+Average fitness: -5510.48
+Highest fitness: -677 ==> by trainee with ID: 37911
+-------------- Generation: 380 -------------- 
+Average fitness: -5584.26
+Highest fitness: -1057 ==> by trainee with ID: 38039
+-------------- Generation: 381 -------------- 
+Average fitness: -5505.54
+Highest fitness: -683 ==> by trainee with ID: 38107
+-------------- Generation: 382 -------------- 
+Average fitness: -5567.86
+Highest fitness: -803 ==> by trainee with ID: 38201
+-------------- Generation: 383 -------------- 
+Average fitness: -5482.22
+Highest fitness: -434 ==> by trainee with ID: 38391
+-------------- Generation: 384 -------------- 
+Average fitness: -5492.49
+Highest fitness: -931 ==> by trainee with ID: 38407
+-------------- Generation: 385 -------------- 
+Average fitness: -5521.48
+Highest fitness: -1053 ==> by trainee with ID: 38501
+-------------- Generation: 386 -------------- 
+Average fitness: -5556.76
+Highest fitness: -935 ==> by trainee with ID: 38673
+-------------- Generation: 387 -------------- 
+Average fitness: -5534.93
+Highest fitness: -554 ==> by trainee with ID: 38735
+-------------- Generation: 388 -------------- 
+Average fitness: -5544.44
+Highest fitness: -745 ==> by trainee with ID: 38867
+-------------- Generation: 389 -------------- 
+Average fitness: -5481.92
+Highest fitness: -864 ==> by trainee with ID: 38987
+-------------- Generation: 390 -------------- 
+Average fitness: -5489.76
+Highest fitness: -493 ==> by trainee with ID: 39099
+-------------- Generation: 391 -------------- 
+Average fitness: -5596.62
+Highest fitness: -436 ==> by trainee with ID: 39135
+-------------- Generation: 392 -------------- 
+Average fitness: -5495.4
+Highest fitness: -371 ==> by trainee with ID: 39285
+-------------- Generation: 393 -------------- 
+Average fitness: -5560.87
+Highest fitness: -560 ==> by trainee with ID: 39323
+-------------- Generation: 394 -------------- 
+Average fitness: -5437.68
+Highest fitness: -813 ==> by trainee with ID: 39479
+-------------- Generation: 395 -------------- 
+Average fitness: -5576.19
+Highest fitness: -559 ==> by trainee with ID: 39593
+-------------- Generation: 396 -------------- 
+Average fitness: -5520.99
+Highest fitness: -678 ==> by trainee with ID: 39665
+-------------- Generation: 397 -------------- 
+Average fitness: -5569.36
+Highest fitness: -748 ==> by trainee with ID: 39793
+-------------- Generation: 398 -------------- 
+Average fitness: -5582.72
+Highest fitness: -623 ==> by trainee with ID: 39827
+-------------- Generation: 399 -------------- 
+Average fitness: -5526.88
+Highest fitness: -300 ==> by trainee with ID: 39951
+-------------- Generation: 400 -------------- 
+Average fitness: -5607.95
+Highest fitness: -368 ==> by trainee with ID: 40075
+-------------- Generation: 401 -------------- 
+Average fitness: -5503.09
+Highest fitness: -742 ==> by trainee with ID: 40135
+-------------- Generation: 402 -------------- 
+Average fitness: -5559.51
+Highest fitness: -804 ==> by trainee with ID: 40267
+-------------- Generation: 403 -------------- 
+Average fitness: -5560.21
+Highest fitness: -425 ==> by trainee with ID: 40371
+-------------- Generation: 404 -------------- 
+Average fitness: -5522.22
+Highest fitness: -494 ==> by trainee with ID: 40423
+-------------- Generation: 405 -------------- 
+Average fitness: -5529.44
+Highest fitness: -928 ==> by trainee with ID: 40545
+-------------- Generation: 406 -------------- 
+Average fitness: -5489.38
+Highest fitness: -304 ==> by trainee with ID: 40629
+-------------- Generation: 407 -------------- 
+Average fitness: -5549.84
+Highest fitness: -744 ==> by trainee with ID: 40725
+-------------- Generation: 408 -------------- 
+Average fitness: -5600.85
+Highest fitness: -1057 ==> by trainee with ID: 40897
+-------------- Generation: 409 -------------- 
+Average fitness: -5457.36
+Highest fitness: -994 ==> by trainee with ID: 40913
+-------------- Generation: 410 -------------- 
+Average fitness: -5583.54
+Highest fitness: -993 ==> by trainee with ID: 41023
+-------------- Generation: 411 -------------- 
+Average fitness: -5486.87
+Highest fitness: -619 ==> by trainee with ID: 41123
+-------------- Generation: 412 -------------- 
+Average fitness: -5512.59
+Highest fitness: -865 ==> by trainee with ID: 41271
+-------------- Generation: 413 -------------- 
+Average fitness: -5433.1
+Highest fitness: -307 ==> by trainee with ID: 41307
+-------------- Generation: 414 -------------- 
+Average fitness: -5370.35
+Highest fitness: -372 ==> by trainee with ID: 41425
+-------------- Generation: 415 -------------- 
+Average fitness: -5411.59
+Highest fitness: -425 ==> by trainee with ID: 41517
+-------------- Generation: 416 -------------- 
+Average fitness: -5414.28
+Highest fitness: -305 ==> by trainee with ID: 41651
+-------------- Generation: 417 -------------- 
+Average fitness: -5479.38
+Highest fitness: -872 ==> by trainee with ID: 41785
+-------------- Generation: 418 -------------- 
+Average fitness: -5392.54
+Highest fitness: -426 ==> by trainee with ID: 41845
+-------------- Generation: 419 -------------- 
+Average fitness: -5496.61
+Highest fitness: -870 ==> by trainee with ID: 41913
+-------------- Generation: 420 -------------- 
+Average fitness: -5410.54
+Highest fitness: -431 ==> by trainee with ID: 42059
+-------------- Generation: 421 -------------- 
+Average fitness: -5397.1
+Highest fitness: -302 ==> by trainee with ID: 42121
+-------------- Generation: 422 -------------- 
+Average fitness: -5361.88
+Highest fitness: -174 ==> by trainee with ID: 42261
+-------------- Generation: 423 -------------- 
+Average fitness: -5343.36
+Highest fitness: -877 ==> by trainee with ID: 42353
+-------------- Generation: 424 -------------- 
+Average fitness: -5414.74
+Highest fitness: -367 ==> by trainee with ID: 42499
+-------------- Generation: 425 -------------- 
+Average fitness: -5420.52
+Highest fitness: -676 ==> by trainee with ID: 42529
+-------------- Generation: 426 -------------- 
+Average fitness: -5471.41
+Highest fitness: -620 ==> by trainee with ID: 42693
+-------------- Generation: 427 -------------- 
+Average fitness: -5391.21
+Highest fitness: -681 ==> by trainee with ID: 42749
+-------------- Generation: 428 -------------- 
+Average fitness: -5406.01
+Highest fitness: -672 ==> by trainee with ID: 42845
+-------------- Generation: 429 -------------- 
+Average fitness: -5265.14
+Highest fitness: -683 ==> by trainee with ID: 42921
+-------------- Generation: 430 -------------- 
+Average fitness: -5381.27
+Highest fitness: -928 ==> by trainee with ID: 43003
+-------------- Generation: 431 -------------- 
+Average fitness: -5459.95
+Highest fitness: -811 ==> by trainee with ID: 43193
+-------------- Generation: 432 -------------- 
+Average fitness: -5373.14
+Highest fitness: -561 ==> by trainee with ID: 43243
+-------------- Generation: 433 -------------- 
+Average fitness: -5452.88
+Highest fitness: -868 ==> by trainee with ID: 43389
+-------------- Generation: 434 -------------- 
+Average fitness: -5345.56
+Highest fitness: -430 ==> by trainee with ID: 43463
+-------------- Generation: 435 -------------- 
+Average fitness: -5388.38
+Highest fitness: -54 ==> by trainee with ID: 43523
+-------------- Generation: 436 -------------- 
+Average fitness: -5434.18
+Highest fitness: -184 ==> by trainee with ID: 43669
+-------------- Generation: 437 -------------- 
+Average fitness: -5388.04
+Highest fitness: -310 ==> by trainee with ID: 43789
+-------------- Generation: 438 -------------- 
+Average fitness: -5454.34
+Highest fitness: -560 ==> by trainee with ID: 43871
+-------------- Generation: 439 -------------- 
+Average fitness: -5469.06
+Highest fitness: -804 ==> by trainee with ID: 43919
+-------------- Generation: 440 -------------- 
+Average fitness: -5463.95
+Highest fitness: -681 ==> by trainee with ID: 44057
+-------------- Generation: 441 -------------- 
+Average fitness: -5472.26
+Highest fitness: -372 ==> by trainee with ID: 44107
+-------------- Generation: 442 -------------- 
+Average fitness: -5493.89
+Highest fitness: -1183 ==> by trainee with ID: 44279
+-------------- Generation: 443 -------------- 
+Average fitness: -5436.69
+Highest fitness: -931 ==> by trainee with ID: 44399
+-------------- Generation: 444 -------------- 
+Average fitness: -5483.72
+Highest fitness: -432 ==> by trainee with ID: 44469
+-------------- Generation: 445 -------------- 
+Average fitness: -5495.2
+Highest fitness: -800 ==> by trainee with ID: 44529
+-------------- Generation: 446 -------------- 
+Average fitness: -5425.07
+Highest fitness: -796 ==> by trainee with ID: 44627
+-------------- Generation: 447 -------------- 
+Average fitness: -5424.62
+Highest fitness: -682 ==> by trainee with ID: 44753
+-------------- Generation: 448 -------------- 
+Average fitness: -5446.29
+Highest fitness: -619 ==> by trainee with ID: 44847
+-------------- Generation: 449 -------------- 
+Average fitness: -5485.46
+Highest fitness: -930 ==> by trainee with ID: 44971
+-------------- Generation: 450 -------------- 
+Average fitness: -5380.71
+Highest fitness: -302 ==> by trainee with ID: 45057
+-------------- Generation: 451 -------------- 
+Average fitness: -5380.92
+Highest fitness: -802 ==> by trainee with ID: 45199
+-------------- Generation: 452 -------------- 
+Average fitness: -5467.47
+Highest fitness: -805 ==> by trainee with ID: 45287
+-------------- Generation: 453 -------------- 
+Average fitness: -5480.41
+Highest fitness: -811 ==> by trainee with ID: 45333
+-------------- Generation: 454 -------------- 
+Average fitness: -5449.72
+Highest fitness: -873 ==> by trainee with ID: 45481
+-------------- Generation: 455 -------------- 
+Average fitness: -5437.54
+Highest fitness: -426 ==> by trainee with ID: 45543
+-------------- Generation: 456 -------------- 
+Average fitness: -5419.59
+Highest fitness: -676 ==> by trainee with ID: 45669
+-------------- Generation: 457 -------------- 
+Average fitness: -5521.52
+Highest fitness: -674 ==> by trainee with ID: 45727
+-------------- Generation: 458 -------------- 
+Average fitness: -5363.64
+Highest fitness: -553 ==> by trainee with ID: 45811
+-------------- Generation: 459 -------------- 
+Average fitness: -5506.74
+Highest fitness: -811 ==> by trainee with ID: 45925
+-------------- Generation: 460 -------------- 
+Average fitness: -5477.15
+Highest fitness: -805 ==> by trainee with ID: 46043
+-------------- Generation: 461 -------------- 
+Average fitness: -5406.22
+Highest fitness: -671 ==> by trainee with ID: 46193
+-------------- Generation: 462 -------------- 
+Average fitness: -5432.24
+Highest fitness: -556 ==> by trainee with ID: 46275
+-------------- Generation: 463 -------------- 
+Average fitness: -5415.74
+Highest fitness: -809 ==> by trainee with ID: 46391
+-------------- Generation: 464 -------------- 
+Average fitness: -5460.4
+Highest fitness: -304 ==> by trainee with ID: 46475
+-------------- Generation: 465 -------------- 
+Average fitness: -5511.52
+Highest fitness: -749 ==> by trainee with ID: 46567
+-------------- Generation: 466 -------------- 
+Average fitness: -5508.11
+Highest fitness: -618 ==> by trainee with ID: 46679
+-------------- Generation: 467 -------------- 
+Average fitness: -5489.57
+Highest fitness: -556 ==> by trainee with ID: 46781
+-------------- Generation: 468 -------------- 
+Average fitness: -5503.36
+Highest fitness: -431 ==> by trainee with ID: 46831
+-------------- Generation: 469 -------------- 
+Average fitness: -5440.24
+Highest fitness: -307 ==> by trainee with ID: 46923
+-------------- Generation: 470 -------------- 
+Average fitness: -5392.85
+Highest fitness: -929 ==> by trainee with ID: 47083
+-------------- Generation: 471 -------------- 
+Average fitness: -5365.04
+Highest fitness: -744 ==> by trainee with ID: 47147
+-------------- Generation: 472 -------------- 
+Average fitness: -5446.62
+Highest fitness: -50 ==> by trainee with ID: 47287
+-------------- Generation: 473 -------------- 
+Average fitness: -5434.28
+Highest fitness: -807 ==> by trainee with ID: 47361
+-------------- Generation: 474 -------------- 
+Average fitness: -5341.79
+Highest fitness: -118 ==> by trainee with ID: 47423
+-------------- Generation: 475 -------------- 
+Average fitness: -5486.55
+Highest fitness: -617 ==> by trainee with ID: 47575
+-------------- Generation: 476 -------------- 
+Average fitness: -5481.45
+Highest fitness: -689 ==> by trainee with ID: 47699
+-------------- Generation: 477 -------------- 
+Average fitness: -5436.09
+Highest fitness: -549 ==> by trainee with ID: 47707
+-------------- Generation: 478 -------------- 
+Average fitness: -5463.82
+Highest fitness: -553 ==> by trainee with ID: 47811
+-------------- Generation: 479 -------------- 
+Average fitness: -5441.56
+Highest fitness: -306 ==> by trainee with ID: 47937
+-------------- Generation: 480 -------------- 
+Average fitness: -5487.73
+Highest fitness: -807 ==> by trainee with ID: 48099
+-------------- Generation: 481 -------------- 
+Average fitness: -5430.6
+Highest fitness: -811 ==> by trainee with ID: 48199
+-------------- Generation: 482 -------------- 
+Average fitness: -5519.67
+Highest fitness: -744 ==> by trainee with ID: 48251
+-------------- Generation: 483 -------------- 
+Average fitness: -5444.33
+Highest fitness: -804 ==> by trainee with ID: 48309
+-------------- Generation: 484 -------------- 
+Average fitness: -5449.94
+Highest fitness: -301 ==> by trainee with ID: 48459
+-------------- Generation: 485 -------------- 
+Average fitness: -5476.22
+Highest fitness: -495 ==> by trainee with ID: 48597
+-------------- Generation: 486 -------------- 
+Average fitness: -5451.1
+Highest fitness: -435 ==> by trainee with ID: 48699
+-------------- Generation: 487 -------------- 
+Average fitness: -5378.9
+Highest fitness: -677 ==> by trainee with ID: 48719
+-------------- Generation: 488 -------------- 
+Average fitness: -5474.56
+Highest fitness: -992 ==> by trainee with ID: 48837
+-------------- Generation: 489 -------------- 
+Average fitness: -5466.35
+Highest fitness: -680 ==> by trainee with ID: 48931
+-------------- Generation: 490 -------------- 
+Average fitness: -5444.39
+Highest fitness: -931 ==> by trainee with ID: 49099
+-------------- Generation: 491 -------------- 
+Average fitness: -5443.38
+Highest fitness: -176 ==> by trainee with ID: 49177
+-------------- Generation: 492 -------------- 
+Average fitness: -5416.25
+Highest fitness: -680 ==> by trainee with ID: 49235
+-------------- Generation: 493 -------------- 
+Average fitness: -5410.36
+Highest fitness: -622 ==> by trainee with ID: 49315
+-------------- Generation: 494 -------------- 
+Average fitness: -5468.9
+Highest fitness: -368 ==> by trainee with ID: 49455
+-------------- Generation: 495 -------------- 
+Average fitness: -5462.6
+Highest fitness: -996 ==> by trainee with ID: 49527
+-------------- Generation: 496 -------------- 
+Average fitness: -5498
+Highest fitness: -614 ==> by trainee with ID: 49621
+-------------- Generation: 497 -------------- 
+Average fitness: -5394.86
+Highest fitness: -616 ==> by trainee with ID: 49745
+-------------- Generation: 498 -------------- 
+Average fitness: -5564.98
+Highest fitness: -803 ==> by trainee with ID: 49897
+-------------- Generation: 499 -------------- 
+Average fitness: -5399.59
+Highest fitness: -800 ==> by trainee with ID: 49953

@@ -31,7 +31,7 @@ public class EvolutionSim : MonoBehaviour
             mutationChance
             );
 
-        if (sourceNeuralNetFileName != null)
+        if (!string.IsNullOrEmpty(sourceNeuralNetFileName))
             sourceNeuralNet = new SimpleNN(JSONHandler.Read("/NN Evolution" + sourceNeuralNetFileName));
 
         //if (opponentNNFileName != null)

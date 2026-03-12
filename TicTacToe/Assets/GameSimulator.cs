@@ -20,10 +20,9 @@ public class GameSimulator
         this.trainee = (Agent)trainee;
         this.opponent = opponent;
 
-        //the goingFirst flag is used to determine how the board is represented to the NNAgent
         //the agent itself always sees itself as 1 while the opponent is -1 on the board
-        trainee.SetGoingFirst(traineeMovesFirst);
-        opponent.SetGoingFirst(!traineeMovesFirst);
+        //we tell opponent to flip their perception of the board, so that if it is a NN, it will see itself as 1
+        opponent.SetFlipBoard(true);
 
         currentPlayer = traineeMovesFirst ? SimulatedPlayer.Trainee : SimulatedPlayer.Opponent;
     }

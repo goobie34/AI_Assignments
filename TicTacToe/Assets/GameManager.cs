@@ -1,21 +1,8 @@
-using System.Data;
-using Unity.VisualScripting;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.Rendering;
 
 public enum Player{
     Human = 1,
     AI = -1
-}
-
-public enum GameState
-{
-    PreGame,
-    PlayerA,
-    PlayerB,
-    PostGame
 }
 
 public class GameManager : MonoBehaviour

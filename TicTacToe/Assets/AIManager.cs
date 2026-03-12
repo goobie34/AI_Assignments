@@ -44,7 +44,7 @@ public class AIManager : MonoBehaviour
                 }
         }
 
-        agent.SetGoingFirst(true);
+        agent.SetFlipBoard(true);
     }
 
     public int GetMove(int[] board)

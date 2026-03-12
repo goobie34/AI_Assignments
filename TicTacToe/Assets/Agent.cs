@@ -1,10 +1,9 @@
 using System;
-using System.Diagnostics;
-using System.Linq;
+
 public interface Agent
 {
     public int MakeMove(int[] input);
-    public void SetGoingFirst(bool goingFirst);
+    public void SetFlipBoard(bool goingFirst);
 }
 
 public class RandomAgent : Agent
@@ -39,14 +38,16 @@ public class RandomAgent : Agent
         int randomIndex = rnd.Next(0, n_legalMoves); //pick a random legal move
         return legalMoves[randomIndex];
     }
-    public void SetGoingFirst(bool goingFirst) { }
+    public void SetFlipBoard(bool goingFirst) { }
 }
 
 public class NNAgent : Agent
 {
     SimpleNN network;
     bool blockIllegalMoves = false;
-    bool goingFirst = false;
+    bool flipBoard = false;
+    //string debugLog = string.Empty;
+    //public string DebugLog { get { return debugLog; } }
     public SimpleNN Network { get { return network; } }
     public NNAgent(int[] networkShape, bool blockIllegalMoves = false)
     {
@@ -76,13 +77,28 @@ public class NNAgent : Agent
         //flip input values so that on the board:
         //this agents' moves    = 1
         //their opponents moves = -1
-        if (!goingFirst)
+
+        //debugLog = "BOARD STATE b4 flip:\n";
+        //foreach (float boardSlot in float_input)
+        //{
+        //    debugLog += "[" + boardSlot.ToString() + "] ";
+        //}
+        //debugLog += "\n";
+
+        if (flipBoard)
         {
             for (int i = 0; i < float_input.Length; i++)
             {
                 float_input[i] *= -1;
             }
         }
+
+        //debugLog += "BOARD STATE:\n";
+        //foreach (float boardSlot in float_input)
+        //{
+        //    debugLog += "[" + boardSlot.ToString() + "] ";
+        //}
+        //debugLog += "\n Flipped board: " + (flipBoard ? "yes" : "no") + "\n";
 
         float[] outputs = network.Brain(float_input);
 
@@ -101,12 +117,18 @@ public class NNAgent : Agent
             }
         }
 
+
+        //debugLog += "making move: " + bestMoveIndex.ToString() + "\n";
+        //UnityEngine.Debug.Log(debugLog);
+
         if (bestMoveIndex < 0 || input[bestMoveIndex] != 0) //no valid moves
             return -1;
 
+
+
         return bestMoveIndex;
     }
-    public void SetGoingFirst(bool goingFirst) { this.goingFirst = goingFirst; }
+    public void SetFlipBoard(bool goingFirst) { this.flipBoard = goingFirst; }
 
     public NNAgent Clone()
     {

@@ -42,7 +42,7 @@ public enum SimulationResult
     Win = 30,
     Lose = -40,
     Draw = 10,
-    IllegalMove = -100
+    IllegalMove = -1000
 }
 public class TrainingSimulator
 {

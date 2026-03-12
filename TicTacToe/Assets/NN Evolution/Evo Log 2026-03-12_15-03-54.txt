@@ -1,0 +1,10 @@
+--- Evolution Log: --- 
+Num of trainees: 1
+Num of generations: 1
+Num of survivors per gen: 1
+Num of games per gen: 1
+Mutation chance: 0.1
+Mutation amount: 0.1
+-------------- Generation: 0 -------------- 
+Average fitness: 27
+Highest fitness: 27 ==> by trainee with ID: 1
