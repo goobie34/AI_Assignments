@@ -1,4 +1,7 @@
+using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public enum Player{
     Human = 1,
@@ -9,8 +12,14 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance = null;
     [SerializeField] GridManager grid;
-    [SerializeField] AIManager aiManager;
+    [SerializeField] AIAgentManager aiManager;
     [SerializeField] Player startingPlayer = Player.Human;
+
+    [SerializeField] TextMeshProUGUI humanScore_text;
+    [SerializeField] TextMeshProUGUI aiScore_text;
+    [SerializeField] TextMeshProUGUI illegalMoveCount_text;
+    [SerializeField] TextMeshProUGUI drawCount_text;
+    int illegalMoveCount, humanScore, aiScore, drawCount = 0;
 
     int[] board = new int[9];
     Player currentPlayer = Player.Human;
@@ -64,6 +73,8 @@ public class GameManager : MonoBehaviour
             {
                 Debug.Log("WARNING: AI BROKE THE RULES");
                 Debug.Log("RESULT: " + Player.Human.ToString() + " WINS");
+                humanScore++;
+                illegalMoveCount++;
                 StartGame(startingPlayer);
             }
         }
@@ -152,16 +163,33 @@ public class GameManager : MonoBehaviour
         if (CheckForWin())
         {
             Debug.Log("RESULT: " + currentPlayer.ToString() + " WINS!");
+            if (currentPlayer == Player.Human) humanScore++;
+            else if (currentPlayer == Player.AI) aiScore++;
             StartGame(startingPlayer);
             return true;
         }
 
         if (IsBoardFull()) {
             Debug.Log("RESULT: DRAW");
+            drawCount++;
             StartGame(startingPlayer);
             return true;
         }
 
         return false;
+    }
+
+    private void Update()
+    {
+        humanScore_text.text = humanScore.ToString();
+        aiScore_text.text = aiScore.ToString();
+        illegalMoveCount_text.text = illegalMoveCount.ToString();
+        drawCount_text.text = drawCount.ToString();
+    }
+
+    public void ResetGame()
+    {
+        aiScore = humanScore = illegalMoveCount = drawCount = 0;
+        StartGame(startingPlayer);
     }
 }

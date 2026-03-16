@@ -4,6 +4,7 @@ public interface Agent
 {
     public int MakeMove(int[] input);
     public void SetFlipBoard(bool goingFirst);
+    public void SetBlockIllegalMoves(bool blockIllegalMoves);
 }
 
 public class RandomAgent : Agent
@@ -39,6 +40,7 @@ public class RandomAgent : Agent
         return legalMoves[randomIndex];
     }
     public void SetFlipBoard(bool goingFirst) { }
+    public void SetBlockIllegalMoves(bool blockIllegalMoves) { }
 }
 
 public class NNAgent : Agent
@@ -129,6 +131,7 @@ public class NNAgent : Agent
         return bestMoveIndex;
     }
     public void SetFlipBoard(bool goingFirst) { this.flipBoard = goingFirst; }
+    public void SetBlockIllegalMoves(bool blockIllegalMoves) { this.blockIllegalMoves = blockIllegalMoves; }
 
     public NNAgent Clone()
     {

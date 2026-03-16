@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class EvolutionSim : MonoBehaviour
+public class EvolutionManager : MonoBehaviour
 {
     TrainingSimulator trainingSim;
     [SerializeField] int[] networkShape;

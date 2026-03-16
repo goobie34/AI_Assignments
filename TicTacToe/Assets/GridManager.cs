@@ -14,7 +14,7 @@ public class GridManager : MonoBehaviour
 
     public void MakeMove(int move, Player player)
     {
-        playerPieces[move] = Instantiate(player == Player.Human ? playerPieceA : playerPieceB, tiles[move].transform.position, Quaternion.identity, this.gameObject.transform);
+        playerPieces[move] = Instantiate(player == Player.Human ? playerPieceA : playerPieceB, tiles[move].transform.position + new Vector3(0, 0, -0.1f), Quaternion.identity, this.gameObject.transform);
     }
 
     public void ClearBoard()
