@@ -1,7 +1,6 @@
+using System;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
 
 public enum Player{
     Human = 1,
@@ -191,5 +190,10 @@ public class GameManager : MonoBehaviour
     {
         aiScore = humanScore = illegalMoveCount = drawCount = 0;
         StartGame(startingPlayer);
+    }
+
+    public void OnEscape()
+    {
+        Application.Quit();
     }
 }
