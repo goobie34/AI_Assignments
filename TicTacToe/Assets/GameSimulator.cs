@@ -1,4 +1,3 @@
-
 public class GameSimulator
 {
     private enum SimulatedPlayer

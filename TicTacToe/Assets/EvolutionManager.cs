@@ -17,8 +17,15 @@ public class EvolutionManager : MonoBehaviour
     [SerializeField] float mutationAmount;
     [SerializeField] float mutationChance;
 
+    [HeaderAttribute("Testing parameters:")]
+    [SerializeField] bool runTestInsteadOfEvolution;
+    [SerializeField] int numOfTestGames;
+    [SerializeField] string testNeuralNetFileName;
+
+
     Agent opponent;
     SimpleNN sourceNeuralNet;
+    SimpleNN testNeuralNet;
 
     private void Awake()
     {
@@ -33,17 +40,28 @@ public class EvolutionManager : MonoBehaviour
 
         if (!string.IsNullOrEmpty(sourceNeuralNetFileName))
             sourceNeuralNet = new SimpleNN(JSONHandler.Read("/NN Evolution" + sourceNeuralNetFileName));
-
+        
         //if (opponentNNFileName != null)
         //    opponent = new NNAgent(new SimpleNN(JSONHandler.Read("/NN Evolution" + opponentNNFileName)));
 
         opponent = new RandomAgent();
-
         trainingSim = new TrainingSimulator(networkShape, opponent, desc, sourceNeuralNet);
-        SimpleNN winner = trainingSim.Run();
+        
+        if (runTestInsteadOfEvolution) //run test INSTEAD of evolution
+        {
+            if (!string.IsNullOrEmpty(testNeuralNetFileName))
+                testNeuralNet = new SimpleNN(JSONHandler.Read("/NN Evolution" + testNeuralNetFileName));
 
-        //Save neuralnet winner and evolution log to file
-        JSONHandler.Write(winner.ToJson(), outputFolderPath + "/Evo NN " + DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".json");
-        JSONHandler.Write(trainingSim.Log, outputFolderPath + "/Evo Log " + DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".txt");
+            string testResult = trainingSim.Test(testNeuralNet, numOfTestGames, testNeuralNetFileName);
+            JSONHandler.Write(testResult, outputFolderPath + "/NN TEST " + DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".txt");
+        }
+        else //run evolution sim
+        {
+            SimpleNN winner = trainingSim.Run();
+
+            //Save neuralnet winner and evolution log to file
+            JSONHandler.Write(winner.ToJson(), outputFolderPath + "/Evo NN " + DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".json");
+            JSONHandler.Write(trainingSim.Log, outputFolderPath + "/Evo Log " + DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss") + ".txt");
+        }
     }
 }

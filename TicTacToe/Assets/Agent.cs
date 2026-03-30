@@ -1,5 +1,4 @@
 using System;
-
 public interface Agent
 {
     public int MakeMove(int[] input);

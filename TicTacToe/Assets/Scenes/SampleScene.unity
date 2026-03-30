@@ -184,8 +184,8 @@ MonoBehaviour:
   blockIllegalMoves: 1
   fileName: /Evo NN 2026-03-05_11-05-47.json
   fileNames:
-  - /Evo NN 2026-03-05_11-05-47.json
   - /Evo NN 2026-03-05_10-58-28.json
+  - /Evo NN 2026-03-05_11-05-47.json
   - /Evo NN 2026-03-12_15-49-46.json
   randomNeuralNetShape: 
   mutationChance: 0
@@ -3304,13 +3304,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   networkShape: 09000000090000000900000009000000
   outputFolderPath: /NN Evolution
-  sourceNeuralNetFileName: /Evo NN 2026-03-05_11-05-47.json
+  sourceNeuralNetFileName: 
   n_trainees: 100
   n_generations: 1000
   n_survivors: 10
   n_gamesPerGeneration: 100
   mutationAmount: 0.08
   mutationChance: 0.09
+  runTestInsteadOfEvolution: 0
+  numOfTestGames: 10000
+  testNeuralNetFileName: /Evo NN 2026-03-05_11-05-47.json
 --- !u!4 &1368437943
 Transform:
   m_ObjectHideFlags: 0

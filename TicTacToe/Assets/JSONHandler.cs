@@ -1,7 +1,9 @@
-
 using System.IO;
 using UnityEngine;
 
+/// <summary>
+/// A class used for general file reading/writing.
+/// </summary>
 public static class JSONHandler
 {
     public static void Write(string input, string filePath)
@@ -16,6 +18,4 @@ public static class JSONHandler
         sr.Close();
         return data;
     }
-
-
 }

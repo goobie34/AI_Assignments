@@ -1,0 +1,6 @@
+--- Test Log ---
+Name: /Evo NN 2026-03-05_11-05-47.json
+Games Played: 10
+Total Fitness: -5879
+Average Fitness: -587.9
+--- End of Log ---

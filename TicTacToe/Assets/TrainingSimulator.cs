@@ -103,6 +103,52 @@ public class TrainingSimulator
         return GetTopPerformers(1)[0];
     }
 
+    //Test() is used to meassure the performance of a NN against a random bot for x number of games
+    public string Test(SimpleNN source, int numOfGames, string sourceName, bool blockIllegalMoves = false)
+    {
+        //Test data
+        string output = "";
+        float averageFitness = 0;
+        int gamesPlayed = 0;
+        int totalFitness = 0;
+        NNAgent sourceAgent = new NNAgent(source);
+        sourceAgent.SetBlockIllegalMoves(blockIllegalMoves);
+
+        //Run test games and calculate total fitness score
+        while(gamesPlayed < numOfGames)
+        {
+            gameSimulator = new GameSimulator(sourceAgent, opponent, gamesPlayed % 2 == 0);
+            SimulationResult result = gameSimulator.Run();
+            switch (result) {
+                case SimulationResult.Win: {
+                    totalFitness += (int)result;
+                    totalFitness -= gameSimulator.NumOfLegalTraineeMoves; //higher score the faster the win
+                    break;
+                }
+                case SimulationResult.Draw: {
+                        totalFitness += (int)result;
+                        break;
+                    }
+                default: {
+                    totalFitness += (int)result;
+                    totalFitness += gameSimulator.NumOfLegalTraineeMoves; //the more legal moves made before losing or doing an illegal move, the better
+                    break;
+                }
+            }
+            gamesPlayed++;
+        }
+        
+        //Log result and calculate average fitness score
+        averageFitness = (float)totalFitness / (float)numOfGames;
+        output += "--- Test Log ---\n";
+        output += "Name: " + sourceName + "\n";
+        output += "Games Played: " + numOfGames + "\n";
+        output += "Total Fitness: " + totalFitness + "\n";
+        output += "Average Fitness: " + averageFitness + "\n";
+        output += "--- End of Log ---\n";
+        return output;
+    }
+
     private void CalculateFitness()
     {
         for (int i = 0; i < trainees.Length; i++)
